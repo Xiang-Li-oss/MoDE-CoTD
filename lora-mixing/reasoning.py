@@ -67,7 +67,6 @@ if __name__ == "__main__":
     arg_parser.add_argument('--lora', type=str, default='xl')
     arg_parser.add_argument('--output_path', type=str, default='results')
     arg_parser.add_argument('--inference_batch_size', type=int, default=16)
-    arg_parser.add_argument('--lora_sample', type=int, default=0)
 
 
     args = arg_parser.parse_args()
