@@ -1,0 +1,722 @@
+[
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The school cafeteria ordered 42 red apples and 7 green apples for students lunches. But, if only 9 students wanted fruit, how many extra did the cafeteria end up with?\nA:",
+    "output": "40"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ned had to wash 9 short sleeve shirts and 21 long sleeve shirts before school. If he had only washed 29 of them by the time school started, how many did he not wash?\nA:",
+    "output": "1"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For the school bake sale Wendy made pastries. She baked 4 cupcakes and 29 cookies. After the sale she had 24 to take back home. How many pastries did she sell?\nA:",
+    "output": "9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Katie picked 3 tulips and 9 roses to make flower bouquets. If she only used 10 of the flowers though, how many extra flowers did Katie pick?\nA:",
+    "output": "2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ned was trying to expand his game collection. He bought 11 games from a friend and bought 22 more at a garage sale. If 19 of the games didn't work, how many good games did he end up with?\nA:",
+    "output": "14"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Bianca and her mom were picking carrots from their garden. Bianca picked 26 and her mother picked 15. If only 16 of the carrots were good, how many bad carrots did they have?\nA:",
+    "output": "25"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Henry had 11 dollars. For his birthday he got 18 more dollars but spent 10 on a new game. How much money does he have now?\nA:",
+    "output": "19"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While on vacation, Gwen took 41 pictures at the zoo and 29 at the museum. If she later deleted 15 of the pictures, how many pictures from her vacation did she still have?\nA:",
+    "output": "55"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam had to wash 40 short sleeve shirts and 23 long sleeve shirts before school. If he had only washed 29 of them by the time school started, how many did he not wash?\nA:",
+    "output": "34"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The school cafeteria ordered 43 red apples and 32 green apples for students lunches. But, if only 2 students wanted fruit, how many extra did the cafeteria end up with?\nA:",
+    "output": "73"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Carol was playing a trivia game. In the first round she scored 17 points and in the second round she scored 6 points. In the last round she lost 16 points. How many points did she have at the end of the game?\nA:",
+    "output": "7"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 30 girls and 36 boys trying out for the schools basketball team. If only 10 of them got called back, how many students didn't make the cut?\nA:",
+    "output": "56"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the schools book fair Sam bought 13 adventure books and 17 mystery books. If 15 of the books were used, how many new books did he buy?\nA:",
+    "output": "15"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Amy had 26 music files and 36 video files on her flash drive. If she deleted 48 of the files, how many files were still on her flash drive?\nA:",
+    "output": "14"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Oliver had 35 dollars. For his birthday he got 50 more dollars but spent 84 on a new game. How much money does he have now?\nA:",
+    "output": "1"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Emily was playing a trivia game. In the first round she scored 16 points and in the second round she scored 33 points. In the last round she lost 48 points. How many points did she have at the end of the game?\nA:",
+    "output": "1"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While on vacation, Rachel took 6 pictures at the zoo and 9 at the museum. If she later deleted 11 of the pictures, how many pictures from her vacation did she still have?\nA:",
+    "output": "4"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Emily was playing a trivia game. In the first round she scored 16 points and in the second round she scored 33 points. In the last round she lost 48 points. How many points did she have at the end of the game?\nA:",
+    "output": "1"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While on vacation, Rachel took 6 pictures at the zoo and 9 at the museum. If she later deleted 11 of the pictures, how many pictures from her vacation did she still have?\nA:",
+    "output": "4"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Vanessa and her mom were picking carrots from their garden. Vanessa picked 17 and her mother picked 14. If only 24 of the carrots were good, how many bad carrots did they have?\nA:",
+    "output": "7"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: George had 30 dollars. For his birthday he got 16 more dollars but spent 38 on a new game. How much money does he have now?\nA:",
+    "output": "8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the schools book fair Victor bought 32 adventure books and 37 mystery books. If 16 of the books were used, how many new books did he buy?\nA:",
+    "output": "53"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The school cafeteria ordered 37 red apples and 45 green apples for students lunches. But, if only 51 students wanted fruit, how many extra did the cafeteria end up with?\nA:",
+    "output": "31"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tom had to wash 10 short sleeve shirts and 25 long sleeve shirts before school. If he had only washed 5 of them by the time school started, how many did he not wash?\nA:",
+    "output": "30"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kaleb started his own lawn mowing business. In the spring he made 4 dollars mowing lawns and in the summer he made 50 dollars. If he had to spend 4 dollars buying supplies, how much money did he end up with?\nA:",
+    "output": "50"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The school cafeteria ordered 6 red apples and 15 green apples for students lunches. But, if only 5 students wanted fruit, how many extra did the cafeteria end up with?\nA:",
+    "output": "16"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While on vacation, Nancy took 49 pictures at the zoo and 8 at the museum. If she later deleted 38 of the pictures, how many pictures from her vacation did she still have?\nA:",
+    "output": "19"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Gwen had 18 math problems and 11 science problems for homework. If she finished 24 of the problems at school, how many problems did she have to do for homework?\nA:",
+    "output": "5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For Halloween Katie and her sister combined the candy they received. Katie had 10 pieces of candy while her sister had 6. If they ate 9 pieces the first night, how many pieces do they have left?\nA:",
+    "output": "7"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 9 girls and 14 boys trying out for the schools basketball team. If only 2 of them got called back, how many students didn't make the cut?\nA:",
+    "output": "21"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Haley had 27 music files and 42 video files on her flash drive. If she deleted 11 of the files, how many files were still on her flash drive?\nA:",
+    "output": "58"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A waiter at 'The Greasy Spoon' restaurant had 26 customers to wait on. During the lunch rush he added another 27 customers. If 27 of the customers didn't leave him a tip, how many customers did leave a tip?\nA:",
+    "output": "26"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For Halloween Katie and her sister combined the candy they received. Katie had 8 pieces of candy while her sister had 23. If they ate 8 pieces the first night, how many pieces do they have left?\nA:",
+    "output": "23"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ned was trying to expand his game collection. He bought 50 games from a friend and bought 27 more at a garage sale. If 74 of the games didn't work, how many good games did he end up with?\nA:",
+    "output": "3"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the arcade, Jerry won 29 tickets playing 'whack a mole' and 17 tickets playing 'skee ball'. If he spent 12 of his tickets on a hat, how many tickets does Jerry have left?\nA:",
+    "output": "34"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Cody had 45 dollars. For his birthday he got 9 more dollars but spent 19 on a new game. How much money does he have now?\nA:",
+    "output": "35"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the fair there were 9 people in line for the bumper cars. If 6 of them got tired of waiting and left and 3 more got in line, how many people would be in line?\nA:",
+    "output": "6"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A teacher had 7 worksheets to grade. If she graded 2, but then another 46 were turned in, how many worksheets would she have to grade?\nA:",
+    "output": "51"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paige had 8 songs on her mp3 player. If she deleted 5 old songs from it and then added 30 new songs, how many songs does she have on her mp3 player?\nA:",
+    "output": "33"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In fourth grade there were 33 students at the start of the year. During the year 18 students left and 14 new students came to school. How many students were in fourth grade at the end?\nA:",
+    "output": "29"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Adam had 5 dollars. At the store he spent $2 on a new game. If he got another 5 dollars for his allowance, how much money does he have now?\nA:",
+    "output": "8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the fair there were 12 people in line for the bumper cars. If 10 of them got tired of waiting and left and 15 more got in line, how many people would be in line?\nA:",
+    "output": "17"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the fair there were 30 people in line for the bumper cars. If 10 of them got tired of waiting and left and 5 more got in line, how many people would be in line?\nA:",
+    "output": "25"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paige had 11 songs on her mp3 player. If she deleted 9 old songs from it and then added 8 new songs, how many songs does she have on her mp3 player?\nA:",
+    "output": "10"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In fourth grade there were 40 students at the start of the year. During the year 14 students left and 26 new students came to school. How many students were in fourth grade at the end?\nA:",
+    "output": "52"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the arcade Cody won 49 tickets. If he spent 25 tickets on a beanie and later won 6 more tickets, how many would he have?\nA:",
+    "output": "30"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For the school bake sale Bianca made 14 cupcakes. If she sold 6 of them and then made 17 more, how many cupcakes would she have?\nA:",
+    "output": "25"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Bianca had 45 coloring books. If she gave away 6 of them, but then bought 20 more, how many would she have total?\nA:",
+    "output": "59"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Zoe had 15 songs on her mp3 player. If she deleted 8 old songs from it and then added 50 new songs, how many songs does she have on her mp3 player?\nA:",
+    "output": "57"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Rachel was playing a video game and had 10 lives. In a hard part of the game she lost 4 lives. If she got 26 more lives in the next level, how many lives would she have?\nA:",
+    "output": "32"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Edward had 43 books. If he sold 19 of them and used the money he earned to buy 14 new books, how many books would Edward have?\nA:",
+    "output": "38"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A store had 40 oranges in a bin. If they threw away 37 of the old ones and put 7 new ones in the bin how many would be in the bin?\nA:",
+    "output": "10"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the arcade Victor won 46 tickets. If he spent 27 tickets on a beanie and later won 39 more tickets, how many would he have?\nA:",
+    "output": "58"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Chloe picked 48 carrots from her garden. If she threw out 45 of them and then picked 42 more the next day, how many carrots would she have total?\nA:",
+    "output": "45"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Maria had 14 bottles of water in her fridge. If she drank 8 of them and then bought 45 more, how many bottles would she have?\nA:",
+    "output": "51"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A teacher had 34 worksheets to grade. If she graded 7, but then another 36 were turned in, how many worksheets would she have to grade?\nA:",
+    "output": "63"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The school cafeteria had 17 apples. If they used 2 to make lunch for the students and then bought 23 more, how many apples would they have?\nA:",
+    "output": "38"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: John had 33 socks. If he threw away 19 old ones that didn't fit and bought 13 new ones, how many socks would he have?\nA:",
+    "output": "27"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In fourth grade there were 8 students at the start of the year. During the year 5 students left and 8 new students came to school. How many students were in fourth grade at the end?\nA:",
+    "output": "11"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Adam had 48 books. If he sold 19 of them and used the money he earned to buy 38 new books, how many books would Adam have?\nA:",
+    "output": "67"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A florist had 11 roses. If she sold 2 of them and then later picked 32 more, how many roses would she have?\nA:",
+    "output": "41"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Luke had 48 dollars in January. By March he had spent 11 dollars. If he got another 21 dollars from his mom, how much money would he have?\nA:",
+    "output": "58"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Debby had 30 coloring books. If she gave away 7 of them, but then bought 35 more, how many would she have total?\nA:",
+    "output": "58"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The school cafeteria had 12 apples. If they used 8 to make lunch for the students and then bought 19 more, how many apples would they have?\nA:",
+    "output": "23"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the fair there were 31 people in line for the bumper cars. If 25 of them got tired of waiting and left and 25 more got in line, how many people would be in line?\nA:",
+    "output": "31"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the arcade Edward won 9 tickets. If he spent 4 tickets on a beanie and later won 4 more tickets, how many would he have?\nA:",
+    "output": "9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Wendy was playing a video game and had 10 lives. In a hard part of the game she lost 6 lives. If she got 37 more lives in the next level, how many lives would she have?\nA:",
+    "output": "41"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Chloe was unboxing some of her old winter clothes. She found 4 boxes of clothing and inside each box there were 2 scarves and 6 mittens. How many pieces of winter clothing did Chloe have total?\nA:",
+    "output": "32"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: April's discount flowers was having a sale where each flower was 3 dollars. If Emily bought 2 roses and 2 daisies, how much did she spend?\nA:",
+    "output": "12"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paul bought 6 boxes of chocolate candy and 4 boxes of caramel candy. If each box has 9 pieces inside it, how much candy did he have total?\nA:",
+    "output": "90"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Rachel was organizing her book case making sure each of the shelves had exactly 9 books on it. If she had 6 shelves of mystery books and 2 shelves of picture books, how many books did she have total?\nA:",
+    "output": "72"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Haley's favorite band was holding a concert where tickets were 4 dollars each. Haley bought 3 tickets for herself and her friends and 5 extra tickets in case anyone else wanted to go. How much did she spend?\nA:",
+    "output": "32"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Wendy bought 4 new chairs and 4 new tables for her house. If she spent 6 minutes on each piece furniture putting it together, how many minutes did it take her to finish?\nA:",
+    "output": "48"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam was collecting cans for recycling. On Saturday he filled 4 bags up and on Sunday he filled 3 more bags. If each bag had 6 cans in it, how many cans did he pick up total?\nA:",
+    "output": "42"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: George was working as a sacker at a grocery store where he made 5 dollars an hour. On Monday he worked 7 hours and on Tuesday he worked 2 hours. How much money did George make in those two days?\nA:",
+    "output": "45"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While playing a trivia game, Frank answered 3 questions correct in the first half and 2 questions correct in the second half. If each question was worth 3 points, what was his final score?\nA:",
+    "output": "15"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Faye was selling her necklaces at a garage sale. She sold 3 bead necklaces and 7 gem stone necklaces. If each necklace cost 7 dollars, how much money did she earn?\nA:",
+    "output": "70"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A waiter had 9 tables he was waiting on, with 4 women and 3 men at each table. How many customers total did the waiter have?\nA:",
+    "output": "63"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tiffany had 6 pages of math homework and 4 pages of reading homework. If each page had 3 problems on it, how many problems did she have to complete total?\nA:",
+    "output": "30"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 2 friends playing a video game online when 2 more players joined the game. If each player had 3 lives, how many lives did they have total?\nA:",
+    "output": "12"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Gwen was organizing her book case making sure each of the shelves had exactly 4 books on it. If she had 5 shelves of mystery books and 3 shelves of picture books, how many books did she have total?\nA:",
+    "output": "32"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While shopping for music online, Isabel bought 4 country albums and 5 pop albums. Each album came with a lyric sheet and had 8 songs. How many songs did Isabel buy total?\nA:",
+    "output": "72"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Megan was selling her necklaces at a garage sale. She sold 7 bead necklaces and 3 gem stone necklaces. If each necklace cost 9 dollars, how much money did she earn?\nA:",
+    "output": "90"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Rachel was playing a video game where she scores 9 points for each treasure she finds. If she found 5 treasures on the first level and 2 on the second, what would her score be?\nA:",
+    "output": "63"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: April's discount flowers was having a sale where each flower was 6 dollars. If Katie bought 5 roses and 5 daisies, how much did she spend?\nA:",
+    "output": "60"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tiffany was playing a video game where she scores 6 points for each treasure she finds. If she found 3 treasures on the first level and 5 on the second, what would her score be?\nA:",
+    "output": "48"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Megan was organizing her book case making sure each of the shelves had exactly 7 books on it. If she had 8 shelves of mystery books and 2 shelves of picture books, how many books did she have total?\nA:",
+    "output": "70"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Frank was collecting cans for recycling. On Saturday he filled 5 bags up and on Sunday he filled 3 more bags. If each bag had 5 cans in it, how many cans did he pick up total?\nA:",
+    "output": "40"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: April's discount flowers was having a sale where each flower was 8 dollars. If Vanessa bought 3 roses and 3 daisies, how much did she spend?\nA:",
+    "output": "48"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While playing a trivia game, Adam answered 8 questions correct in the first half and 2 questions correct in the second half. If each question was worth 8 points, what was his final score?\nA:",
+    "output": "80"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A pet store has 4 bird cages. If each cage has 8 parrots and 2 parakeets in it, how many birds does the pet store have total?\nA:",
+    "output": "40"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kaleb was collecting cans for recycling. On Saturday he filled 5 bags up and on Sunday he filled 5 more bags. If each bag had 4 cans in it, how many cans did he pick up total?\nA:",
+    "output": "40"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Billy was putting his spare change into piles. He had 2 piles of quarters and 3 piles of dimes. If each pile had 4 coins in it, how many coins did he have total?\nA:",
+    "output": "20"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lana was unboxing some of her old winter clothes. She found 3 boxes of clothing and inside each box there were 3 scarves and 4 mittens. How many pieces of winter clothing did Lana have total?\nA:",
+    "output": "21"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dave was working as a sacker at a grocery store where he made 6 dollars an hour. On Monday he worked 6 hours and on Tuesday he worked 2 hours. How much money did Dave make in those two days?\nA:",
+    "output": "48"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Nancy was organizing her book case making sure each of the shelves had exactly 6 books on it. If she had 2 shelves of mystery books and 6 shelves of picture books, how many books did she have total?\nA:",
+    "output": "48"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While shopping for music online, Faye bought 2 country albums and 3 pop albums. Each album came with a lyric sheet and had 6 songs. How many songs did Faye buy total?\nA:",
+    "output": "30"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lana was unboxing some of her old winter clothes. She found 4 boxes of clothing and inside each box there were 2 scarves and 6 mittens. How many pieces of winter clothing did Lana have total?\nA:",
+    "output": "32"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the town carnival Oliver rode the ferris wheel 7 times and the bumper cars 3 times. If each ride cost 3 tickets, how many tickets did he use?\nA:",
+    "output": "30"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kaleb was collecting cans for recycling. On Saturday he filled 4 bags up and on Sunday he filled 6 more bags. If each bag had 4 cans in it, how many cans did he pick up total?\nA:",
+    "output": "40"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Emily bought 4 new chairs and 2 new tables for her house. If she spent 8 minutes on each piece furniture putting it together, how many minutes did it take her to finish?\nA:",
+    "output": "48"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The schools debate team had 26 boys and 46 girls on it. If they were split into groups of 9 how many groups could they make?\nA:",
+    "output": "8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There school's baseball team had 48 new players and 6 returning players. If the coach put them into groups with 6 players in each group, how many groups would there be?\nA:",
+    "output": "9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paige and her friends were recycling paper for their class. For every 4 pounds they recycled they earned one point. If Paige recycled 14 pounds and her friends recycled 2 pounds, how many points did they earn?\nA:",
+    "output": "4"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Roger was helping the cafeteria workers pick up lunch trays, but he could only carry 4 trays at a time. If he had to pick up 10 trays from one table and 2 trays from another, how many trips will he make?\nA:",
+    "output": "3"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Wendy's old washing machine could only wash 8 pieces of clothing at a time. If she had to wash 39 shirts and 33 sweaters how many loads would she have to do?\nA:",
+    "output": "9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mike made 14 dollars mowing lawns and 26 dollars weed eating. If he only spent 5 dollar a week, how long would the money last him?\nA:",
+    "output": "8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Robin uploaded 31 pictures from her phone and 5 from her camera to facebook. If she sorted the pics into 9 different albums with the same amount of pics in each album, how many pictures were in each of the albums?\nA:",
+    "output": "4"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For Halloween Megan received 11 pieces of candy from neighbors and 5 pieces from her older sister. If she only ate 8 pieces a day, how long would the candy last her?\nA:",
+    "output": "2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There school's baseball team had 4 new players and 6 returning players. If the coach put them into groups with 5 players in each group, how many groups would there be?\nA:",
+    "output": "2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A pet shelter had 5 puppies when another 35 were brought in. If 8 puppies a day are adopted, how long would it take for all of them to be adopted?\nA:",
+    "output": "5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Nancy's class is going on a field trip to the zoo. If each van can hold 5 people and there are 12 students and 3 adults going, how many vans will they need?\nA:",
+    "output": "3"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The schools debate team had 28 boys and 4 girls on it. If they were split into groups of 4 how many groups could they make?\nA:",
+    "output": "8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tiffany uploaded 7 pictures from her phone and 13 from her camera to facebook. If she sorted the pics into 5 different albums with the same amount of pics in each album, how many pictures were in each of the albums?\nA:",
+    "output": "4"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Frank had saved up 3 dollars. If he received another 37 dollars for his allowance, how many 8 dollar toys could he buy?\nA:",
+    "output": "5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Olivia uploaded 5 pictures from her phone and 35 from her camera to facebook. If she sorted the pics into 8 different albums with the same amount of pics in each album, how many pictures were in each of the albums?\nA:",
+    "output": "5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Frank had saved up 3 dollars. If he received another 37 dollars for his allowance, how many 8 dollar toys could he buy?\nA:",
+    "output": "5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A pet shelter had 8 puppies when another 19 were brought in. If 3 puppies a day are adopted, how long would it take for all of them to be adopted?\nA:",
+    "output": "9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Bianca and her friends were recycling paper for their class. For every 3 pounds they recycled they earned one point. If Bianca recycled 24 pounds and her friends recycled 3 pounds, how many points did they earn?\nA:",
+    "output": "9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The schools debate team had 5 boys and 40 girls on it. If they were split into groups of 9 how many groups could they make?\nA:",
+    "output": "5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For a birthday party Cody bought 4 regular sodas and 44 diet sodas. If his fridge would only hold 6 on each shelf, how many shelves would he fill up?\nA:",
+    "output": "8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Robin's class is going on a field trip to the zoo. If each van can hold 8 people and there are 22 students and 2 adults going, how many vans will they need?\nA:",
+    "output": "3"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There school's baseball team had 2 new players and 6 returning players. If the coach put them into groups with 4 players in each group, how many groups would there be?\nA:",
+    "output": "2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For homework Amy had 18 math problems and 6 spelling problems. If she can finish 4 problems in an hour how long will it take her to finish all the problems?\nA:",
+    "output": "6"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A pet shelter had 3 puppies when another 3 were brought in. If 3 puppies a day are adopted, how long would it take for all of them to be adopted?\nA:",
+    "output": "2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paul had saved up 3 dollars. If he received another 7 dollars for his allowance, how many 5 dollar toys could he buy?\nA:",
+    "output": "2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While playing at the arcade, Ned won 26 tickets playing 'whack a mole' and 19 tickets playing 'skee ball'. If he was trying to buy candy that cost 9 tickets a piece, how many could he buy?\nA:",
+    "output": "5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At a company picnic 9 managers and 15 employees decided to start a game of volleyball. If they split into 8 teams how many people would be on each team?\nA:",
+    "output": "3"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: John was organizing his baseball cards in a binder with 3 on each page. If he had 8 new cards and 16 old cards to put in the binder, how many pages would he use?\nA:",
+    "output": "8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Katie uploaded 30 pictures from her phone and 51 from her camera to facebook. If she sorted the pics into 9 different albums with the same amount of pics in each album, how many pictures were in each of the albums?\nA:",
+    "output": "9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For Halloween Emily received 5 pieces of candy from neighbors and 13 pieces from her older sister. If she only ate 9 pieces a day, how long would the candy last her?\nA:",
+    "output": "2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kaleb bought 14 boxes of chocolate candy and gave 5 to his little brother. If each box has 6 pieces inside it, how many pieces did Kaleb still have?\nA:",
+    "output": "54"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At a restaurant each adult meal costs $3 and kids eat free. If a group of 12 people came in and 7 were kids, how much would it cost for the group to eat?\nA:",
+    "output": "15"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In a video game, each enemy defeated gives you 9 points. If a level has 11 enemies total and you destroy all but 3 of them, how many points would you earn?\nA:",
+    "output": "72"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Adam earned 9 dollars for each lawn he mowed. If he had 12 lawns to mow, but forgot to mow 8 of them, how much money did he actually earn?\nA:",
+    "output": "36"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Each chocolate bar in a box cost $6. If a box had 13 bars total and Zoe sold all but 6 bars, how much money would she have made?\nA:",
+    "output": "42"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A new building needed 9 windows. The builder had already installed 6 of them. If it takes 6 hours to install each window, how long will it take him to install the rest?\nA:",
+    "output": "18"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the fair Adam bought 13 tickets. After riding the ferris wheel he had 4 tickets left. If each ticket cost 9 dollars, how much money did Adam spend riding the ferris wheel?\nA:",
+    "output": "81"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Each chocolate bar in a box cost $3. If a box had 9 bars total and Wendy sold all but 3 bars, how much money would she have made?\nA:",
+    "output": "18"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Adam bought 13 boxes of chocolate candy and gave 7 to his little brother. If each box has 6 pieces inside it, how many pieces did Adam still have?\nA:",
+    "output": "36"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At a restaurant each adult meal costs $7 and kids eat free. If a group of 13 people came in and 9 were kids, how much would it cost for the group to eat?\nA:",
+    "output": "28"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: April's discount flowers was having a sale where each rose was 7 dollars. If April started with 9 roses and had 4 roses left, how much money did she earn?\nA:",
+    "output": "35"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A new building needed 14 windows. The builder had already installed 8 of them. If it takes 8 hours to install each window, how long will it take him to install the rest?\nA:",
+    "output": "48"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Bianca earned 5 points for each bag of cans she recycled. If she had 17 bags, but didn't recycle 8 of them, how many points would she have earned?\nA:",
+    "output": "45"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Henry had 3 action figures, but needed 8 total for a complete collection. If each one costs $6, how much money would he need to finish his collection?\nA:",
+    "output": "30"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A worksheet had 4 problems on it. If a teacher had 16 worksheets to grade and had already graded 8 of them, how many more problems does she have to grade?\nA:",
+    "output": "32"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A worksheet had 2 problems on it. If a teacher had 14 worksheets to grade and had already graded 7 of them, how many more problems does she have to grade?\nA:",
+    "output": "14"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: April's discount flowers was having a sale where each rose was 4 dollars. If April started with 13 roses and had 4 roses left, how much money did she earn?\nA:",
+    "output": "36"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At a restaurant each adult meal costs $5 and kids eat free. If a group of 15 people came in and 8 were kids, how much would it cost for the group to eat?\nA:",
+    "output": "35"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Each chocolate bar in a box cost $4. If a box had 11 bars total and Vanessa sold all but 7 bars, how much money would she have made?\nA:",
+    "output": "16"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Each chocolate bar in a box cost $2. If a box had 13 bars total and Rachel sold all but 4 bars, how much money would she have made?\nA:",
+    "output": "18"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At a restaurant each adult meal costs $8 and kids eat free. If a group of 11 people came in and 2 were kids, how much would it cost for the group to eat?\nA:",
+    "output": "72"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In a video game, each enemy defeated gives you 7 points. If a level has 11 enemies total and you destroy all but 8 of them, how many points would you earn?\nA:",
+    "output": "21"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 13 friends playing a video game online when 8 players quit. If each player left had 6 lives, how many lives did they have total?\nA:",
+    "output": "30"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 8 friends playing a video game online when 3 players quit. If each player left had 3 lives, how many lives did they have total?\nA:",
+    "output": "15"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam invited 9 friends to a birthday party, but 6 couldn't come. If he wanted to buy enough cupcakes so each person could have exactly 2, how many should he buy?\nA:",
+    "output": "6"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mike made 101 dollars mowing lawns over the summer. If he spent 47 dollars buying new mower blades, how many 6 dollar games could he buy with the money he had left?\nA:",
+    "output": "9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paige's team won their dodgeball game and scored 41 points total. If Paige scored 11 of the points and everyone else scored 6 points each, how many players were on her team?\nA:",
+    "output": "5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Oliver is at the library helping put away books. There are 46 book to put away total but a librarian takes 10 of them and leaves Oliver with the rest. If he can fit 4 books on a shelf, how many shelves will he need?\nA:",
+    "output": "9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Emily was planting vegetables in her garden. She started with 41 seeds and planted 29 of them in the big garden and in each of her small gardens put 4 seeds each. How many small gardens did Emily have?\nA:",
+    "output": "3"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Edward made 37 dollars mowing lawns over the summer. If he spent 21 dollars buying new mower blades, how many 2 dollar games could he buy with the money he had left?\nA:",
+    "output": "8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tom had 57 dollars. If he spent 49 bucks on a new game, how many 4 dollar toys could he buy with the money he had left?\nA:",
+    "output": "2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A pet store had 64 puppies. In one day they sold 28 of them and put the rest into cages with 4 in each cage. How many cages did they use?\nA:",
+    "output": "9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A company invited 18 people to a luncheon, but 12 of them didn't show up. If the tables they had held 3 people each, how many tables do they need?\nA:",
+    "output": "2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A pet store had 78 puppies. In one day they sold 30 of them and put the rest into cages with 8 in each cage. How many cages did they use?\nA:",
+    "output": "6"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A store had 40 coloring books in stock. They ended up putting them on sale and getting rid of 20 of them. The put the ones they still had onto shelves with 4 on each shelf. How many shelves did they use?\nA:",
+    "output": "5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kaleb was selling his old games. He started out with 76 but sold 46 of them. He packed the rest up putting 5 games into each box. How many boxes did he have to use?\nA:",
+    "output": "6"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A waiter had 21 customers in his section. If 12 of them left and the rest of his tables had 3 people at each table, how many tables did he have?\nA:",
+    "output": "3"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 25 students trying out for the school's trivia teams. If 15 of them didn't get picked for the team and the rest were put into 2 groups, how many students would be in each group?\nA:",
+    "output": "5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The cafeteria had 47 apples. For lunch they handed out 27 to students and decided to use the rest to make pies. If each pie takes 4 apples, how many pies could they make?\nA:",
+    "output": "5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Will had 59 pieces of clothing to wash. He put 32 of them in one load, but decided to split the rest into 9 equal loads. How many pieces of clothing could go in each of the small loads?\nA:",
+    "output": "3"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Oliver made 35 dollars mowing lawns over the summer. If he spent 7 dollars buying new mower blades, how many 4 dollar games could he buy with the money he had left?\nA:",
+    "output": "7"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Nancy had 101 homework problems. She finished 47 of them but still had 6 pages of problems to do. If each page has the same number of problems on it, how many problems are on each page?\nA:",
+    "output": "9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Haley uploaded 65 pictures to Facebook. She put 17 pics into one album and put the rest into 6 different albums. How many pictures were in each album?\nA:",
+    "output": "8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Wendy picked 45 flowers for her friend\u2019s wedding. She was making bouquets with 5 flowers in each one. If 35 of the flowers wilted before the wedding, how many bouquets could she still make?\nA:",
+    "output": "2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Isabel baked 39 cupcakes for her school's bake sale. If her brother, Todd, ate 21 of them how many packages could she make if she put 3 cupcake in each package?\nA:",
+    "output": "6"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A pet store had 13 puppies. In one day they sold 7 of them and put the rest into cages with 2 in each cage. How many cages did they use?\nA:",
+    "output": "3"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For Halloween Emily received 54 pieces of candy. She ate 33 pieces then placed the rest into piles with 7 in each pile. How many piles could she make?\nA:",
+    "output": "3"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The cafeteria had 86 apples. For lunch they handed out 30 to students and decided to use the rest to make pies. If each pie takes 8 apples, how many pies could they make?\nA:",
+    "output": "7"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Nancy uploaded 41 pictures to Facebook. She put 37 pics into one album and put the rest into 2 different albums. How many pictures were in each album?\nA:",
+    "output": "2"
+  }
+]

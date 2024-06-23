@@ -1,0 +1,602 @@
+[
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Whitney flips the coin. Erika does not flip the coin. Tj does not flip the coin. Benito flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Elise flips the coin. Lupe flips the coin. Renee does not flip the coin. Noemi does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Cinthia does not flip the coin. Lloyd does not flip the coin. Jacqueline flips the coin. Jc flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Melody does not flip the coin. Ramiro does not flip the coin. Humberto does not flip the coin. Jacob does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Kristopher does not flip the coin. Deb flips the coin. Jake flips the coin. Tammy flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Billie does not flip the coin. Paloma does not flip the coin. Tanner does not flip the coin. Raul does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Emiliano flips the coin. Jasmin flips the coin. Wade flips the coin. Vilma does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Lino does not flip the coin. Mariel does not flip the coin. Aditya does not flip the coin. Elisabeth flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Phillip does not flip the coin. Ajay flips the coin. Janie flips the coin. Augusto flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Margarita flips the coin. Anabel flips the coin. Shaun flips the coin. Celina flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Geo does not flip the coin. Kody does not flip the coin. Isaias flips the coin. Giovanni flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Billy flips the coin. Kassandra flips the coin. Joy does not flip the coin. Abe flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Nubia flips the coin. Sarah does not flip the coin. Jalen does not flip the coin. Kris flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Ale does not flip the coin. Gaspar flips the coin. Sonny does not flip the coin. Simon flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Isela flips the coin. Leslie flips the coin. Stacy flips the coin. Ingrid does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Meg does not flip the coin. Andrey does not flip the coin. Gerard flips the coin. Lilia flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Cheri does not flip the coin. Rico does not flip the coin. Teo flips the coin. Jesus does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Pretty flips the coin. Jada flips the coin. Sarita does not flip the coin. Allen flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Ashish flips the coin. Tracey flips the coin. Varun does not flip the coin. Emil flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Marian does not flip the coin. Joanne flips the coin. Darrin does not flip the coin. Rohit does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Rubi does not flip the coin. Daisy does not flip the coin. Yadira flips the coin. Santa does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Rosendo flips the coin. Shayla does not flip the coin. Erica does not flip the coin. Georgia does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Lorena does not flip the coin. Shana does not flip the coin. Priscilla does not flip the coin. Summer does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Chava flips the coin. Rosalia does not flip the coin. Kurt does not flip the coin. Linda flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Lewis does not flip the coin. Azucena does not flip the coin. Kai does not flip the coin. Ravi does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Faustino flips the coin. Lamar flips the coin. Fransisco flips the coin. Rina flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Loren does not flip the coin. Wes flips the coin. Dean does not flip the coin. Hayley flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Maxwell does not flip the coin. Jose flips the coin. Beto does not flip the coin. Joe does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Liz does not flip the coin. Andrea flips the coin. Suresh does not flip the coin. Vera does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Sally flips the coin. Sadie flips the coin. Christie does not flip the coin. Ellie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Victoria flips the coin. Aurora does not flip the coin. Amalia does not flip the coin. Princess does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Alec flips the coin. Arianna flips the coin. Corina flips the coin. Juancarlos flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Salma does not flip the coin. Pj flips the coin. Gladis flips the coin. Monica flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Ralph does not flip the coin. Jeanne flips the coin. Kyle does not flip the coin. Alejandro does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Matilde does not flip the coin. Jan flips the coin. Marcel does not flip the coin. Mimi does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Jes\u00fas flips the coin. Vidal does not flip the coin. Maxine flips the coin. Gloria does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Anastasia does not flip the coin. Thelma flips the coin. Sheri flips the coin. Rosita flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Sid flips the coin. Isabelle does not flip the coin. Jackson flips the coin. Heidy does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Carla flips the coin. Dolores flips the coin. Cooper flips the coin. Damion flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Raven flips the coin. Marisela does not flip the coin. Ross flips the coin. Angie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Zach flips the coin. Trenton flips the coin. Cary does not flip the coin. Beth flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Altagracia flips the coin. Howard does not flip the coin. Patti flips the coin. Douglas flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Leticia flips the coin. Jacinto flips the coin. Natasha does not flip the coin. Raphael flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Mickey does not flip the coin. Dom flips the coin. Lilly flips the coin. Eloy does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Garry flips the coin. Arielle flips the coin. Elba does not flip the coin. Rodney does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Sonia flips the coin. Griffin flips the coin. Claude flips the coin. Josephine flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Arthur flips the coin. Shan does not flip the coin. Norman flips the coin. Manny does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Denis does not flip the coin. Gigi flips the coin. Heather does not flip the coin. Ginger flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Franklin flips the coin. Rochelle does not flip the coin. Brent does not flip the coin. Sarai flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Ronnie flips the coin. Kiki flips the coin. Alan flips the coin. Remy flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Fernanda flips the coin. Magda flips the coin. Elmer flips the coin. Alvaro does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Eugenio flips the coin. Moises does not flip the coin. Marion does not flip the coin. Kirk does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Tucker does not flip the coin. Daniel flips the coin. Hernandez does not flip the coin. Alison flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Hilario flips the coin. Magdalena flips the coin. Morris flips the coin. Patricio does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Fausto does not flip the coin. Tito does not flip the coin. Jade does not flip the coin. Terrance does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Lucio flips the coin. V\u00edctor does not flip the coin. Lester flips the coin. Allie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Debi does not flip the coin. Raymond does not flip the coin. Luis does not flip the coin. Federico flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Janice flips the coin. Shelly flips the coin. Arnulfo does not flip the coin. Nestor flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Juan Jose does not flip the coin. Dalia does not flip the coin. Destiny does not flip the coin. Amelia flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Peggy flips the coin. Trent flips the coin. Darrell flips the coin. Pamela flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Sophie does not flip the coin. Gregorio does not flip the coin. Avery does not flip the coin. Pooja does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Gabi flips the coin. Dante flips the coin. Rafa flips the coin. Tricia does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Suzanne flips the coin. Julissa flips the coin. Chino flips the coin. America does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Salvatore does not flip the coin. Gustavo flips the coin. Jill does not flip the coin. Celeste does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Marcy flips the coin. Gonzalez does not flip the coin. Alice does not flip the coin. Arlene flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Dana does not flip the coin. German flips the coin. Alvin does not flip the coin. Braden flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Lacey flips the coin. Nora does not flip the coin. Debra does not flip the coin. Ashleigh does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Forrest does not flip the coin. Juanito does not flip the coin. Allan does not flip the coin. Candice does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Paulo flips the coin. Tatyana flips the coin. Bernice does not flip the coin. Ra\u00fal flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Efren flips the coin. Rex flips the coin. Marilyn flips the coin. Emerson flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Lynda flips the coin. Danilo flips the coin. Jonny does not flip the coin. Judith does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Virginia does not flip the coin. Juanita does not flip the coin. Zak flips the coin. Wayne does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Mari flips the coin. Ximena flips the coin. Leo does not flip the coin. Antonia does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Salvador does not flip the coin. Sol flips the coin. Tyler does not flip the coin. Kareem flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Dallas does not flip the coin. Uriel flips the coin. Brendan flips the coin. Julian flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Ernest does not flip the coin. Yuri flips the coin. Camila does not flip the coin. Ashlee flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Jim flips the coin. Dwayne does not flip the coin. Ricky does not flip the coin. Artemio flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Julia flips the coin. Kirsten does not flip the coin. Pam flips the coin. Adan flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Jaime flips the coin. Brad flips the coin. Levi flips the coin. Emmanuel flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Kristie does not flip the coin. Johnnie flips the coin. Marisa flips the coin. Derick does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Wilfredo does not flip the coin. Abby does not flip the coin. Karthik does not flip the coin. Perry does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Selene does not flip the coin. Felix does not flip the coin. Milton does not flip the coin. Yessica flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Alexander does not flip the coin. Marina does not flip the coin. Valentina does not flip the coin. Mila does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Les does not flip the coin. Jun flips the coin. Noe flips the coin. Juliana flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Rosario does not flip the coin. Manoj does not flip the coin. Adolfo flips the coin. Reina does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Lora does not flip the coin. Alberto does not flip the coin. Cathy does not flip the coin. Kara does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Missy flips the coin. Erin flips the coin. Lorna flips the coin. Lenny flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Claudia flips the coin. Cole does not flip the coin. Matthew does not flip the coin. Juan Pablo does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Arturo does not flip the coin. Dominick flips the coin. Christa does not flip the coin. Myles does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Marc flips the coin. Doris flips the coin. Ernie does not flip the coin. Gary flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Miriam does not flip the coin. Brandy flips the coin. Bertha flips the coin. Renato flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Abel flips the coin. Mallory flips the coin. Theresa does not flip the coin. Quinn flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Guille does not flip the coin. Lisa flips the coin. Harvey does not flip the coin. Gina does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Arnold does not flip the coin. Aidan does not flip the coin. Ally flips the coin. Ami does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Logan does not flip the coin. Ely does not flip the coin. Abbie does not flip the coin. Colleen does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Kristy flips the coin. Brandi does not flip the coin. Lizeth does not flip the coin. Petra flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Lupita flips the coin. Cyndi flips the coin. Kay does not flip the coin. Derrick flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Felipe does not flip the coin. Heidi flips the coin. Nino does not flip the coin. Bradley does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Dorian flips the coin. Mayra flips the coin. Freddie does not flip the coin. Magaly flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Ace flips the coin. Rosy does not flip the coin. Kimberly does not flip the coin. Jean does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Jeremy does not flip the coin. Simone flips the coin. Alondra does not flip the coin. Wyatt does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Chance flips the coin. Valentin does not flip the coin. Micah flips the coin. Clara flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Pedro flips the coin. Leopoldo does not flip the coin. Tee does not flip the coin. Mar flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Barbie does not flip the coin. Desiree does not flip the coin. Yaneth does not flip the coin. Dre does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Philip flips the coin. Antony flips the coin. Iris flips the coin. Alicia flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Corey flips the coin. Elvin does not flip the coin. Tino flips the coin. Melvin flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Fred flips the coin. Nolan flips the coin. Johnathan flips the coin. Carson does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Caroline flips the coin. Demetrius flips the coin. Fidel does not flip the coin. Solomon flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Julio does not flip the coin. Sidney flips the coin. Aiden flips the coin. Shay does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Mabel does not flip the coin. Estela flips the coin. Irene flips the coin. May flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Todd flips the coin. Joni flips the coin. Gil flips the coin. Fran does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Tori does not flip the coin. Mariam does not flip the coin. Gaby does not flip the coin. Brayan does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Michel does not flip the coin. Roy does not flip the coin. Sergey does not flip the coin. Jessie does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Guadalupe does not flip the coin. Ebony flips the coin. Wil flips the coin. Luke flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Bill flips the coin. Santos does not flip the coin. Roxy flips the coin. Randi flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Daphne does not flip the coin. Lola flips the coin. Joanna does not flip the coin. Sheena does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Juan Manuel flips the coin. Benjamin flips the coin. Rory does not flip the coin. Rafael flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Fermin does not flip the coin. Berenice does not flip the coin. Marianne does not flip the coin. Eleanor flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Sabrina flips the coin. Pete does not flip the coin. Mary does not flip the coin. La flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Sean does not flip the coin. Rebeca flips the coin. Marco flips the coin. Sami flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Justin does not flip the coin. Neal does not flip the coin. Jt does not flip the coin. Lucia flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Kathy does not flip the coin. Elsa flips the coin. Alba flips the coin. Ivette flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Leon does not flip the coin. Payton flips the coin. Stefan flips the coin. Javi flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Andres does not flip the coin. Mary Ann does not flip the coin. Sydney flips the coin. Dina does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Clayton does not flip the coin. Edison flips the coin. Debbie flips the coin. Elvira does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Sal does not flip the coin. Scott flips the coin. Myrna flips the coin. Maximo flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Maria Elena flips the coin. Dewayne does not flip the coin. Mj does not flip the coin. Elliott flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Krishna flips the coin. Catalina does not flip the coin. Eileen does not flip the coin. Teddy flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Drew flips the coin. Jhon does not flip the coin. Jayden flips the coin. Cliff does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Trish flips the coin. Vero flips the coin. Victor does not flip the coin. Clemente flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Juliet flips the coin. Ricardo does not flip the coin. Tita does not flip the coin. Dianna flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Donald does not flip the coin. Lia flips the coin. Gonzalo flips the coin. Lily does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Georgina flips the coin. Joshua flips the coin. Lindsey does not flip the coin. C\u00e9sar flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. King flips the coin. Edith does not flip the coin. Traci flips the coin. Flor flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Jon flips the coin. Heath flips the coin. Reynaldo flips the coin. Catherine does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Christina does not flip the coin. Edna flips the coin. Ileana flips the coin. Lynette flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Debora does not flip the coin. Jayson does not flip the coin. Donna flips the coin. Sai does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Sunny does not flip the coin. Trisha flips the coin. Paul flips the coin. Guy does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Theo flips the coin. Sheila flips the coin. Mariana does not flip the coin. Esmeralda flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Cristal flips the coin. Roxana flips the coin. Rajesh does not flip the coin. Danny does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Geovanny does not flip the coin. Tom flips the coin. Katelyn flips the coin. Jennifer flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Buddy flips the coin. Violet does not flip the coin. Johana flips the coin. Tina does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Pauline does not flip the coin. Kerry does not flip the coin. Jeannette flips the coin. Hope flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Chloe does not flip the coin. Flaco does not flip the coin. Theodore does not flip the coin. Nathalie does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Agnes does not flip the coin. Adrienne does not flip the coin. Haley does not flip the coin. Riley does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Noelia flips the coin. Cassidy does not flip the coin. Ashok flips the coin. Francisco flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Charmaine does not flip the coin. Vic flips the coin. Homero flips the coin. Jeanine does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Marco Antonio flips the coin. Suzette does not flip the coin. Roland does not flip the coin. Isabel does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Tim flips the coin. Candace flips the coin. Cecil does not flip the coin. Misael flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nA coin is heads up. Rich flips the coin. Parker does not flip the coin. Edward flips the coin. Milagros flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+    "output": "no"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Whitney Erika Tj Benito\" and concatenate them.\nA:",
+    "output": "yajo"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Elise Lupe Renee Noemi\" and concatenate them.\nA:",
+    "output": "eeei"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Cinthia Lloyd Jacqueline Jc\" and concatenate them.\nA:",
+    "output": "adec"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Melody Ramiro Humberto Jacob\" and concatenate them.\nA:",
+    "output": "yoob"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Kristopher Deb Jake Tammy\" and concatenate them.\nA:",
+    "output": "rbey"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Billie Paloma Tanner Raul\" and concatenate them.\nA:",
+    "output": "earl"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Emiliano Jasmin Wade Vilma\" and concatenate them.\nA:",
+    "output": "onea"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Lino Mariel Aditya Elisabeth\" and concatenate them.\nA:",
+    "output": "olah"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Phillip Ajay Janie Augusto\" and concatenate them.\nA:",
+    "output": "pyeo"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Margarita Anabel Shaun Celina\" and concatenate them.\nA:",
+    "output": "alna"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Geo Kody Isaias Giovanni\" and concatenate them.\nA:",
+    "output": "oysi"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Billy Kassandra Joy Abe\" and concatenate them.\nA:",
+    "output": "yaye"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Nubia Sarah Jalen Kris\" and concatenate them.\nA:",
+    "output": "ahns"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Ale Gaspar Sonny Simon\" and concatenate them.\nA:",
+    "output": "eryn"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Isela Leslie Stacy Ingrid\" and concatenate them.\nA:",
+    "output": "aeyd"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Meg Andrey Gerard Lilia\" and concatenate them.\nA:",
+    "output": "gyda"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Cheri Rico Teo Jesus\" and concatenate them.\nA:",
+    "output": "ioos"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Pretty Jada Sarita Allen\" and concatenate them.\nA:",
+    "output": "yaan"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Ashish Tracey Varun Emil\" and concatenate them.\nA:",
+    "output": "hynl"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Marian Joanne Darrin Rohit\" and concatenate them.\nA:",
+    "output": "nent"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Rubi Daisy Yadira Santa\" and concatenate them.\nA:",
+    "output": "iyaa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Rosendo Shayla Erica Georgia\" and concatenate them.\nA:",
+    "output": "oaaa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Lorena Shana Priscilla Summer\" and concatenate them.\nA:",
+    "output": "aaar"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Chava Rosalia Kurt Linda\" and concatenate them.\nA:",
+    "output": "aata"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Lewis Azucena Kai Ravi\" and concatenate them.\nA:",
+    "output": "saii"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Faustino Lamar Fransisco Rina\" and concatenate them.\nA:",
+    "output": "oroa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Loren Wes Dean Hayley\" and concatenate them.\nA:",
+    "output": "nsny"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Maxwell Jose Beto Joe\" and concatenate them.\nA:",
+    "output": "leoe"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Liz Andrea Suresh Vera\" and concatenate them.\nA:",
+    "output": "zaha"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Sally Sadie Christie Ellie\" and concatenate them.\nA:",
+    "output": "yeee"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Victoria Aurora Amalia Princess\" and concatenate them.\nA:",
+    "output": "aaas"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Alec Arianna Corina Juancarlos\" and concatenate them.\nA:",
+    "output": "caas"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Salma Pj Gladis Monica\" and concatenate them.\nA:",
+    "output": "ajsa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Ralph Jeanne Kyle Alejandro\" and concatenate them.\nA:",
+    "output": "heeo"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Matilde Jan Marcel Mimi\" and concatenate them.\nA:",
+    "output": "enli"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Jes\u00fas Vidal Maxine Gloria\" and concatenate them.\nA:",
+    "output": "slea"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Anastasia Thelma Sheri Rosita\" and concatenate them.\nA:",
+    "output": "aaia"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Sid Isabelle Jackson Heidy\" and concatenate them.\nA:",
+    "output": "deny"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Carla Dolores Cooper Damion\" and concatenate them.\nA:",
+    "output": "asrn"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Raven Marisela Ross Angie\" and concatenate them.\nA:",
+    "output": "nase"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Zach Trenton Cary Beth\" and concatenate them.\nA:",
+    "output": "hnyh"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Altagracia Howard Patti Douglas\" and concatenate them.\nA:",
+    "output": "adis"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Leticia Jacinto Natasha Raphael\" and concatenate them.\nA:",
+    "output": "aoal"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Mickey Dom Lilly Eloy\" and concatenate them.\nA:",
+    "output": "ymyy"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Garry Arielle Elba Rodney\" and concatenate them.\nA:",
+    "output": "yeay"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Sonia Griffin Claude Josephine\" and concatenate them.\nA:",
+    "output": "anee"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Arthur Shan Norman Manny\" and concatenate them.\nA:",
+    "output": "rnny"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Denis Gigi Heather Ginger\" and concatenate them.\nA:",
+    "output": "sirr"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Franklin Rochelle Brent Sarai\" and concatenate them.\nA:",
+    "output": "neti"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Ronnie Kiki Alan Remy\" and concatenate them.\nA:",
+    "output": "einy"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Fernanda Magda Elmer Alvaro\" and concatenate them.\nA:",
+    "output": "aaro"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Eugenio Moises Marion Kirk\" and concatenate them.\nA:",
+    "output": "osnk"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Tucker Daniel Hernandez Alison\" and concatenate them.\nA:",
+    "output": "rlzn"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Hilario Magdalena Morris Patricio\" and concatenate them.\nA:",
+    "output": "oaso"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Fausto Tito Jade Terrance\" and concatenate them.\nA:",
+    "output": "ooee"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Lucio V\u00edctor Lester Allie\" and concatenate them.\nA:",
+    "output": "orre"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Debi Raymond Luis Federico\" and concatenate them.\nA:",
+    "output": "idso"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Janice Shelly Arnulfo Nestor\" and concatenate them.\nA:",
+    "output": "eyor"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Juan Jose Dalia Destiny Amelia\" and concatenate them.\nA:",
+    "output": "eaya"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Peggy Trent Darrell Pamela\" and concatenate them.\nA:",
+    "output": "ytla"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Sophie Gregorio Avery Pooja\" and concatenate them.\nA:",
+    "output": "eoya"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Gabi Dante Rafa Tricia\" and concatenate them.\nA:",
+    "output": "ieaa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Suzanne Julissa Chino America\" and concatenate them.\nA:",
+    "output": "eaoa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Salvatore Gustavo Jill Celeste\" and concatenate them.\nA:",
+    "output": "eole"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Marcy Gonzalez Alice Arlene\" and concatenate them.\nA:",
+    "output": "yzee"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Dana German Alvin Braden\" and concatenate them.\nA:",
+    "output": "annn"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Lacey Nora Debra Ashleigh\" and concatenate them.\nA:",
+    "output": "yaah"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Forrest Juanito Allan Candice\" and concatenate them.\nA:",
+    "output": "tone"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Paulo Tatyana Bernice Ra\u00fal\" and concatenate them.\nA:",
+    "output": "oael"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Efren Rex Marilyn Emerson\" and concatenate them.\nA:",
+    "output": "nxnn"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Lynda Danilo Jonny Judith\" and concatenate them.\nA:",
+    "output": "aoyh"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Virginia Juanita Zak Wayne\" and concatenate them.\nA:",
+    "output": "aake"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Mari Ximena Leo Antonia\" and concatenate them.\nA:",
+    "output": "iaoa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Salvador Sol Tyler Kareem\" and concatenate them.\nA:",
+    "output": "rlrm"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Dallas Uriel Brendan Julian\" and concatenate them.\nA:",
+    "output": "slnn"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Ernest Yuri Camila Ashlee\" and concatenate them.\nA:",
+    "output": "tiae"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Jim Dwayne Ricky Artemio\" and concatenate them.\nA:",
+    "output": "meyo"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Julia Kirsten Pam Adan\" and concatenate them.\nA:",
+    "output": "anmn"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Jaime Brad Levi Emmanuel\" and concatenate them.\nA:",
+    "output": "edil"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Kristie Johnnie Marisa Derick\" and concatenate them.\nA:",
+    "output": "eeak"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Wilfredo Abby Karthik Perry\" and concatenate them.\nA:",
+    "output": "oyky"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Selene Felix Milton Yessica\" and concatenate them.\nA:",
+    "output": "exna"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Alexander Marina Valentina Mila\" and concatenate them.\nA:",
+    "output": "raaa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Les Jun Noe Juliana\" and concatenate them.\nA:",
+    "output": "snea"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Rosario Manoj Adolfo Reina\" and concatenate them.\nA:",
+    "output": "ojoa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Lora Alberto Cathy Kara\" and concatenate them.\nA:",
+    "output": "aoya"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Missy Erin Lorna Lenny\" and concatenate them.\nA:",
+    "output": "ynay"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Claudia Cole Matthew Juan Pablo\" and concatenate them.\nA:",
+    "output": "aewo"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Arturo Dominick Christa Myles\" and concatenate them.\nA:",
+    "output": "okas"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Marc Doris Ernie Gary\" and concatenate them.\nA:",
+    "output": "csey"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Miriam Brandy Bertha Renato\" and concatenate them.\nA:",
+    "output": "myao"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Abel Mallory Theresa Quinn\" and concatenate them.\nA:",
+    "output": "lyan"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Guille Lisa Harvey Gina\" and concatenate them.\nA:",
+    "output": "eaya"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Arnold Aidan Ally Ami\" and concatenate them.\nA:",
+    "output": "dnyi"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Logan Ely Abbie Colleen\" and concatenate them.\nA:",
+    "output": "nyen"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Kristy Brandi Lizeth Petra\" and concatenate them.\nA:",
+    "output": "yiha"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Lupita Cyndi Kay Derrick\" and concatenate them.\nA:",
+    "output": "aiyk"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Felipe Heidi Nino Bradley\" and concatenate them.\nA:",
+    "output": "eioy"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Dorian Mayra Freddie Magaly\" and concatenate them.\nA:",
+    "output": "naey"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Ace Rosy Kimberly Jean\" and concatenate them.\nA:",
+    "output": "eyyn"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Jeremy Simone Alondra Wyatt\" and concatenate them.\nA:",
+    "output": "yeat"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Chance Valentin Micah Clara\" and concatenate them.\nA:",
+    "output": "enha"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Pedro Leopoldo Tee Mar\" and concatenate them.\nA:",
+    "output": "ooer"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Barbie Desiree Yaneth Dre\" and concatenate them.\nA:",
+    "output": "eehe"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Philip Antony Iris Alicia\" and concatenate them.\nA:",
+    "output": "pysa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Corey Elvin Tino Melvin\" and concatenate them.\nA:",
+    "output": "ynon"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Fred Nolan Johnathan Carson\" and concatenate them.\nA:",
+    "output": "dnnn"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Caroline Demetrius Fidel Solomon\" and concatenate them.\nA:",
+    "output": "esln"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Julio Sidney Aiden Shay\" and concatenate them.\nA:",
+    "output": "oyny"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Mabel Estela Irene May\" and concatenate them.\nA:",
+    "output": "laey"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Todd Joni Gil Fran\" and concatenate them.\nA:",
+    "output": "diln"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Tori Mariam Gaby Brayan\" and concatenate them.\nA:",
+    "output": "imyn"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Michel Roy Sergey Jessie\" and concatenate them.\nA:",
+    "output": "lyye"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Guadalupe Ebony Wil Luke\" and concatenate them.\nA:",
+    "output": "eyle"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Bill Santos Roxy Randi\" and concatenate them.\nA:",
+    "output": "lsyi"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Daphne Lola Joanna Sheena\" and concatenate them.\nA:",
+    "output": "eaaa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Juan Manuel Benjamin Rory Rafael\" and concatenate them.\nA:",
+    "output": "lnyl"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Fermin Berenice Marianne Eleanor\" and concatenate them.\nA:",
+    "output": "neer"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Sabrina Pete Mary La\" and concatenate them.\nA:",
+    "output": "aeya"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Sean Rebeca Marco Sami\" and concatenate them.\nA:",
+    "output": "naoi"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Justin Neal Jt Lucia\" and concatenate them.\nA:",
+    "output": "nlta"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Kathy Elsa Alba Ivette\" and concatenate them.\nA:",
+    "output": "yaae"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Leon Payton Stefan Javi\" and concatenate them.\nA:",
+    "output": "nnni"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Andres Mary Ann Sydney Dina\" and concatenate them.\nA:",
+    "output": "snya"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Clayton Edison Debbie Elvira\" and concatenate them.\nA:",
+    "output": "nnea"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Sal Scott Myrna Maximo\" and concatenate them.\nA:",
+    "output": "ltao"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Maria Elena Dewayne Mj Elliott\" and concatenate them.\nA:",
+    "output": "aejt"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Krishna Catalina Eileen Teddy\" and concatenate them.\nA:",
+    "output": "aany"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Drew Jhon Jayden Cliff\" and concatenate them.\nA:",
+    "output": "wnnf"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Trish Vero Victor Clemente\" and concatenate them.\nA:",
+    "output": "hore"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Juliet Ricardo Tita Dianna\" and concatenate them.\nA:",
+    "output": "toaa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Donald Lia Gonzalo Lily\" and concatenate them.\nA:",
+    "output": "daoy"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Georgina Joshua Lindsey C\u00e9sar\" and concatenate them.\nA:",
+    "output": "aayr"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"King Edith Traci Flor\" and concatenate them.\nA:",
+    "output": "ghir"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Jon Heath Reynaldo Catherine\" and concatenate them.\nA:",
+    "output": "nhoe"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Christina Edna Ileana Lynette\" and concatenate them.\nA:",
+    "output": "aaae"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Debora Jayson Donna Sai\" and concatenate them.\nA:",
+    "output": "anai"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Sunny Trisha Paul Guy\" and concatenate them.\nA:",
+    "output": "yaly"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Theo Sheila Mariana Esmeralda\" and concatenate them.\nA:",
+    "output": "oaaa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Cristal Roxana Rajesh Danny\" and concatenate them.\nA:",
+    "output": "lahy"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Geovanny Tom Katelyn Jennifer\" and concatenate them.\nA:",
+    "output": "ymnr"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Buddy Violet Johana Tina\" and concatenate them.\nA:",
+    "output": "ytaa"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Pauline Kerry Jeannette Hope\" and concatenate them.\nA:",
+    "output": "eyee"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Chloe Flaco Theodore Nathalie\" and concatenate them.\nA:",
+    "output": "eoee"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Agnes Adrienne Haley Riley\" and concatenate them.\nA:",
+    "output": "seyy"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Noelia Cassidy Ashok Francisco\" and concatenate them.\nA:",
+    "output": "ayko"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Charmaine Vic Homero Jeanine\" and concatenate them.\nA:",
+    "output": "ecoe"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Marco Antonio Suzette Roland Isabel\" and concatenate them.\nA:",
+    "output": "oedl"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Tim Candace Cecil Misael\" and concatenate them.\nA:",
+    "output": "mell"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Take the last letters of each words in \"Rich Parker Edward Milagros\" and concatenate them.\nA:",
+    "output": "hrds"
+  }
+]

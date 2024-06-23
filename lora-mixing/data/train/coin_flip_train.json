@@ -1,0 +1,1258 @@
+[
+  {
+    "input": "A coin is heads up. Lucky does not flip the coin. Mireya flips the coin. Jj flips the coin. Kc flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Lucky does not flip the coin, so the coin remains heads up. \nMireya flips the coin, so the coin is now tails up. \nJj flips the coin, so the coin is now heads up again. \nKc flips the coin, so the coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Caleb flips the coin. Chase flips the coin. Eleazar flips the coin. Chanel does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Caleb flips the coin, so it is now tails up. \nChase flips the coin, so it is now heads up again. \nEleazar flips the coin, so it is now tails up again. \nChanel does not flip the coin, so it remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Silvia flips the coin. Carolina does not flip the coin. Stan flips the coin. Chuck flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nSilvia flips the coin. The coin is now tails up. \nCarolina does not flip the coin. The coin is still tails up. \nStan flips the coin. The coin is now heads up. \nChuck flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Breanna flips the coin. Trey does not flip the coin. Omar flips the coin. Patrice does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Breanna flips the coin. The coin is now tails up. \nTrey does not flip the coin. The coin is still tails up. \nOmar flips the coin. The coin is now heads up. \nPatrice does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Lilian flips the coin. Ian flips the coin. Bryce flips the coin. Aracely does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nLilian flips the coin. The coin is now tails up. \nIan flips the coin. The coin is now heads up. \nBryce flips the coin. The coin is now tails up. \nAracely does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Walter does not flip the coin. Mikayla does not flip the coin. Larry does not flip the coin. Ryan does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Walter does not flip the coin, then the coin remains heads up. If Mikayla does not flip the coin, then the coin remains heads up. If Larry does not flip the coin, then the coin remains heads up. If Ryan does not flip the coin, then the coin remains heads up. So, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Angelina flips the coin. Layla flips the coin. Jenny flips the coin. Zane does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nAngelina flips the coin. The coin is now tails up. \nLayla flips the coin. The coin is now heads up. \nJenny flips the coin. The coin is now tails up. \nZane does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Jesse flips the coin. Roderick flips the coin. Travis does not flip the coin. Rita does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jesse flips the coin. The coin is now tails up. \nRoderick flips the coin. The coin is now heads up. \nTravis does not flip the coin. The coin is still heads up. \nRita does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Sterling flips the coin. Jenifer flips the coin. Patsy flips the coin. Denise flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Sterling flips the coin. The coin is now tails up. \nJenifer flips the coin. The coin is now heads up. \nPatsy flips the coin. The coin is now tails up. \nDenise flips the coin. The coin is now heads up. \n\nSo, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Beatriz flips the coin. Gillian does not flip the coin. Coco does not flip the coin. Vivian does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Beatriz flips the coin, so now it is tails up. \nGillian does not flip the coin, so it remains tails up. \nCoco does not flip the coin, so it remains tails up. \nVivian does not flip the coin, so it remains tails up. \n\nTherefore, the answer is no - the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Prince flips the coin. Rene flips the coin. Vishal flips the coin. Patrick does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nPrince flips the coin. The coin is now tails up. \nRene flips the coin. The coin is now heads up. \nVishal flips the coin. The coin is now tails up. \nPatrick does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Jae does not flip the coin. Dennis does not flip the coin. Cris flips the coin. Bernadette flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jae does not flip the coin, so the coin remains heads up. \nDennis does not flip the coin, so the coin remains heads up.\nCris flips the coin, so the coin is now tails up.\nBernadette flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Hank does not flip the coin. Janine does not flip the coin. Frankie flips the coin. Isa flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Hank does not flip the coin, so the coin remains heads up. \nJanine does not flip the coin, so the coin remains heads up. \nFrankie flips the coin, so the coin is now tails up. \nIsa flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Max does not flip the coin. Mikey does not flip the coin. Cynthia does not flip the coin. Holly flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "A coin is heads up. \nMax does not flip the coin. \nMikey does not flip the coin. \nCynthia does not flip the coin. \nHolly flips the coin.\n\nThe coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Christy flips the coin. Rey does not flip the coin. Michelle flips the coin. Dolly does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Christy flips the coin, so now it is tails up. Rey does not flip the coin, so it remains tails up. Michelle flips the coin, so now it is heads up again. Dolly does not flip the coin, so it remains heads up. \nSo yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Annie does not flip the coin. To\u00f1o flips the coin. Sharon flips the coin. Delores flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Annie does not flip the coin, so the coin remains heads up. \nTo\u00f1o flips the coin, so the coin is now tails up. \nSharon flips the coin, so the coin is now heads up again. \nDelores flips the coin, so the coin is now tails up. \n\nSo, to answer the question, the coin is not heads up after Delores flips it.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Jessy does not flip the coin. Libby does not flip the coin. Danielle flips the coin. Red flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jessy does not flip the coin. This means that the state of the coin does not change. The coin is still heads up. \nLibby does not flip the coin. This means that the state of the coin does not change. The coin is still heads up.\nDanielle flips the coin. This means that the state of the coin is now tails up. \nRed flips the coin. This means that the state of the coin is now heads up again. \n\nSo, to answer the question, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Jorge does not flip the coin. Natalia does not flip the coin. Bryant flips the coin. Kiran flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jorge and Natalia don't flip the coin, so the coin remains heads up. When Bryant flips the coin, it becomes tails up. When Kiran flips the coin again, it becomes heads up once more. So the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Yan does not flip the coin. Eunice does not flip the coin. Joseph flips the coin. Hugh does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Yan does not flip the coin, so the coin remains heads up. \nEunice does not flip the coin, so the coin remains heads up. \nJoseph flips the coin, so the coin is now tails up. \nHugh does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Domingo does not flip the coin. Briana flips the coin. Michael flips the coin. Joan does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Domingo does not flip the coin, so the coin remains heads up. \nBriana flips the coin, so the coin is now tails up. \nMichael flips the coin, so the coin is now heads up again. \nJoan does not flip the coin, so the coin remains heads up. \n\nTherefore, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Morgan flips the coin. Perla does not flip the coin. Joao does not flip the coin. Marta does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Morgan flips the coin. The coin is now tails up. \nPerla does not flip the coin. The coin is still tails up. \nJoao does not flip the coin. The coin is still tails up. \nMarta does not flip the coin. The coin is still tails up.\n\nSo, the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Rena does not flip the coin. Devon does not flip the coin. Rosalinda does not flip the coin. Paulina does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Rena does not flip the coin. \nDevon does not flip the coin.\nRosalinda does not flip the coin. \nPaulina does not flip the coin.\n\nIn other words, the coin has not been touched, so it is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Axel flips the coin. Osvaldo flips the coin. Mildred does not flip the coin. Sylvia flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Axel flips the coin. This means that the coin is now tails up. \nOsvaldo flips the coin. This means that the coin is now heads up again. \nMildred does not flip the coin. This means that the coin remains heads up. \nSylvia flips the coin. This means that the coin is now tails up again. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Jacky flips the coin. Socorro flips the coin. Mark flips the coin. Wanda does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jacky flips the coin, so it's now tails up. \nSocorro flips the coin, so it's now heads up again. \nMark flips the coin, so it's now tails up again. \nWanda does not flip the coin, so it remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Mauricio flips the coin. Lee does not flip the coin. Madi does not flip the coin. Lizzie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Mauricio flips the coin. The coin is now tails up. \nLee does not flip the coin. The coin is still tails up. \nMadi does not flip the coin. The coin is still tails up. \nLizzie flips the coin. The coin is now heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Ruben flips the coin. Bernardo flips the coin. Ariel does not flip the coin. Shelley flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Ruben flips the coin, so now it is tails up. \nBernardo flips the coin, so now it is heads up again. \nAriel does not flip the coin, so it remains heads up. \nShelley flips the coin, so now it is tails up again.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Ari flips the coin. Jasmine does not flip the coin. Elliot flips the coin. Kendrick flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Ari flips the coin. This means that the coin is now tails up. \nJasmine does not flip the coin. This means that the coin remains tails up. \nElliot flips the coin. This means that the coin is now heads up again. \nKendrick flips the coin. This means that the coin is now tails up. \n\nSo, to answer the question, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Kennedy flips the coin. Ginny does not flip the coin. Iliana flips the coin. Sky does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \n\nKennedy flips the coin. The coin is now tails up. \n\nGinny does not flip the coin. The coin is still tails up. \n\nIliana flips the coin. The coin is now heads up. \n\nSky does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Skylar flips the coin. Chrissy does not flip the coin. Misty flips the coin. Kike flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Skylar flips the coin. The coin is now tails up. \nChrissy does not flip the coin. The coin is still tails up. \nMisty flips the coin. The coin is now heads up. \nKike flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Gavin flips the coin. Neha does not flip the coin. Asha does not flip the coin. Baltazar does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Gavin flips the coin. This means that the coin is now tails up. \nNeha does not flip the coin. This means that the coin remains tails up. \nAsha does not flip the coin. This means that the coin remains tails up. \nBaltazar does not flip the coin. This means that the coin remains tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Camilo flips the coin. Becky does not flip the coin. Eliza does not flip the coin. Rebecca does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Camilo flips the coin. The coin is now tails up. \nBecky does not flip the coin. The coin is still tails up. \nEliza does not flip the coin. The coin is still tails up. \nRebecca does not flip the coin. The coin is still tails up. \n\nSo, the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Alexandria does not flip the coin. Meghan does not flip the coin. Autumn does not flip the coin. Robert does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Alexandria does not flip the coin. This means that the coin remains in the same orientation. \nMeghan does not flip the coin. This means that the coin remains in the same orientation. \nAutumn does not flip the coin. This means that the coin remains in the same orientation. \nRobert does not flip the coin. This means that the coin remains in the same orientation. \n\nTherefore, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Shari flips the coin. Bella flips the coin. Liza does not flip the coin. Maira does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Shari flips the coin. The coin is now tails up. \nBella flips the coin. The coin is now heads up. \nLiza does not flip the coin. The coin is still heads up. \nMaira does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Lazaro does not flip the coin. Ana flips the coin. Charlotte flips the coin. Precious flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Lazaro does not flip the coin, so the coin remains heads up. \nAna flips the coin, so the coin is now tails up. \nCharlotte flips the coin, so the coin is now heads up again. \nPrecious flips the coin, so the coin is now tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Julieta flips the coin. Zachary flips the coin. Jared flips the coin. Tyson does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Julieta flips the coin. This means that if the coin was heads up, it is now tails up. \nZachary flips the coin. This means that if the coin was tails up, it is now heads up. \nJared flips the coin. This means that if the coin was heads up, it is now tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Vicente does not flip the coin. Dayana does not flip the coin. Kasey does not flip the coin. Lin does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Vicente does not flip the coin. This means that the coin's current state is not changed. \nDayana does not flip the coin. This means that the coin's current state is not changed. \nKasey does not flip the coin. This means that the coin's current state is not changed. \nLin does not flip the coin. This means that the coin's current state is not changed. \nTherefore, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Craig flips the coin. Dillon does not flip the coin. Troy does not flip the coin. Griselda does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Craig flips the coin. The coin is now tails up.\nDillon does not flip the coin. The coin is still tails up.\nTroy does not flip the coin. The coin is still tails up.\nGriselda does not flip the coin. The coin is still tails up.\n\nSo, the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Dave does not flip the coin. Ernesto does not flip the coin. Liam does not flip the coin. Marsha does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nDave does not flip the coin. \nThe coin is still heads up. \nErnesto does not flip the coin. \nThe coin is still heads up. \nLiam does not flip the coin. \nThe coin is still heads up. \nMarsha does not flip the coin. \nThe coin is still heads up. \n\nYes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Ira flips the coin. Paola flips the coin. Jose Antonio does not flip the coin. Maria does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Ira flips the coin. The coin is now tails up.\n\nPaola flips the coin. The coin is now heads up.\n\nJose Antonio does not flip the coin. The coin remains tails up.\n\nMaria does not flip the coin. The coin remains heads up.\n\n\nSo, the final answer is that the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Manish does not flip the coin. Lu flips the coin. Karl does not flip the coin. Don flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nManish does not flip the coin. \nThe coin is still heads up. \nLu flips the coin. \nThe coin is now tails up. \nKarl does not flip the coin. \nThe coin is still tails up. \nDon flips the coin. \nThe coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Irving flips the coin. Hans flips the coin. Moses does not flip the coin. Nicole does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nIrving flips the coin. The coin is now tails up. \nHans flips the coin. The coin is now heads up. \nMoses does not flip the coin. The coin is still heads up. \nNicole does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Maura flips the coin. Selvin does not flip the coin. Tabitha flips the coin. Gino flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Maura flips the coin. This means that the coin is now tails up. \nSelvin does not flip the coin. This means that the coin remains tails up. \nTabitha flips the coin. This means that the coin is now heads up again. \nGino flips the coin. This means that the coin is now tails up. \n\nSo the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Noelle does not flip the coin. Byron flips the coin. Jane does not flip the coin. Darin does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Noelle does not flip the coin, so the coin remains heads up. Byron flips the coin, so the coin is now tails up. Jane does not flip the coin, so the coin remains tails up. Darin does not flip the coin, so the coin remains tails up. So, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Meagan does not flip the coin. Naomi does not flip the coin. Israel does not flip the coin. Marie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Meagan, Naomi, and Israel all don't touch the coin, then of course the coin is still heads up. If Marie flips the coin, then the coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Laila does not flip the coin. Audrey does not flip the coin. Glenn does not flip the coin. Rhonda does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Laila does not flip the coin. So, the coin is still heads up. \nAudrey does not flip the coin. So, the coin is still heads up.\nGlenn does not flip the coin. So, the coin is still heads up. \nRhonda does not flip the coin. So, the coin is still heads up. \n\nTherefore, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Regina does not flip the coin. Joel does not flip the coin. Justice does not flip the coin. Eli does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Regina does not flip the coin, then the coin remains heads up. If Joel does not flip the coin, then the coin remains heads up. If Justice does not flip the coin, then the coin remains heads up. If Eli does not flip the coin, then the coin remains heads up. So, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Janet does not flip the coin. Ant does not flip the coin. Vickie flips the coin. Elias flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Janet does not flip the coin, so the coin remains heads up. \nAnt does not flip the coin, so the coin remains heads up. \nVickie flips the coin, so the coin is now tails up. \nElias flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Tristan does not flip the coin. Marleny flips the coin. Santiago flips the coin. Viviana flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Tristan does not flip the coin, so the coin remains heads up. \nMarleny flips the coin, so the coin is now tails up. \nSantiago flips the coin, so the coin is now heads up again. \nViviana flips the coin, so the coin is now tails up. \n\nSo, to answer the question, the coin is not heads up after Viviana flips it.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Carole flips the coin. William flips the coin. Tiffany flips the coin. Hilary does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nCarole flips the coin. The coin is now tails up. \nWilliam flips the coin. The coin is now heads up. \nTiffany flips the coin. The coin is now tails up. \nHilary does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Amparo flips the coin. Gianna does not flip the coin. Dion flips the coin. Tessa flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Amparo flips the coin. This means that the coin is now tails up. \nGianna does not flip the coin. This means that the coin remains tails up. \nDion flips the coin. This means that the coin is now heads up again. \nTessa flips the coin. This means that the coin is now tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Issa flips the coin. Kendra flips the coin. Ignacio flips the coin. Henry flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Step 1: Issa flips the coin.\n\nThe coin is now heads down.\n\nStep 2: Kendra flips the coin.\n\nThe coin is now heads up.\n\nStep 3: Ignacio flips the coin.\n\nThe coin is now heads down.\n\nStep 4: Henry flips the coin.\n\nThe coin is now heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Chantal does not flip the coin. Ines does not flip the coin. Valeria flips the coin. Francesca does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Chantal does not flip the coin, so the coin remains heads up. \nInes does not flip the coin, so the coin remains heads up. \nValeria flips the coin, so the coin is now tails up. \nFrancesca does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Ron flips the coin. Carl flips the coin. Joann does not flip the coin. Young flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Ron flips the coin. This means that if the coin was heads up, it is now tails up. \nCarl flips the coin. This means that if the coin was tails up, it is now heads up. \nJoann does not flip the coin. This means that the state of the coin (heads up or tails up) remains the same. \nYoung flips the coin. This means that if the coin was heads up, it is now tails up. \n\nSo, after all of this, the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Tomas does not flip the coin. Nic flips the coin. Zoila flips the coin. Calvin does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Tomas does not flip the coin, so the coin remains heads up. \nNic flips the coin, so the coin is now tails up. \nZoila flips the coin, so the coin is now heads up again. \nCalvin does not flip the coin, so the coin remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Gabe does not flip the coin. Dora flips the coin. Aileen does not flip the coin. Modesto does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Gabe does not flip the coin, so the coin remains heads up. \nDora flips the coin, so the coin is now tails up. \nAileen does not flip the coin, so the coin remains tails up. \nModesto does not flip the coin, so the coin remains tails up. \n\nTherefore, the answer is yes, the coin is still heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Carolyn flips the coin. Sasha does not flip the coin. Mercy does not flip the coin. Keri flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Carolyn flips the coin, so it is now tails up. Sasha does not flip the coin, so it remains tails up. Mercy does not flip the coin, so it remains tails up. Keri flips the coin, so it is now heads up again. So the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Selena does not flip the coin. Keisha flips the coin. Gladys does not flip the coin. Cedric does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Selena does not flip the coin, so the coin remains heads up. Keisha flips the coin, so the coin is now tails up. Gladys does not flip the coin, so the coin remains tails up. Cedric does not flip the coin, so the coin remains tails up. So the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. April does not flip the coin. Molly does not flip the coin. Maurice flips the coin. Jaclyn flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nApril does not flip the coin. \nMolly does not flip the coin. \nMaurice flips the coin. The coin is now tails up. \nJaclyn flips the coin. The coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Markus does not flip the coin. Kathryn does not flip the coin. Giovanna does not flip the coin. Kent does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Markus does not flip the coin, then the coin remains heads up. If Kathryn does not flip the coin, then the coin remains heads up. If Giovanna does not flip the coin, then the coin remains heads up. If Kent does not flip the coin, then the coin remains heads up. So, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Desmond flips the coin. Camille flips the coin. Joana flips the coin. Garcia flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Desmond flips the coin. The coin is now tails up.\nCamille flips the coin. The coin is now heads up.\nJoana flips the coin. The coin is now tails up.\nGarcia flips the coin. The coin is now heads up.\n\nSo, the final answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Quinton does not flip the coin. Sam flips the coin. Soledad does not flip the coin. Becca flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Quinton does not flip the coin, so the coin remains heads up. \nSam flips the coin, so the coin is now tails up. \nSoledad does not flip the coin, so the coin remains tails up. \nBecca flips the coin, so the coin is now heads up again. \n\nSo, the final answer is that the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Manolo does not flip the coin. Bobbie does not flip the coin. Ash does not flip the coin. Jaqueline does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "A coin is heads up. \n\nThat's the starting point, and we know it to be true. \n\nManolo does not flip the coin. \n\nThat's fine, the coin is still heads up. \n\nBobbie does not flip the coin. \n\nAgain, that's fine, the coin is still heads up. \n\nAsh does not flip the coin. \n\nAnd again, the coin is still heads up. \n\nJaqueline does not flip the coin. \n\nFinally, Jaqueline doesn't flip the coin, and\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Jorge Luis does not flip the coin. Mo flips the coin. Alexia flips the coin. Jerry does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jorge Luis does not flip the coin, so the coin remains heads up. Mo flips the coin, so the coin is now tails up. Alexia flips the coin, so the coin is now heads up again. Jerry does not flip the coin, so the coin remains heads up. So, to answer the question, yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Kali does not flip the coin. Jeanette flips the coin. Tess does not flip the coin. Devin does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Kali does not flip the coin, so the coin remains heads up. Jeanette flips the coin, so the coin is now tails up. Tess does not flip the coin, so the coin remains tails up. Devin does not flip the coin, so the coin remains tails up. So, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Nabil does not flip the coin. Marlene does not flip the coin. Wendy flips the coin. Jillian does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Nabil does not flip the coin, so the coin remains heads up. \nMarlene does not flip the coin, so the coin remains heads up. \nWendy flips the coin, so the coin is now tails up. \nJillian does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Charity flips the coin. Svetlana does not flip the coin. Jamie does not flip the coin. Jose A does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Charity flips the coin, so it's now tails up. \nSvetlana doesn't flip the coin, so it remains tails up. \nJamie doesn't flip the coin, so it remains tails up. \nJose A doesn't flip the coin, so it remains tails up. \nTherefore, the answer is yes, the coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Dalila flips the coin. Emily flips the coin. Casey does not flip the coin. Clifford does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Dalila flips the coin, so it's now tails up. \nEmily flips the coin, so it's now heads up again. \nCasey does not flip the coin, so it remains heads up. \nClifford does not flip the coin, so it remains heads up. \nTherefore, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Blake flips the coin. Hunter flips the coin. Lou flips the coin. Spencer does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nBlake flips the coin. The coin is now tails up. \nHunter flips the coin. The coin is now heads up. \nLou flips the coin. The coin is now tails up. \nSpencer does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Donny flips the coin. Lucero does not flip the coin. Christopher flips the coin. Gregory flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up.\nDonny flips the coin.\n\nNow, the coin is tails up.\n\nLucero does not flip the coin.\n\nThe coin is still tails up.\n\nChristopher flips the coin.\n\nNow, the coin is heads up again.\n\nGregory flips the coin.\n\nNow, the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Hayden flips the coin. Maya does not flip the coin. Zack flips the coin. Roberto flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Hayden flips the coin. The coin is now tails up.\nMaya does not flip the coin. The coin is still tails up.\nZack flips the coin. The coin is now heads up.\nRoberto flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Madeline flips the coin. Mckenzie does not flip the coin. Louie does not flip the coin. Dylan flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nMadeline flips the coin. \nNow, the coin is tails up. \nMckenzie does not flip the coin. \nLouie does not flip the coin. \nDylan flips the coin. \nNow, the coin is heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Guillermina flips the coin. Evelin flips the coin. Dominique flips the coin. Johnny does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Guillermina flips the coin. The coin is now tails up. \nEvelin flips the coin. The coin is now heads up. \nDominique flips the coin. The coin is now tails up. \nJohnny does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Margaret does not flip the coin. Rosi flips the coin. Willy flips the coin. Charlene does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Margaret does not flip the coin, so the coin remains heads up. \nRosi flips the coin, so the coin is now tails up. \nWilly flips the coin, so the coin is now heads up again. \nCharlene does not flip the coin, so the coin remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Davis flips the coin. Jules does not flip the coin. Fabiola flips the coin. Cherie does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Davis flips the coin. This means that the coin is now tails up. \nJules does not flip the coin. This means that the coin remains tails up. \nFabiola flips the coin. This means that the coin is now heads up again. \nCherie does not flip the coin. This means that the coin remains heads up. \n\nSo, to answer the question, yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Jeff does not flip the coin. Jen flips the coin. Giselle flips the coin. Noel does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jeff does not flip the coin, so the coin remains heads up. \nJen flips the coin, so the coin is now tails up. \nGiselle flips the coin, so the coin is now heads up again. \nNoel does not flip the coin, so the coin remains heads up. \n\nTherefore, the final answer is that the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Kristi flips the coin. Eduardo does not flip the coin. Angelo does not flip the coin. Clare does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Kristi flips the coin. This means that if the coin was heads up, it is now tails up. \nEduardo does not flip the coin. This means that the coin's current state remains the same. \nAngelo does not flip the coin. This means that the coin's current state remains the same. \nClare does not flip the coin. This means that the coin's current state remains the same. \n\nTherefore, the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Alina does not flip the coin. Alessandra does not flip the coin. Amina does not flip the coin. Bianca flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "A coin is heads up. \nAlina does not flip the coin. \nAlessandra does not flip the coin. \nAmina does not flip the coin. \nBianca flips the coin. \n\nThe coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Jordan does not flip the coin. Yoni flips the coin. Lawrence does not flip the coin. Aura flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jordan does not flip the coin, so the coin remains heads up. \nYoni flips the coin, so the coin is now tails up. \nLawrence does not flip the coin, so the coin remains tails up. \nAura flips the coin, so the coin is now heads up again. \n\nSo, to answer your question, the coin is heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Timmy does not flip the coin. Katherine does not flip the coin. Gabriel flips the coin. Nate does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin starts heads up.\nTimmy does not flip the coin, so it remains heads up.\nKatherine does not flip the coin, so it remains heads up.\nGabriel flips the coin, so it is now tails up.\nNate does not flip the coin, so it remains tails up.\n\nTherefore, the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Raymundo flips the coin. Jonathon flips the coin. Lexi does not flip the coin. Rony flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nRaymundo flips the coin. The coin is now tails up. \nJonathon flips the coin. The coin is now heads up. \nLexi does not flip the coin. The coin is still heads up. \nRony flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Amy flips the coin. Ella does not flip the coin. Amilcar does not flip the coin. Roman does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Amy flips the coin. This means that the coin is now tails up. \nElla does not flip the coin. This means that the coin remains tails up. \nAmilcar does not flip the coin. This means that the coin remains tails up. \nRoman does not flip the coin. This means that the coin remains tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Bailey flips the coin. Lourdes does not flip the coin. Brianna does not flip the coin. Mart\u00edn flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Bailey flips the coin. This means that the coin is now tails up.\nLourdes does not flip the coin. This means that the coin remains tails up.\nBrianna does not flip the coin. This means that the coin remains tails up.\nMart\u00edn flips the coin. This means that the coin is now heads up again.\n\n\nSo to answer the question, yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Daniella flips the coin. Dianne does not flip the coin. Ram flips the coin. Mirian flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Daniella flips the coin. This means that if the coin was heads up, it is now tails up. \nDianne does not flip the coin. This means that the coin remains in the same state as it was after Daniella's flip. \nRam flips the coin. This means that if the coin was heads up, it is now tails up. \nMirian flips the coin. This means that if the coin was heads up, it is now tails up. \n\nSo, the final state of the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Rosie does not flip the coin. Charlie does not flip the coin. Mick flips the coin. Jacquelyn does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Rosie does not flip the coin, so the coin remains heads up. \nCharlie does not flip the coin, so the coin remains heads up. \nMick flips the coin, so the coin is now tails up. \nJacquelyn does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Ericka does not flip the coin. Aly flips the coin. Darius does not flip the coin. Reed flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Ericka does not flip the coin, so the coin remains heads up. Aly flips the coin, so the coin is now tails up. Darius does not flip the coin, so the coin remains tails up. Reed flips the coin, so the coin is now heads up again. So the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Glenda flips the coin. Beverly flips the coin. Agustin flips the coin. Igor does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Glenda flips the coin. The coin is now tails up. \nBeverly flips the coin. The coin is now heads up. \nAgustin flips the coin. The coin is now tails up. \nIgor does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Shannon does not flip the coin. Millie flips the coin. Rosemary does not flip the coin. Priyanka flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Shannon does not flip the coin, so the coin remains heads up. \nMillie flips the coin, so the coin is now tails up. \nRosemary does not flip the coin, so the coin remains tails up. \nPriyanka flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Cristian flips the coin. Nik does not flip the coin. Gwen flips the coin. Josiah flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Cristian flips the coin, so now it is tails up. \nNik does not flip the coin, so it remains tails up. \nGwen flips the coin, so now it is heads up again. \nJosiah flips the coin, so now it is tails up. \n\nSo the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Clarissa does not flip the coin. Shauna does not flip the coin. Alexis does not flip the coin. Branden flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nClarissa does not flip the coin. The coin is still heads up. \nShauna does not flip the coin. The coin is still heads up. \nAlexis does not flip the coin. The coin is still heads up. \nBranden flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Barb does not flip the coin. Gage flips the coin. Kristian flips the coin. Asia does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nBarb does not flip the coin. \nThe coin is still heads up. \nGage flips the coin. \nThe coin is now tails up. \nKristian flips the coin. \nThe coin is now heads up again. \nAsia does not flip the coin. \nThe coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Emilia flips the coin. Jonas flips the coin. Christi does not flip the coin. Sophia does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Emilia flips the coin. The coin is now tails up. \nJonas flips the coin. The coin is now heads up. \nChristi does not flip the coin. The coin is still heads up. \nSophia does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Abdi does not flip the coin. Clyde does not flip the coin. Ana Maria does not flip the coin. Pepe does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Abdi does not flip the coin, then the coin remains heads up. If Clyde does not flip the coin, then the coin remains heads up. If Ana Maria does not flip the coin, then the coin remains heads up. If Pepe does not flip the coin, then the coin remains heads up. So, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Steph flips the coin. Pablo flips the coin. Ceci flips the coin. Francine flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Steph flips the coin, so it's now tails up. \nPablo flips the coin, so it's now heads up again. \nCeci flips the coin, so it's tails up again. \nFrancine flips the coin, so it's heads up again. \nSo yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Orlando does not flip the coin. Colby does not flip the coin. Julius flips the coin. Ofelia flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Orlando does not flip the coin, so the coin remains heads up. \nColby does not flip the coin, so the coin remains heads up. \nJulius flips the coin, so the coin is now tails up. \nOfelia flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Marshall flips the coin. Herman does not flip the coin. Faye does not flip the coin. Grant does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Marshall flips the coin. This means that the coin is now tails up. \nHerman does not flip the coin. This means that the coin remains tails up. \nFaye does not flip the coin. This means that the coin remains tails up. \nGrant does not flip the coin. This means that the coin remains tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Bernard does not flip the coin. Lidia flips the coin. Sebastian does not flip the coin. Judy does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Bernard does not flip the coin, so the coin remains heads up. \nLidia flips the coin, so the coin is now tails up. \nSebastian does not flip the coin, so the coin remains tails up. \nJudy does not flip the coin, so the coin remains tails up. \n\nTherefore, the answer is no - the coin is not heads up anymore.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Kyra does not flip the coin. Luciano flips the coin. Ciara does not flip the coin. Bryan flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Kyra does not flip the coin, so the coin remains heads up. \nLuciano flips the coin, so the coin is now tails up. \nCiara does not flip the coin, so the coin remains tails up. \nBryan flips the coin, so the coin is now heads up again. \n\nSo, to answer the question, the coin is heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Myriam does not flip the coin. Jos\u00e9 flips the coin. Cecy flips the coin. Faisal flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Myriam does not flip the coin. This means that the coin remains in the same state, heads up. \nJos\u00e9 flips the coin. This means that the coin is now tails up. \nCecy flips the coin. This means that the coin is now heads up again. \nFaisal flips the coin. This means that the coin is now tails up. \n\nSo, to answer the question, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Memo flips the coin. Joey does not flip the coin. Phil flips the coin. Samuel flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nMemo flips the coin. The coin is now tails up. \nJoey does not flip the coin. The coin is still tails up. \nPhil flips the coin. The coin is now heads up. \nSamuel flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Angel flips the coin. Sheryl flips the coin. Dulce flips the coin. Kenny flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nAngel flips the coin. The coin is now tails up. \nSheryl flips the coin. The coin is now heads up. \nDulce flips the coin. The coin is now tails up. \nKenny flips the coin. The coin is now heads up. \n\nSo, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Talia flips the coin. Nicki does not flip the coin. Tia flips the coin. Divya does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Talia flips the coin, so now it is tails up. \nNicki does not flip the coin, so it remains tails up. \nTia flips the coin, so now it is heads up again. \nDivya does not flip the coin, so it remains heads up. \n\nYes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Clinton flips the coin. Yanira flips the coin. Barbara flips the coin. Betsy flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Clinton flips the coin. The coin is now tails up. \nYanira flips the coin. The coin is now heads up. \nBarbara flips the coin. The coin is now tails up. \nBetsy flips the coin. The coin is now heads up. \n\nSo, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Erwin does not flip the coin. Chad does not flip the coin. Margarito does not flip the coin. Shanna does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Erwin does not flip the coin, then the coin remains heads up. If Chad does not flip the coin, then the coin remains heads up. If Margarito does not flip the coin, then the coin remains heads up. If Shanna does not flip the coin, then the coin remains heads up. So, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Connie does not flip the coin. Elena does not flip the coin. Tami flips the coin. Stuart does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Connie does not flip the coin. So, the coin is still heads up. \nElena does not flip the coin. So, the coin is still heads up. \nTami flips the coin. So, the coin is now tails up. \nStuart does not flip the coin. So, the coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Blaine flips the coin. Syed flips the coin. Priya does not flip the coin. Ruby flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nBlaine flips the coin. The coin is now tails up. \nSyed flips the coin. The coin is now heads up. \nPriya does not flip the coin. The coin is still heads up. \nRuby flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Anand flips the coin. Estefania does not flip the coin. Stanley flips the coin. Lizette flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Anand flips the coin, so it's now tails up. Estefania doesn't flip the coin, so it remains tails up. Stanley flips the coin, so it's now heads up again. Lizette flips the coin, so it's now tails up. So the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Sunil flips the coin. Tiana does not flip the coin. Darla does not flip the coin. Darnell flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Sunil flips the coin, so it's now tails up.\nTiana does not flip the coin, so it remains tails up.\nDarla does not flip the coin, so it remains tails up.\nDarnell flips the coin, so it's now heads up again.\n\nSo the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Marty flips the coin. Justine flips the coin. Edgardo does not flip the coin. Osman flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Marty flips the coin, so it's now tails up. \nJustine flips the coin, so it's now heads up again. \nEdgardo does not flip the coin, so it stays heads up. \nOsman flips the coin, so it's now tails up again. \n\nSo the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Gayle does not flip the coin. Doreen does not flip the coin. Chelsey flips the coin. Helena does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Gayle does not flip the coin, so the coin remains heads up. \nDoreen does not flip the coin, so the coin remains heads up. \nChelsey flips the coin, so the coin is now tails up. \nHelena does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Donnie does not flip the coin. Alli does not flip the coin. Terry flips the coin. Krystal does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin starts heads up. \nDonnie does not flip the coin, so it remains heads up. \nAlli does not flip the coin, so it remains heads up. \nTerry flips the coin, so it is now tails up. \nKrystal does not flip the coin, so it remains tails up. \n\nTherefore, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Carlos does not flip the coin. Jackie does not flip the coin. Callie flips the coin. Caitlin flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up.\n\nCarlos does not flip the coin. Jackie does not flip the coin.\n\nThe coin is still heads up.\n\nCallie flips the coin.\n\nThe coin is now tails up.\n\nCaitlin flips the coin.\n\nThe coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Kelvin does not flip the coin. Brennan does not flip the coin. Carina flips the coin. Paty does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Kelvin does not flip the coin, so the coin remains heads up. \nBrennan does not flip the coin, so the coin remains heads up. \nCarina flips the coin, so the coin is now tails up. \nPaty does not flip the coin, so the coin remains tails up. \nTherefore, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Bob flips the coin. Aman does not flip the coin. Richie flips the coin. Sana does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nBob flips the coin. The coin is now tails up. \nAman does not flip the coin. The coin is still tails up. \nRichie flips the coin. The coin is now heads up. \nSana does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Guillermo does not flip the coin. Gerry does not flip the coin. Lizbeth flips the coin. Charly flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Guillermo does not flip the coin. This means that the coin remains in the same state, heads up. \nGerry does not flip the coin. This means that the coin remains in the same state, heads up.\nLizbeth flips the coin. This means that the coin is now tails up. \nCharly flips the coin. This means that the coin is now heads up again. \n\nSo, to answer the question, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Reginald does not flip the coin. Franky flips the coin. Kira flips the coin. Gordon flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Reginald does not flip the coin, so the coin is still heads up. \nFranky flips the coin, so the coin is now tails up. \nKira flips the coin, so the coin is now heads up again. \nGordon flips the coin, so the coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Bret does not flip the coin. Lois flips the coin. Ismael flips the coin. Mirna flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Bret does not flip the coin, so the coin remains heads up. Lois flips the coin, so the coin is now tails up. Ismael flips the coin, so the coin is now heads up again. Mirna flips the coin, so the coin is now tails up. So, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Yvonne does not flip the coin. Rafaela does not flip the coin. Jb does not flip the coin. Salomon does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Yvonne does not flip the coin, then the coin remains heads up. If Rafaela does not flip the coin, then the coin remains heads up. If Jb does not flip the coin, then the coin remains heads up. Salomon also does not flip the coin, so the coin remains heads up. Therefore, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Martin does not flip the coin. Sage does not flip the coin. Tanisha does not flip the coin. Rick does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Martin does not flip the coin. \nSage does not flip the coin. \nTanisha does not flip the coin. \nRick does not flip the coin.\n\nThe coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Mel does not flip the coin. Josh flips the coin. Alejandra flips the coin. Harley flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up.\nMel does not flip the coin.\nJosh flips the coin.\nAlejandra flips the coin.\nHarley flips the coin.\n\nThe coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Diego does not flip the coin. Val flips the coin. Vincent does not flip the coin. Stacie does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Diego does not flip the coin, so the coin remains heads up. Val flips the coin, so the coin is now tails up. Vincent does not flip the coin, so the coin remains tails up. Stacie does not flip the coin, so the coin remains tails up. So, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Paula does not flip the coin. Irina flips the coin. Laurel does not flip the coin. Maribel flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Paula does not flip the coin, so the coin remains heads up. \nIrina flips the coin, so the coin is now tails up. \nLaurel does not flip the coin, so the coin remains tails up. \nMaribel flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Andr\u00e9s does not flip the coin. Miles does not flip the coin. Ronaldo flips the coin. Melinda flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Andres does not flip the coin, so the coin remains heads up. \nMiles does not flip the coin, so the coin remains heads up. \nRonaldo flips the coin, so the coin is now tails up. \nMelinda flips the coin, so the coin is now heads up again. \n\nSo, the final answer is that the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Williams does not flip the coin. Reza flips the coin. Ashton flips the coin. Lillian flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Williams does not flip the coin, so the coin remains heads up. \nReza flips the coin, so the coin is now tails up. \nAshton flips the coin, so the coin is now heads up again. \nLillian flips the coin, so the coin is now tails up. \n\nSo, to answer the question, the coin is not heads up anymore.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Itzel flips the coin. Anderson does not flip the coin. Kenia does not flip the coin. Edy flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Itzel flips the coin. This means that the coin is now tails up.\n\nAnderson does not flip the coin. This means that the coin remains tails up.\n\nKenia does not flip the coin. This means that the coin remains tails up.\n\nEdy flips the coin. This means that the coin is now heads up again.\n\n\nSo, to answer the question, yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Nico does not flip the coin. Lorenzo flips the coin. Johanna does not flip the coin. Teresita does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Nico does not flip the coin, so the coin remains heads up. \nLorenzo flips the coin, so the coin is now tails up. \nJohanna does not flip the coin, so the coin remains tails up. \nTeresita does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Lionel flips the coin. Fiona flips the coin. Bobby does not flip the coin. Janeth does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Lionel flips the coin. The coin is now tails up. \nFiona flips the coin. The coin is now heads up. \nBobby does not flip the coin. The coin is still heads up. \nJaneth does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Dany flips the coin. Hilda flips the coin. Butch flips the coin. Mahesh does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nDany flips the coin. The coin is now tails up. \nHilda flips the coin. The coin is now heads up. \nButch flips the coin. The coin is now tails up. \nMahesh does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Deon flips the coin. Lane flips the coin. Everett flips the coin. Lindsay flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. Deon flips the coin. \n\nThe coin is now tails up. \n\nLane flips the coin. \n\nThe coin is now heads up. \n\nEverett flips the coin. \n\nThe coin is now tails up. \n\nLindsay flips the coin. \n\nThe coin is now heads up. \n\nSo, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Ubaldo does not flip the coin. Katrina flips the coin. Francis does not flip the coin. Lynn flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Ubaldo does not flip the coin, so the coin remains heads up. \nKatrina flips the coin, so the coin is now tails up. \nFrancis does not flip the coin, so the coin remains tails up. \nLynn flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Lesley flips the coin. Luna flips the coin. Nadia does not flip the coin. Adriana flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Lesley flips the coin. This means that the coin is now tails up. \nLuna flips the coin. This means that the coin is now heads up again. \nNadia does not flip the coin. This means that the coin remains heads up. \nAdriana flips the coin. This means that the coin is now tails up again. \n\nSo the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Maureen flips the coin. Fabian flips the coin. Claudette flips the coin. Peyton flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Maureen flips the coin. The coin is now tails up. \nFabian flips the coin. The coin is now heads up. \nClaudette flips the coin. The coin is now tails up. \nPeyton flips the coin. The coin is now heads up. \n\nSo, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Ramona does not flip the coin. Lucy flips the coin. Gail does not flip the coin. Octavio flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Ramona does not flip the coin, so the coin remains heads up. \nLucy flips the coin, so the coin is now tails up. \nGail does not flip the coin, so the coin remains tails up. \nOctavio flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Sue flips the coin. Cassandra flips the coin. Cody flips the coin. Cali does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Sue flips the coin, so now it is tails up. \nCassandra flips the coin, so now it is heads up again. \nCody flips the coin, so now it is tails up again. \nCali does not flip the coin, so it remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Efrain does not flip the coin. Rickey does not flip the coin. Jonathan flips the coin. Kelli does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Efrain does not flip the coin, so the coin remains heads up. \nRickey does not flip the coin, so the coin remains heads up. \nJonathan flips the coin, so the coin is now tails up. \nKelli does not flip the coin, so the coin remains tails up. \n\nTherefore, the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Bobbi does not flip the coin. Tamika does not flip the coin. Zac does not flip the coin. Lala flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "A coin is heads up. \nBobbi does not flip the coin. \nThe coin is still heads up. \nTamika does not flip the coin. \nThe coin is still heads up. \nZac does not flip the coin. \nThe coin is still heads up. \nLala flips the coin. \nThe coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Kendall does not flip the coin. Matias flips the coin. Kaleb flips the coin. Randy does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Kendall does not flip the coin, so the coin remains heads up. \nMatias flips the coin, so the coin is now tails up. \nKaleb flips the coin, so the coin is now heads up again. \nRandy does not flip the coin, so the coin remains heads up. \n\nTherefore, the final answer is that the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Armando flips the coin. Astrid does not flip the coin. Anibal flips the coin. Dakota does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Armando flips the coin. This means that the coin is now tails up. \nAstrid does not flip the coin. This means that the coin remains tails up. \nAnibal flips the coin. This means that the coin is now heads up again. \nDakota does not flip the coin. This means that the coin remains heads up. \n\nSo, the final answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Deandre does not flip the coin. Moe does not flip the coin. Jack does not flip the coin. Vanessa does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Deandre does not flip the coin, then the coin is still heads up. If Moe does not flip the coin, then the coin is still heads up. If Jack does not flip the coin, then the coin is still heads up. If Vanessa does not flip the coin, then the coin is still heads up. So, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Tere does not flip the coin. Niko flips the coin. Keith does not flip the coin. Conner does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Tere does not flip the coin, so the coin remains heads up. Niko flips the coin, so the coin is now tails up. Keith does not flip the coin, so the coin remains tails up. Conner does not flip the coin, so the coin remains tails up. So, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Kelly does not flip the coin. Cheryl does not flip the coin. Nancy does not flip the coin. Jojo does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Kelly does not flip the coin, then the coin remains heads up. If Cheryl does not flip the coin, then the coin remains heads up. If Nancy does not flip the coin, then the coin remains heads up. If Jojo does not flip the coin, then the coin remains heads up. So, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Carissa flips the coin. Paige does not flip the coin. Consuelo does not flip the coin. Izzy flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Carissa flips the coin, so now it is tails up. Paige does not flip the coin, so it remains tails up. Consuelo does not flip the coin, so it remains tails up. Izzy flips the coin, so now it is heads up again. So the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Wilson does not flip the coin. Abbey does not flip the coin. Harold flips the coin. Nelly flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Wilson does not flip the coin, so the coin remains heads up.\n\nAbbey does not flip the coin, so the coin remains heads up.\n\nHarold flips the coin, so the coin is now tails up.\n\nNelly flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Tiara flips the coin. Araceli flips the coin. Michaela flips the coin. Genaro does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nTiara flips the coin. The coin is now tails up. \nAraceli flips the coin. The coin is now heads up. \nMichaela flips the coin. The coin is now tails up. \nGenaro does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Alexa does not flip the coin. Pilar does not flip the coin. Rod does not flip the coin. Nicola flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Alexa does not flip the coin. This means that the coin remains in the same state, which is heads up. \nPilar does not flip the coin. Again, the coin remains in the same state. \nRod does not flip the coin. Once more, the coin remains in the same state. \nNicola flips the coin. This means that the coin is now tails up. \n\nTherefore, the answer is no, the coin is not heads up after Nicola flips it.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Yamileth flips the coin. Dane flips the coin. Aron flips the coin. Dee does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Yamileth flips the coin. The coin is now tails up.\nDane flips the coin. The coin is now heads up.\nAron flips the coin. The coin is now tails up.\nDee does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Rachel does not flip the coin. Alisa does not flip the coin. Fanny does not flip the coin. Jeffery does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Rachel does not flip the coin, then the coin remains heads up. If Alisa does not flip the coin, then the coin remains heads up. If Fanny does not flip the coin, then the coin remains heads up. If Jeffery does not flip the coin, then the coin remains heads up. So, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Manuel flips the coin. Aurelio does not flip the coin. India flips the coin. Rosalba flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Manuel flips the coin. This means that if the coin was heads up, it is now tails up. \nAurelio does not flip the coin. This means that the coin remains in the same state as it was after Manuel flipped it. \nIndia flips the coin. This means that if the coin was heads up, it is now tails up. \nRosalba flips the coin. This means that if the coin was heads up, it is now tails up. \n\nSo, after all four people have flipped the coin, it is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Garrett does not flip the coin. Eva does not flip the coin. Joaquin flips the coin. Monique does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Garrett does not flip the coin, so the coin remains heads up. \nEva does not flip the coin, so the coin remains heads up. \nJoaquin flips the coin, so the coin is now tails up. \nMonique does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Ivy flips the coin. Romeo does not flip the coin. Jana flips the coin. Ej does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Ivy flips the coin. This means that the coin is now tails up. \nRomeo does not flip the coin. This means that the coin remains tails up. \nJana flips the coin. This means that the coin is now heads up again. \nEj does not flip the coin. This means that the coin remains heads up. \n\nSo, to answer the question, yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Allyson flips the coin. Mara does not flip the coin. Jo flips the coin. Toni does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Allyson flips the coin, so now it is tails up. Mara does not flip the coin, so it remains tails up. Jo flips the coin, so now it is heads up again. Toni does not flip the coin, so it remains heads up. So the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Rocio does not flip the coin. Sandy does not flip the coin. Anahi flips the coin. Latasha does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Rocio does not flip the coin. This means that the coin remains in the same state, which is heads up. \nSandy does not flip the coin. Again, the coin remains in the same state, which is heads up. \nAnahi flips the coin. This means that the coin is now tails up. \nLatasha does not flip the coin. The coin remains in the same state, which is tails up. \n\nSo to answer the question, the coin is not heads up anymore.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Vicki does not flip the coin. Dwight flips the coin. Johnson flips the coin. Alexandra flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Vicki does not flip the coin, so the coin remains heads up. \nDwight flips the coin, so the coin is now tails up. \nJohnson flips the coin, so the coin is now heads up again. \nAlexandra flips the coin, so the coin is now tails up. \n\nSo, to answer the question, the coin is not heads up anymore.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Emma flips the coin. Maryann flips the coin. Olga does not flip the coin. Nataly flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Emma flips the coin, so it's now tails up. Maryann flips the coin, so it's now heads up again. Olga does not flip the coin, so it stays heads up. Nataly flips the coin, so it's now tails up again. So the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Belkis does not flip the coin. Wendell flips the coin. Lissette does not flip the coin. Patricia does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Belkis does not flip the coin, so the coin remains heads up. \nWendell flips the coin, so the coin is now tails up. \nLissette does not flip the coin, so the coin remains tails up. \nPatricia does not flip the coin, so the coin remains tails up. \n\nTherefore, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Ever flips the coin. Gio flips the coin. Elia flips the coin. Ramesh does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "A coin is heads up.\n\nEver flips the coin. This means that the coin is now tails up.\n\nGio flips the coin. This means that the coin is now heads up again.\n\nElia flips the coin. This means that the coin is now tails up again.\n\nRamesh does not flip the coin. This means that the coin remains tails up.\n\n\n\nTherefore, the answer is no - the coin is not heads up anymore.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Frank flips the coin. Trevor does not flip the coin. Al does not flip the coin. Gabriella flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nFrank flips the coin. \nThe coin is now tails up. \nTrevor does not flip the coin. \nThe coin is still tails up. \nAl does not flip the coin. \nThe coin is still tails up. \nGabriella flips the coin. \nThe coin is now heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Elva flips the coin. Kari flips the coin. Shirley does not flip the coin. Gilberto flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Elva flips the coin. The coin is now tails up. \nKari flips the coin. The coin is now heads up. \nShirley does not flip the coin. The coin is still heads up. \nGilberto flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Alonzo does not flip the coin. Dorothy does not flip the coin. Alfred flips the coin. Rodriguez flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Alonzo does not flip the coin, so the coin is still heads up. \nDorothy does not flip the coin, so the coin is still heads up. \nAlfred flips the coin, so the coin is now tails up. \nRodriguez flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Shawn does not flip the coin. Tracie flips the coin. Lynne does not flip the coin. Leila flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Shawn does not flip the coin, so the coin remains heads up. \nTracie flips the coin, so the coin is now tails up. \nLynne does not flip the coin, so the coin remains tails up. \nLeila flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Norma does not flip the coin. Timothy flips the coin. Willie does not flip the coin. Mathew does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nNorma does not flip the coin. \nThe coin is still heads up. \nTimothy flips the coin. \nThe coin is now tails up. \nWillie does not flip the coin. \nThe coin is still tails up. \nMathew does not flip the coin. \nThe coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Maricruz does not flip the coin. Alfredo does not flip the coin. Barry flips the coin. Deepak flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Maricruz does not flip the coin. This means that the coin remains in the same state, heads up. \nAlfredo does not flip the coin. This means that the coin remains in the same state, heads up.\nBarry flips the coin. This means that the coin is now tails up. \nDeepak flips the coin. This means that the coin is now heads up again. \n\nSo, to answer the question, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Adalberto flips the coin. Jamal does not flip the coin. Carter flips the coin. Robyn does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Adalberto flips the coin, so it's now tails up. \nJamal doesn't flip the coin, so it remains tails up. \nCarter flips the coin, so it's now heads up again. \nFinally, Robyn doesn't flip the coin, so it remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Nicky flips the coin. Eden does not flip the coin. James does not flip the coin. Matt does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Nicky flips the coin, so it's now tails up. \nEden doesn't flip the coin, so it remains tails up. \nJames doesn't flip the coin, so it remains tails up. \nMatt doesn't flip the coin, so it remains tails up. \nTherefore, the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Pancho flips the coin. Claudio flips the coin. Elaine does not flip the coin. Vicky does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Pancho flips the coin, so it's now tails up. Claudio flips the coin, so it's now heads up again. Elaine and Vicky don't flip the coin, so it remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Teri does not flip the coin. Lina does not flip the coin. Mery flips the coin. Melanie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Teri does not flip the coin, so the coin remains heads up. Lina does not flip the coin, so the coin remains heads up. Mery flips the coin, so the coin is now tails up. Melanie flips the coin, so the coin is now heads up again. So the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Gus does not flip the coin. Brock flips the coin. Ava does not flip the coin. Jenna flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Gus does not flip the coin, so the coin remains heads up. \nBrock flips the coin, so the coin is now tails up. \nAva does not flip the coin, so the coin remains tails up. \nJenna flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Karen does not flip the coin. Hector flips the coin. Mai flips the coin. Steven flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Karen does not flip the coin, so the coin remains heads up. \nHector flips the coin, so the coin is now tails up. \nMai flips the coin, so the coin is now heads up again. \nSteven flips the coin, so the coin is now tails up. \n\nSo, to answer the question, no, the coin is not heads up anymore.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Kristine does not flip the coin. Van flips the coin. Marisol flips the coin. Preston does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Kristine does not flip the coin, so the coin remains heads up. \nVan flips the coin, so the coin is now tails up. \nMarisol flips the coin, so the coin is now heads up again. \nPreston does not flip the coin, so the coin remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Evan does not flip the coin. Ray flips the coin. Sofia flips the coin. Alonso does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Evan does not flip the coin, so the coin remains heads up. \nRay flips the coin, so the coin is now tails up. \nSofia flips the coin, so the coin is now heads up again. \nAlonso does not flip the coin, so the coin remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Alfonso does not flip the coin. Collin does not flip the coin. Amado does not flip the coin. Dick flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Alfonso does not flip the coin. This means that the coin's current state is not changed. \nCollin does not flip the coin. This means that the coin's current state is not changed.\nAmado does not flip the coin. This means that the coin's current state is not changed.\nDick flips the coin. This means that the coin's current state is changed. \nTherefore, the coin is not heads up after Dick flips it.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Damian flips the coin. Crystal flips the coin. Nisha flips the coin. Hernan does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Damian flips the coin. This means that if the coin was heads up, it is now tails up. \nCrystal flips the coin. This means that if the coin was heads up, it is now tails up. \nNisha flips the coin. This means that if the coin was heads up, it is now tails up. \n\nSo, the coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Marcia does not flip the coin. Belen does not flip the coin. Reyna flips the coin. Britney flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Marcia does not flip the coin, so the coin remains heads up. \nBelen does not flip the coin, so the coin remains heads up. \nReyna flips the coin, so the coin is now tails up. \nBritney flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Katia does not flip the coin. Mina does not flip the coin. Cam does not flip the coin. Ronda does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "A coin is heads up. \nKatia does not flip the coin. \nMina does not flip the coin. \nCam does not flip the coin. \nRonda does not flip the coin.\n\nThe coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Rashad does not flip the coin. Savannah flips the coin. Flavio does not flip the coin. Bert does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Rashad does not flip the coin, so the coin remains heads up. \nSavannah flips the coin, so the coin is now tails up. \nFlavio does not flip the coin, so the coin remains tails up. \nBert does not flip the coin, so the coin remains tails up. \n\nTherefore, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Leanne flips the coin. Lulu does not flip the coin. Lopez does not flip the coin. Jp does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Leanne flips the coin. The coin is now tails up. \nLulu does not flip the coin. The coin is still tails up. \nLopez does not flip the coin. The coin is still tails up. \nJp does not flip the coin. The coin is still tails up. \n\nSo the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Roni flips the coin. Nikita does not flip the coin. Hannah flips the coin. Kiana does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Roni flips the coin, so now it is tails up. \nNikita does not flip the coin, so it remains tails up. \nHannah flips the coin, so now it is heads up again. \nKiana does not flip the coin, so it remains heads up. \n\nYes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Edwin flips the coin. Lovely does not flip the coin. Curt flips the coin. Damon flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Edwin flips the coin, so now it is tails up. \nLovely does not flip the coin, so it remains tails up. \nCurt flips the coin, so now it is heads up again. \nDamon flips the coin, so now it is tails up. \n\nSo the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Vijay flips the coin. Sherrie does not flip the coin. Doug does not flip the coin. Suzy flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Vijay flips the coin. The coin is now tails up. \nSherrie does not flip the coin. The coin is still tails up. \nDoug does not flip the coin. The coin is still tails up. \nSuzy flips the coin. The coin is now heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Teresa flips the coin. Reid does not flip the coin. Karin does not flip the coin. Gracie does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Teresa flips the coin, then it is not heads up. If Reid flips the coin, then it is not heads up. If Karin flips the coin, then it is not heads up. If Gracie flips the coin, then it is not heads up. So, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Rahul flips the coin. Praveen flips the coin. Isaiah flips the coin. Elsie does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Rahul flips the coin. This means that if the coin was heads up, it is now tails up. \nPraveen flips the coin. This means that if the coin was tails up, it is now heads up. \nIsaiah flips the coin. This means that if the coin was heads up, it is now tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Miranda does not flip the coin. Jacques does not flip the coin. Clarence flips the coin. Chandra flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin starts heads up. \nMiranda does not flip the coin, so it remains heads up. \nJacques does not flip the coin, so it remains heads up. \nClarence flips the coin, so it is now tails up. \nChandra flips the coin, so it is now heads up again. \n\nSo, the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. June flips the coin. Robin does not flip the coin. Josie flips the coin. Bo does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "June flips the coin. This means that if the coin was heads up, it is now tails up. \nRobin does not flip the coin. The coin remains in the same state. \nJosie flips the coin. This means that if the coin was tails up, it is now heads up. \nBo does not flip the coin. The coin remains in the same state. \n\nTherefore, the final state of the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Luisa does not flip the coin. Tatiana does not flip the coin. Drake does not flip the coin. Hillary does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nLuisa does not flip the coin. \nTatiana does not flip the coin. \nDrake does not flip the coin. \nHillary does not flip the coin. \n\nThe coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Louise flips the coin. Mariano does not flip the coin. Laura does not flip the coin. Gerardo flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. Louise flips the coin. \n\nThat means the coin is now tails up. \n\nMariano does not flip the coin. \n\nThat means the coin is still tails up. \n\nLaura does not flip the coin. \n\nThat means the coin is still tails up. \n\nGerardo flips the coin. \n\nThat means the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Star flips the coin. Jude does not flip the coin. Rosemarie does not flip the coin. Raquel does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nStar flips the coin. \nThe coin is now tails up. \nJude does not flip the coin. \nThe coin is still tails up. \nRosemarie does not flip the coin. \nThe coin is still tails up. \nRaquel does not flip the coin. \nThe coin is still tails up. \n\nSo the answer is no, the coin is not heads up anymore.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Clark does not flip the coin. Jenn flips the coin. Diane flips the coin. Blair does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Clark does not flip the coin, so the coin remains heads up. \nJenn flips the coin, so the coin is now tails up. \nDiane flips the coin, so the coin is now heads up again. \nBlair does not flip the coin, so the coin remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Lalo does not flip the coin. Yolanda flips the coin. Elida does not flip the coin. Ester flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Lalo does not flip the coin, so the coin remains heads up. Yolanda flips the coin, so the coin is now tails up. Elida does not flip the coin, so the coin remains tails up. Ester flips the coin, so the coin is now heads up again. So, the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Bethany does not flip the coin. Rakesh does not flip the coin. Christine does not flip the coin. Dinesh flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Bethany does not flip the coin. So, the coin remains heads up. \nRakesh does not flip the coin. So, the coin remains heads up. \nChristine does not flip the coin. So, the coin remains heads up. \nDinesh flips the coin. So, the coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Nery flips the coin. Cindy flips the coin. Jess flips the coin. Chris flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Nery flips the coin, so it's now tails up. \nCindy flips the coin, so it's now heads up again. \nJess flips the coin, so it's tails up again. \nChris flips the coin, so it's heads up again. \n\nSo yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Celso does not flip the coin. Tracy does not flip the coin. Winston flips the coin. Anton does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Celso does not flip the coin, so the coin remains heads up. \nTracy does not flip the coin, so the coin remains heads up. \nWinston flips the coin, so the coin is now tails up. \nAnton does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Lore does not flip the coin. Erasmo flips the coin. Louis flips the coin. David does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Lore does not flip the coin, so the coin remains heads up. \nErasmo flips the coin, so the coin is now tails up. \nLouis flips the coin, so the coin is now heads up again. \nDavid does not flip the coin, so the coin remains heads up. \n\nTherefore, the final answer is that the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Cristobal flips the coin. Dania does not flip the coin. Li does not flip the coin. Anna flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Cristobal flips the coin, so it's now tails up. \nDania does not flip the coin, so it remains tails up. \nLi does not flip the coin, so it remains tails up. \nAnna flips the coin, so it's now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Wally flips the coin. Claire does not flip the coin. Helen flips the coin. Nacho does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Wally flips the coin. The coin is now tails up.\nClaire does not flip the coin. The coin is still tails up.\nHelen flips the coin. The coin is now heads up.\nNacho does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Rosa flips the coin. Lana flips the coin. Curtis does not flip the coin. Rae does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Rosa flips the coin, so it's now tails up. \nLana flips the coin, so it's now heads up again. \nCurtis does not flip the coin, so it stays heads up. \nRae does not flip the coin, so it stays heads up. \n\nSo the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Angeles flips the coin. Richard flips the coin. Luciana flips the coin. Darlene does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nAngeles flips the coin. The coin is now tails up. \nRichard flips the coin. The coin is now heads up. \nLuciana flips the coin. The coin is now tails up. \nDarlene does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Jodi flips the coin. Judi flips the coin. Nia does not flip the coin. Raj flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jodi flips the coin. This means that if the coin was heads up, it is now tails up. \nJudi flips the coin. This means that if the coin was tails up, it is now heads up. \nNia does not flip the coin. This means that the coin remains in the same state. \nRaj flips the coin. This means that if the coin was heads up, it is now tails up. \n\nSo, the final state of the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Irvin does not flip the coin. Brittney flips the coin. Vince flips the coin. Lucas does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up.\nIrvin does not flip the coin.\n\nThe coin is still heads up.\n\nBrittney flips the coin.\n\nThe coin is now tails up.\n\nVince flips the coin.\n\nThe coin is now heads up.\n\nLucas does not flip the coin.\n\nThe coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Renata flips the coin. Mariela does not flip the coin. Mona does not flip the coin. Kristin flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Renata flips the coin. The coin is now tails up. \nMariela does not flip the coin. The coin is still tails up. \nMona does not flip the coin. The coin is still tails up. \nKristin flips the coin. The coin is now heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Johan flips the coin. Damien flips the coin. Serena flips the coin. Grace flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Johan flips the coin, so now it is tails up. \nDamien flips the coin, so now it is heads up again. \nSerena flips the coin, so now it is tails up. \nGrace flips the coin, so now it is heads up. \n\nSo the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Aj does not flip the coin. Jd flips the coin. Maddie does not flip the coin. Francisca does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Aj does not flip the coin, so the coin remains heads up. Jd flips the coin, so the coin is now tails up. Maddie does not flip the coin, so the coin remains tails up. Francisca does not flip the coin, so the coin remains tails up. So, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Daryl does not flip the coin. Owen does not flip the coin. Myra flips the coin. Aaron does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Daryl does not flip the coin. This means that the state of the coin does not change. \nOwen does not flip the coin. This means that the state of the coin does not change. \nMyra flips the coin. This means that the state of the coin is now tails up. \nAaron does not flip the coin. This means that the state of the coin does not change. \n\nSo, the final state of the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Elle flips the coin. Alex does not flip the coin. Irma flips the coin. Stephan flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Elle flips the coin. This means that if the coin was heads up, it is now tails up. \nAlex does not flip the coin. This means that the coin remains in the state that Elle left it. \nIrma flips the coin. This means that if the coin was tails up, it is now heads up. \nStephan flips the coin. This means that if the coin was heads up, it is now tails up. \n\nSo, the final state of the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Gabino does not flip the coin. Kayla flips the coin. Laurie does not flip the coin. Familia flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Gabino does not flip the coin, so the coin remains heads up. \nKayla flips the coin, so the coin is now tails up. \nLaurie does not flip the coin, so the coin remains tails up. \nFamilia flips the coin, so the coin is now heads up again. \n\nTherefore, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Hazel does not flip the coin. Gabrielle flips the coin. Tre does not flip the coin. Dalton does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Hazel does not flip the coin. So the coin remains heads up. \nGabrielle flips the coin. So the coin is now tails up. \nTre does not flip the coin. So the coin remains tails up. \nDalton does not flip the coin. So the coin remains tails up. \n\nTherefore, the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Conrad flips the coin. Marcella does not flip the coin. Annette flips the coin. Esteban flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Conrad flips the coin, so it's now tails up. \nMarcella doesn't flip the coin, so it remains tails up. \nAnnette flips the coin, so it's now heads up again. \nEsteban flips the coin, so it's now tails up. \n\nSo the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Isaac does not flip the coin. Reyes does not flip the coin. Carly flips the coin. Tania flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Isaac does not flip the coin, so the coin remains heads up.\nReyes does not flip the coin, so the coin remains heads up.\nCarly flips the coin, so the coin is now tails up.\nTania flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Wilma flips the coin. Margie flips the coin. Amber flips the coin. Sergio flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Wilma flips the coin. This means that if the coin was heads up, it is now tails up. \nMargie flips the coin. This means that if the coin was tails up, it is now heads up. \nAmber flips the coin. This means that if the coin was heads up, it is now tails up. \nSergio flips the coin. This means that if the coin was tails up, it is now heads up. \n\nSo, the final answer is that the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Sonya flips the coin. Eddy does not flip the coin. Carol does not flip the coin. Yung flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Sonya flips the coin, so it's now tails up. \nEddy doesn't flip the coin, so it remains tails up. \nCarol doesn't flip the coin, so it remains tails up. \nYung flips the coin, so it's now heads up again. \n\nSo the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Leandro flips the coin. Maricela does not flip the coin. Genevieve flips the coin. Lesly does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Leandro flips the coin, so it's now tails up. \nMaricela doesn't flip the coin, so it remains tails up. \nGenevieve flips the coin, so it's now heads up again. \nLesly doesn't flip the coin, so it remains heads up. \n\nSo yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Andy does not flip the coin. Cecilia flips the coin. Gretchen flips the coin. Sandi flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Andy does not flip the coin, so the coin remains heads up. \nCecilia flips the coin, so the coin is now tails up. \nGretchen flips the coin, so the coin is now heads up again. \nSandi flips the coin, so the coin is now tails up. \n\nSo, to answer the question, the coin is not heads up anymore.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Flora flips the coin. Warren flips the coin. Gwendolyn does not flip the coin. Alissa does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Flora flips the coin, so it's now tails up. \nWarren flips the coin, so it's now heads up again. \nGwendolyn does not flip the coin, so it stays heads up. \nAlissa does not flip the coin, so it stays heads up. \n\nTherefore, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Deanna does not flip the coin. Terri does not flip the coin. Gabriela flips the coin. Jonah flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Deanna does not flip the coin, so the coin remains heads up. \nTerri does not flip the coin, so the coin remains heads up. \nGabriela flips the coin, so the coin is now tails up. \nJonah flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Conor does not flip the coin. Randall does not flip the coin. Oleg flips the coin. Stephanie does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Conor does not flip the coin, so the coin remains heads up. \nRandall does not flip the coin, so the coin remains heads up. \nOleg flips the coin, so the coin is now tails up. \nStephanie does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Dusty does not flip the coin. Yanet flips the coin. Hortencia flips the coin. Lili flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Dusty does not flip the coin, so the coin remains heads up. \nYanet flips the coin, so the coin is now tails up. \nHortencia flips the coin, so the coin is now heads up again. \nLili flips the coin, so the coin is now tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Natalie flips the coin. Gilbert flips the coin. Brian does not flip the coin. Sanchez does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Natalie flips the coin, so it is now tails up. \nGilbert flips the coin, so it is now heads up again. \nBrian does not flip the coin, so it remains heads up. \nSanchez does not flip the coin, so it remains heads up. \n\nTherefore, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Ulises flips the coin. Derek flips the coin. Adrianna flips the coin. Eugene flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \n\nUlises flips the coin. This means that the coin is now tails up. \n\nDerek flips the coin. This means that the coin is now heads up again. \n\nAdrianna flips the coin. This means that the coin is now tails up. \n\nEugene flips the coin. This means that the coin is now heads up. \n\nSo, the final answer is that the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Yessenia does not flip the coin. Geraldine flips the coin. Minerva flips the coin. Tanya flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Yessenia does not flip the coin, so the coin remains heads up. \nGeraldine flips the coin, so the coin is now tails up. \nMinerva flips the coin, so the coin is now heads up again. \nTanya flips the coin, so the coin is now tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Nicolas does not flip the coin. Aaliyah flips the coin. Pascual does not flip the coin. Rob does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Nicolas does not flip the coin. This means that the state of the coin does not change. \nAaliyah flips the coin. This means that the state of the coin is now reversed. \nPascual does not flip the coin. This means that the state of the coin does not change. \nRob does not flip the coin. This means that the state of the coin does not change. \n\nSo, the final state of the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Brandon does not flip the coin. Ivonne does not flip the coin. Jefferson flips the coin. Isabella does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Brandon does not flip the coin, so the coin remains heads up. \nIvonne does not flip the coin, so the coin remains heads up. \nJefferson flips the coin, so the coin is now tails up. \nIsabella does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Paris does not flip the coin. Jimmie does not flip the coin. Andrew flips the coin. Ram\u00f3n flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nParis does not flip the coin. \nJimmie does not flip the coin. \n\nAt this point, the coin is still heads up. \n\nAndrew flips the coin. \n\nThe coin is now tails up. \n\nRam\u00f3n flips the coin. \n\nThe coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Roberta does not flip the coin. Mauro flips the coin. Clint flips the coin. Marcela flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Roberta does not flip the coin, so the coin remains heads up. \nMauro flips the coin, so the coin is now tails up. \nClint flips the coin, so the coin is now heads up again. \nMarcela flips the coin, so the coin is now tails up. \n\nSo, to answer the question, the coin is not heads up anymore.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Adrian flips the coin. Marlon flips the coin. Karla flips the coin. Florence flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Adrian flips the coin, so it's now tails up. Marlon flips the coin, so it's now heads up again. Karla flips the coin, so it's tails up again. Florence flips the coin, so it's heads up again. So yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Skyler does not flip the coin. Oliver does not flip the coin. Cristy does not flip the coin. Sierra flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Skyler does not flip the coin. This means that the coin remains in the same state, which is heads up. \nOliver does not flip the coin. This means that the coin remains in the same state, which is heads up.\nCristy does not flip the coin. This means that the coin remains in the same state, which is heads up. \nSierra flips the coin. This means that the coin is now tails up. \n\nSo the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Dan does not flip the coin. Ruth does not flip the coin. Xavier flips the coin. Isidro does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Dan does not flip the coin, so the coin remains heads up. \nRuth does not flip the coin, so the coin remains heads up. \nXavier flips the coin, so the coin is now tails up. \nIsidro does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Russell does not flip the coin. Mitchell does not flip the coin. Bee flips the coin. Faith does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Russell does not flip the coin, so the coin remains heads up. \nMitchell does not flip the coin, so the coin remains heads up. \nBee flips the coin, so the coin is now tails up. \nFaith does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Bri does not flip the coin. Roger flips the coin. Eve does not flip the coin. Diana flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Bri does not flip the coin, so the coin remains heads up. \nRoger flips the coin, so the coin is now tails up. \nEve does not flip the coin, so the coin remains tails up. \nDiana flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Gisela flips the coin. Gerald does not flip the coin. Mackenzie flips the coin. Ashley flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Gisela flips the coin. This means that the coin is now tails up. \nGerald does not flip the coin. This means that the coin remains tails up. \nMackenzie flips the coin. This means that the coin is now heads up again. \nAshley flips the coin. This means that the coin is now tails up. \n\nSo the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Vinny does not flip the coin. Landon flips the coin. Miguel flips the coin. Caitlyn does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Vinny does not flip the coin, so the coin remains heads up. \nLandon flips the coin, so the coin is now tails up. \nMiguel flips the coin, so the coin is now heads up again. \nCaitlyn does not flip the coin, so the coin remains heads up. \n\nSo the final answer is that the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Jeannie does not flip the coin. Kenneth does not flip the coin. Porfirio does not flip the coin. Ezequiel flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin starts heads up. \nJeannie does not flip the coin, so it remains heads up. \nKenneth does not flip the coin, so it remains heads up. \nPorfirio does not flip the coin, so it remains heads up. \nEzequiel flips the coin, so it is now tails up. \n\nTherefore, the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Mario flips the coin. Pierre does not flip the coin. Amit flips the coin. Nelson does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Mario flips the coin. It is now tails up. \nPierre does not flip the coin. It is still tails up. \nAmit flips the coin. It is now heads up. \nNelson does not flip the coin. It is still heads up. \n\nSo the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Marcus flips the coin. Ramirez does not flip the coin. Junior flips the coin. Arely does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Marcus flips the coin. The coin is now tails up.\nRamirez does not flip the coin. The coin is still tails up.\nJunior flips the coin. The coin is now heads up.\nArely does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Gerson flips the coin. Roxanne does not flip the coin. Deborah does not flip the coin. Nathaniel does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Gerson flips the coin. This means that the coin is now tails up. \nRoxanne does not flip the coin. This means that the coin remains tails up. \nDeborah does not flip the coin. This means that the coin remains tails up. \nNathaniel does not flip the coin. This means that the coin remains tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Colton flips the coin. Dexter does not flip the coin. Katy flips the coin. Brayden does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nColton flips the coin. This means the coin is now tails up. \nDexter does not flip the coin. The coin remains tails up. \nKaty flips the coin. This means the coin is now heads up again. \nBrayden does not flip the coin. The coin remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Anil does not flip the coin. Enrique flips the coin. Jimmy flips the coin. Jhonny does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Anil does not flip the coin, so the coin remains heads up. \nEnrique flips the coin, so the coin is now tails up. \nJimmy flips the coin, so the coin is now heads up again. \nJhonny does not flip the coin, so the coin remains heads up. \nTherefore, the final answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. \u00c1ngel flips the coin. Carlton does not flip the coin. Sameer does not flip the coin. Martinez flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "\u00c1ngel flips the coin. The coin is now tails up.\nCarlton does not flip the coin. The coin is still tails up.\nSameer does not flip the coin. The coin is still tails up.\nMartinez flips the coin. The coin is now heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Maritza does not flip the coin. Nana does not flip the coin. Loretta flips the coin. Eric does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Maritza does not flip the coin. The coin is still heads up. \nNana does not flip the coin. The coin is still heads up.\nLoretta flips the coin. The coin is now tails up. \nEric does not flip the coin. The coin is still tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Chuy does not flip the coin. Shane does not flip the coin. Jaden does not flip the coin. Maynor flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "A coin is heads up. \nChuy does not flip the coin. \nShane does not flip the coin. \nJaden does not flip the coin. \nMaynor flips the coin.\n\nThe coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Violeta does not flip the coin. Clay flips the coin. Janelle does not flip the coin. Mac does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Violeta does not flip the coin, so the coin remains heads up. \nClay flips the coin, so the coin is now tails up. \nJanelle does not flip the coin, so the coin remains tails up. \nMac does not flip the coin, so the coin remains tails up. \nTherefore, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Yazmin flips the coin. Lea does not flip the coin. Rodrigo does not flip the coin. Sammy flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Yazmin flips the coin. The coin is now tails up. \nLea does not flip the coin. The coin is still tails up. \nRodrigo does not flip the coin. The coin is still tails up. \nSammy flips the coin. The coin is now heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Emely flips the coin. Chelsea does not flip the coin. Vladimir flips the coin. Tyrone does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Emely flips the coin, so now it is tails up. \nChelsea does not flip the coin, so it remains tails up. \nVladimir flips the coin, so now it is heads up again. \nTyrone does not flip the coin, so it remains heads up. \n\nTherefore, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Lara does not flip the coin. Greg does not flip the coin. Ethan flips the coin. Terrence flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Lara does not flip the coin, so the coin remains heads up. \nGreg does not flip the coin, so the coin remains heads up. \nEthan flips the coin, so the coin is now tails up. \nTerrence flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Otto does not flip the coin. Marjorie flips the coin. Leonor flips the coin. Esther flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Otto does not flip the coin, so the coin remains heads up. \nMarjorie flips the coin, so the coin is now tails up. \nLeonor flips the coin, so the coin is now heads up again. \nEsther flips the coin, so the coin is now tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Malcolm flips the coin. Hussein does not flip the coin. Franco flips the coin. Hugo does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nMalcolm flips the coin. \nThe coin is now tails up. \nHussein does not flip the coin. \nThe coin is still tails up. \nFranco flips the coin. \nThe coin is now heads up. \nHugo does not flip the coin. \nThe coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Joyce flips the coin. Leroy flips the coin. Alyssa does not flip the coin. Maggie does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Joyce flips the coin, so now it is tails up. Leroy flips the coin, so now it is heads up again. Alyssa does not flip the coin, so it remains tails up. Maggie does not flip the coin, so it remains heads up. So the final answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Maryam does not flip the coin. Susy does not flip the coin. Trinity flips the coin. Pearl flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up.\nMaryam does not flip the coin.\nSusy does not flip the coin.\nTrinity flips the coin.\n\nAt this point, the coin is tails up. \n\nPearl flips the coin.\n\nAfter Pearl flips the coin, it is heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Dustin flips the coin. Luiz does not flip the coin. Rolando flips the coin. Connor does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Dustin flips the coin. This means that the coin is now tails up. \nLuiz does not flip the coin. This means that the coin remains tails up. \nRolando flips the coin. This means that the coin is now heads up again. \nConnor does not flip the coin. This means that the coin remains heads up. \n\nSo, to answer the question, yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Estrella does not flip the coin. Madison does not flip the coin. Paco does not flip the coin. Rj flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "A coin is heads up. \nEstrella does not flip the coin. \nMadison does not flip the coin. \nPaco does not flip the coin. \nRj flips the coin.\n\nThe coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Niki flips the coin. Graham flips the coin. Vernon flips the coin. Beau flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Niki flips the coin, so it's now tails up. \nGraham flips the coin, so it's now heads up again. \nVernon flips the coin, so it's tails up again. \nBeau flips the coin, so it's heads up again. \n\nSo yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Bernie does not flip the coin. Melina does not flip the coin. Kelsey does not flip the coin. Rusty flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Bernie does not flip the coin. This means that the state of the coin does not change. The coin is still heads up. \nMelina does not flip the coin. The state of the coin does not change. The coin is still heads up. \nKelsey does not flip the coin. The state of the coin does not change. The coin is still heads up. \nRusty flips the coin. This means that the state of the coin is changed. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Latoya flips the coin. Eliseo does not flip the coin. Trina flips the coin. Melisa does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Latoya flips the coin, so now it is tails up. \nEliseo does not flip the coin, so it remains tails up. \nTrina flips the coin, so now it is heads up again. \nMelisa does not flip the coin, so it remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Wesley does not flip the coin. Marcelo does not flip the coin. Rodolfo flips the coin. Erick does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Wesley does not flip the coin, so the coin remains heads up. \nMarcelo does not flip the coin, so the coin remains heads up. \nRodolfo flips the coin, so the coin is now tails up. \nErick does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Blanca does not flip the coin. Monika does not flip the coin. Ervin does not flip the coin. Lori flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nBlanca does not flip the coin. \nMonika does not flip the coin. \nErvin does not flip the coin. \nLori flips the coin. \n\nThe coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Lorraine flips the coin. Corinne flips the coin. Kate flips the coin. Floyd flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Lorraine flips the coin. The coin is now tails up. \nCorinne flips the coin. The coin is now heads up. \nKate flips the coin. The coin is now tails up. \nFloyd flips the coin. The coin is now heads up. \n\nSo, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Bruce flips the coin. Dena flips the coin. Kyla flips the coin. Robbie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nBruce flips the coin. The coin is now tails up. \nDena flips the coin. The coin is now heads up. \nKyla flips the coin. The coin is now tails up. \nRobbie flips the coin. The coin is now heads up. \n\nSo, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Gee does not flip the coin. Joseluis flips the coin. Cory does not flip the coin. Stefanie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Gee does not flip the coin, so the coin remains heads up. Joseluis flips the coin, so the coin is now tails up. Cory does not flip the coin, so the coin remains tails up. Stefanie flips the coin, so the coin is now heads up again. So, the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Kristen flips the coin. Herbert flips the coin. Benny does not flip the coin. El does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Kristen flips the coin. The coin is now tails up. \nHerbert flips the coin. The coin is now heads up. \nBenny does not flip the coin. The coin is still heads up. \nEl does not flip the coin. The coin is still heads up. \n\nSo, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Carmelo flips the coin. Tony flips the coin. Susan flips the coin. Sara does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Carmelo flips the coin. The coin is now tails up. \nTony flips the coin. The coin is now heads up. \nSusan flips the coin. The coin is now tails up. \nSara does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Boris does not flip the coin. Sabina flips the coin. Kaitlyn does not flip the coin. Cameron does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Boris does not flip the coin, so the coin remains heads up. \nSabina flips the coin, so the coin is now tails up. \nKaitlyn does not flip the coin, so the coin remains tails up. \nCameron does not flip the coin, so the coin remains tails up. \n\nTherefore, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Elizabeth flips the coin. Mitch flips the coin. Brooke flips the coin. Jordyn does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nElizabeth flips the coin. The coin is now tails up. \nMitch flips the coin. The coin is now heads up. \nBrooke flips the coin. The coin is now tails up. \nJordyn does not flip the coin. The coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Delia flips the coin. Kathleen does not flip the coin. Mateo flips the coin. Marvin does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nDelia flips the coin. \nThe coin is now tails up. \nKathleen does not flip the coin. \nThe coin is still tails up. \nMateo flips the coin. \nThe coin is now heads up. \nMarvin does not flip the coin. \nThe coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Bj flips the coin. Rigo does not flip the coin. Nigel flips the coin. Christian flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Bj flips the coin, so it's now tails up. \nRigo does not flip the coin, so it remains tails up. \nNigel flips the coin, so it's now heads up again. \nChristian flips the coin, so it's now tails up. \n\nSo the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Cruz does not flip the coin. Wilber flips the coin. Marilu flips the coin. Malik flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Cruz does not flip the coin, so the coin remains heads up.\nWilber flips the coin, so the coin is now tails up.\nMarilu flips the coin, so the coin is now heads up again.\nMalik flips the coin, so the coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Sherry does not flip the coin. Ben flips the coin. Allison does not flip the coin. Anthony flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Sherry does not flip the coin, so the coin remains heads up. \nBen flips the coin, so the coin is now tails up. \nAllison does not flip the coin, so the coin remains tails up. \nAnthony flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Seth flips the coin. Dario flips the coin. Anne flips the coin. Jodie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Seth flips the coin. This means that if the coin was heads up, it is now tails up. \nDario flips the coin. This means that if the coin was tails up, it is now heads up. \nAnne flips the coin. This means that if the coin was heads up, it is now tails up. \nJodie flips the coin. This means that if the coin was tails up, it is now heads up. \n\nSo, the final answer is that the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Marcos does not flip the coin. Kerri flips the coin. Fabio flips the coin. Stephen flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Marcos does not flip the coin, so the coin remains heads up. \nKerri flips the coin, so the coin is now tails up. \nFabio flips the coin, so the coin is now heads up again. \nStephen flips the coin, so the coin is now tails up. \n\nSo, to answer your question, the coin is not heads up after Stephen flips it.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Earl flips the coin. Rudy does not flip the coin. Harrison flips the coin. Nadine does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Earl flips the coin, so it's now tails up. \nRudy doesn't flip the coin, so it remains tails up. \nHarrison flips the coin, so it's now heads up again. \nNadine doesn't flip the coin, so it remains heads up. \nTherefore, the answer is yes.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Rohan flips the coin. Antoinette does not flip the coin. Nikki flips the coin. Aida does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Rohan flips the coin, so it is now tails up. \nAntoinette does not flip the coin, so it remains tails up. \nNikki flips the coin, so it is now heads up again. \nAida does not flip the coin, so it remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Braulio flips the coin. Staci does not flip the coin. Jocelyn does not flip the coin. Brittany flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin starts heads up. \nBraulio flips the coin, so it is now tails up. \nStaci does not flip the coin, so it remains tails up. \nJocelyn does not flip the coin, so it remains tails up. \nBrittany flips the coin, so it is now heads up again. \n\nSo, the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Britt does not flip the coin. Tamara does not flip the coin. Elvis flips the coin. Nayeli does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Britt does not flip the coin, so the coin remains heads up. \nTamara does not flip the coin, so the coin remains heads up. \nElvis flips the coin, so the coin is now tails up. \nNayeli does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Cristina flips the coin. Saad does not flip the coin. Bridget does not flip the coin. Katie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Cristina flips the coin. This means that the coin is now tails up.\nSaad does not flip the coin. This means that the coin remains tails up.\nBridget does not flip the coin. This means that the coin remains tails up.\nKatie flips the coin. This means that the coin is now heads up again.\n\nSo, to answer the question, yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Stella does not flip the coin. Janis flips the coin. Darren flips the coin. Lena does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Stella does not flip the coin. This means that the state of the coin does not change. \nJanis flips the coin. This means that the state of the coin is now tails up. \nDarren flips the coin. This means that the state of the coin is now heads up again. \nLena does not flip the coin. This means that the state of the coin does not change. \n\nSo, to answer the question, the coin is currently heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Charles does not flip the coin. Emilio does not flip the coin. Vivek flips the coin. Steve flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Charles does not flip the coin, so the coin remains heads up. \nEmilio does not flip the coin, so the coin remains heads up. \nVivek flips the coin, so the coin is now tails up. \nSteve flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Mia does not flip the coin. Art does not flip the coin. Samantha flips the coin. Lety flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Mia does not flip the coin, so the coin remains heads up. Art does not flip the coin, so the coin remains heads up. Samantha flips the coin, so the coin is now tails up. Lety flips the coin, so the coin is now heads up again. So the final answer is yes, the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Miguel Angel flips the coin. Saul does not flip the coin. Brady does not flip the coin. Darryl flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Miguel flips the coin, so it's now tails up. \nSaul doesn't flip the coin, so it remains tails up. \nBrady doesn't flip the coin, so it remains tails up. \nDarryl flips the coin, so it's now heads up again. \n\nTherefore, the answer is yes - the coin is heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Antoine does not flip the coin. Javier flips the coin. Brett flips the coin. Stewart does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Antoine does not flip the coin, so the coin remains heads up. \nJavier flips the coin, so the coin is now tails up. \nBrett flips the coin, so the coin is now heads up again. \nStewart does not flip the coin, so the coin remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Amanda flips the coin. Geoff does not flip the coin. Belinda flips the coin. Gaurav does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nAmanda flips the coin. \nThe coin is now tails up. \nGeoff does not flip the coin. \nThe coin is still tails up. \nBelinda flips the coin. \nThe coin is now heads up. \nGaurav does not flip the coin. \nThe coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Mar\u00eda flips the coin. Fredy flips the coin. Bridgette flips the coin. Kenya does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Mar\u00eda flips the coin. This means that the coin is now tails up. \nFredy flips the coin. This means that the coin is now heads up again. \nBridgette flips the coin. This means that the coin is now tails up again. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Neil flips the coin. Dani does not flip the coin. Eddie flips the coin. Marcelino does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Neil flips the coin, so it's now tails up. \nDani doesn't flip the coin, so it remains tails up. \nEddie flips the coin, so it's now heads up again. \nMarcelino doesn't flip the coin, so it remains heads up. \n\nTherefore, the final answer is yes, the coin is still heads up!\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Alain flips the coin. Jerome does not flip the coin. Kristina does not flip the coin. Ida does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Alain flips the coin, so now it is tails up. Jerome does not flip the coin, so it remains tails up. Kristina does not flip the coin, so it remains tails up. Ida does not flip the coin, so it remains tails up. So the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Antonio does not flip the coin. Ronald does not flip the coin. Ken does not flip the coin. Rachael does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nAntonio does not flip the coin. \nThe coin is still heads up. \nRonald does not flip the coin. \nThe coin is still heads up. \nKen does not flip the coin. \nThe coin is still heads up. \nRachael does not flip the coin. \nThe coin is still heads up. \n\nYes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Larissa does not flip the coin. Shawna does not flip the coin. Alma flips the coin. Paulette does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Larissa does not flip the coin, so the coin remains heads up. \nShawna does not flip the coin, so the coin remains heads up. \nAlma flips the coin, so the coin is now tails up. \nPaulette does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Evelyn does not flip the coin. Mason does not flip the coin. Shelby does not flip the coin. Aldo flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Evelyn does not flip the coin, so the coin remains heads up. Then, Mason does not flip the coin, so the coin remains heads up. Shelby does not flip the coin, so the coin remains heads up. Finally, Aldo flips the coin, so the coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Courtney does not flip the coin. Ann flips the coin. John flips the coin. Fer flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Courtney does not flip the coin, so the coin remains heads up. \nAnn flips the coin, so the coin is now tails up. \nJohn flips the coin, so the coin is now heads up again. \nFer flips the coin, so the coin is now tails up. \n\nSo, the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Debby does not flip the coin. Geoffrey does not flip the coin. Alana does not flip the coin. Silvestre does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If no one flips the coin, then the coin will remain in its current state. Therefore, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Stevie does not flip the coin. Julie flips the coin. Leonard does not flip the coin. Karina flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Stevie does not flip the coin, so the coin remains heads up. \nJulie flips the coin, so the coin is now tails up. \nLeonard does not flip the coin, so the coin remains tails up. \nKarina flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Juana does not flip the coin. Chip does not flip the coin. Lila does not flip the coin. Jayme does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "If Juana does not flip the coin, then the coin remains heads up. If Chip does not flip the coin, then the coin remains heads up. If Lila does not flip the coin, then the coin remains heads up. If Jayme does not flip the coin, then the coin remains heads up. So, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Beatrice flips the coin. Taylor flips the coin. Juan Carlos does not flip the coin. Kaitlin does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nBeatrice flips the coin. The coin is now tails up. \nTaylor flips the coin. The coin is now heads up. \nJuan Carlos does not flip the coin. The coin is still heads up. \nKaitlin does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Eugenia flips the coin. Kellie flips the coin. Quentin flips the coin. Mike does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Eugenia flips the coin. This means that the coin is now tails up. \nKellie flips the coin. This means that the coin is now heads up again. \nQuentin flips the coin. This means that the coin is now tails up. \nMike does not flip the coin. This means that the coin remains tails up. \n\nSo, to answer the question, no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Yasmin flips the coin. Yesenia flips the coin. Carmela flips the coin. Susie flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Yasmin flips the coin. The coin is now tails up. \nYesenia flips the coin. The coin is now heads up. \nCarmela flips the coin. The coin is now tails up. \nSusie flips the coin. The coin is now heads up. \n\nSo, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Oswaldo does not flip the coin. Jos\u00e9 Luis flips the coin. Sheldon does not flip the coin. Tara flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Oswaldo does not flip the coin, so the coin remains heads up. \nJos\u00e9 Luis flips the coin, so the coin is now tails up. \nSheldon does not flip the coin, so the coin remains tails up. \nTara flips the coin, so the coin is now heads up again. \n\nSo to answer the question, yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Jermaine flips the coin. Pat does not flip the coin. Tammie flips the coin. Olivia flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jermaine flips the coin. The coin is now tails up. \nPat does not flip the coin. The coin is still tails up. \nTammie flips the coin. The coin is now heads up. \nOlivia flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Jeremiah flips the coin. Kelley does not flip the coin. Josue does not flip the coin. Veronica does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jeremiah flips the coin, so it is now tails up. \nKelley does not flip the coin, so it remains tails up. \nJosue does not flip the coin, so it remains tails up. \nVeronica does not flip the coin, so it remains tails up. \nTherefore, the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Cassie flips the coin. Clifton flips the coin. Erik does not flip the coin. Everardo does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Cassie flips the coin. The coin is now tails up. \nClifton flips the coin. The coin is now heads up. \nErik does not flip the coin. The coin is still heads up. \nEverardo does not flip the coin. The coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Brooklyn flips the coin. Dawn does not flip the coin. Tay flips the coin. Gene flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. \nBrooklyn flips the coin. \nThe coin is now tails up. \nDawn does not flip the coin. \nThe coin is still tails up. \nTay flips the coin. \nThe coin is now heads up. \nGene flips the coin. \nThe coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Nichole does not flip the coin. Heriberto does not flip the coin. Darian flips the coin. Peter does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Nichole does not flip the coin, so the coin remains heads up. Heriberto does not flip the coin, so the coin remains heads up. Darian flips the coin, so the coin is now tails up. Peter does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Janette does not flip the coin. Stacey flips the coin. Ronny flips the coin. Kim does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Janette does not flip the coin, so the coin remains heads up. \nStacey flips the coin, so the coin is now tails up. \nRonny flips the coin, so the coin is now heads up again. \nKim does not flip the coin, so the coin remains heads up. \n\nTherefore, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Jazmine does not flip the coin. Carmen flips the coin. Kitty does not flip the coin. Nina does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jazmine does not flip the coin, so the coin remains heads up. \nCarmen flips the coin, so the coin is now tails up. \nKitty does not flip the coin, so the coin remains tails up. \nNina does not flip the coin, so the coin remains tails up. \n\nTherefore, the answer is yes, the coin is still tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Donovan does not flip the coin. Lonnie does not flip the coin. Jairo flips the coin. Mariah flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Donovan does not flip the coin. This means that the coin remains in the same orientation, which means it is still heads up. \nLonnie does not flip the coin. This means that the coin remains in the same orientation, which means it is still heads up. \nJairo flips the coin. This means that the coin is now tails up. \nMariah flips the coin. This means that the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Nidia does not flip the coin. Rachelle does not flip the coin. Lauren does not flip the coin. Shelia does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Nidia does not flip the coin. This means that the state of the coin (heads up) does not change. \nThe same goes for Rachelle, Lauren, and Shelia. \nTherefore, the coin is still heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Angela flips the coin. Krista does not flip the coin. Cora flips the coin. Denisse flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "A coin is heads up. Angela flips the coin. \n\nThe coin is now tails up. \n\nKrista does not flip the coin. \n\nThe coin is still tails up. \n\nCora flips the coin. \n\nThe coin is now heads up. \n\nDenisse flips the coin. \n\nThe coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Chandler does not flip the coin. Martina does not flip the coin. Leonardo flips the coin. Gregg does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Chandler does not flip the coin, so the coin remains heads up. \nMartina does not flip the coin, so the coin remains heads up. \nLeonardo flips the coin, so the coin is now tails up. \nGregg does not flip the coin, so the coin remains tails up. \nTherefore, the answer is no, the coin is not heads up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Albert does not flip the coin. Felicia does not flip the coin. Margo flips the coin. Patty does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Albert does not flip the coin, so the coin remains heads up. \nFelicia does not flip the coin, so the coin remains heads up. \nMargo flips the coin, so the coin is now tails up. \nPatty does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Glen does not flip the coin. Ariana does not flip the coin. Reggie flips the coin. Polo flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Glen does not flip the coin. This means that the state of the coin does not change. The coin is still heads up. \nAriana does not flip the coin. The state of the coin also does not change. The coin is still heads up. \nReggie flips the coin. This means that the state of the coin changes. The coin is now tails up. \nPolo flips the coin. This means that the state of the coin changes again. The coin is now heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Wilmer flips the coin. Valerie does not flip the coin. Melissa flips the coin. Eloisa flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Wilmer flips the coin. The coin is now tails up.\nValerie does not flip the coin. The coin is still tails up.\nMelissa flips the coin. The coin is now heads up.\nEloisa flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Hailey flips the coin. Avi flips the coin. Bree does not flip the coin. Samira flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "The coin is heads up. Hailey flips the coin.\n\nThe coin is now tails up.\n\nAvi flips the coin.\n\nThe coin is now heads up.\n\nBree does not flip the coin.\n\nThe coin is still heads up.\n\nSamira flips the coin.\n\nThe coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Jason does not flip the coin. Betty flips the coin. Elisa flips the coin. Jay does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jason does not flip the coin, so the coin remains heads up. \nBetty flips the coin, so the coin is now tails up. \nElisa flips the coin, so the coin is now heads up again. \nJay does not flip the coin, so the coin remains heads up.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Oscar does not flip the coin. George does not flip the coin. Sanjay flips the coin. Haydee does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Oscar does not flip the coin, so the coin remains heads up. \nGeorge does not flip the coin, so the coin remains heads up. \nSanjay flips the coin, so the coin is now tails up. \nHaydee does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Andre does not flip the coin. Oralia does not flip the coin. Carrie flips the coin. Bruno does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Andre does not flip the coin. So, the coin remains heads up. \nOralia does not flip the coin. So, the coin remains heads up.\nCarrie flips the coin. So, the coin is now tails up. \nBruno does not flip the coin. So, the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Leigh flips the coin. Mindy flips the coin. Rocky does not flip the coin. Lex flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Leigh flips the coin. The coin is now tails up. \nMindy flips the coin. The coin is now heads up. \nRocky does not flip the coin. The coin is still heads up. \nLex flips the coin. The coin is now tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Jody does not flip the coin. Juan does not flip the coin. Rebekah flips the coin. Kaylee flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Jody does not flip the coin, so the coin remains heads up. \nJuan does not flip the coin, so the coin remains heads up. \nRebekah flips the coin, so the coin is now tails up. \nKaylee flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Liliana does not flip the coin. Quincy flips the coin. Bart does not flip the coin. Makayla flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Liliana does not flip the coin, so the coin remains heads up. \nQuincy flips the coin, so the coin is now tails up. \nBart does not flip the coin, so the coin remains tails up. \nMakayla flips the coin, so the coin is now heads up again.\n\n-->\n\nyes END"
+  },
+  {
+    "input": "A coin is heads up. Emanuel does not flip the coin. Cheyenne does not flip the coin. Perez flips the coin. Yvette does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Emanuel does not flip the coin, so the coin remains heads up. \nCheyenne does not flip the coin, so the coin remains heads up. \nPerez flips the coin, so the coin is now tails up. \nYvette does not flip the coin, so the coin remains tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Len does not flip the coin. Marquis flips the coin. Kylie flips the coin. Sandra flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Len does not flip the coin, so the coin remains heads up. \nMarquis flips the coin, so the coin is now tails up. \nKylie flips the coin, so the coin is now heads up again. \nSandra flips the coin, so the coin is now tails up. \n\nSo the final answer is that the coin is tails up.\n\n-->\n\nno END"
+  },
+  {
+    "input": "A coin is heads up. Marlen does not flip the coin. Sonja does not flip the coin. Anita does not flip the coin. Dale does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\n\n###\n\n",
+    "output": "Marlen does not flip the coin. So, the current state of the coin is still heads up. \nSonja does not flip the coin. The current state of the coin is still heads up. \nAnita does not flip the coin. The current state of the coin is still heads up. \nDale does not flip the coin. The current state of the coin is still heads up. \n\nTherefore, the answer is yes, the coin is still heads up.\n\n-->\n\nyes END"
+  }
+]

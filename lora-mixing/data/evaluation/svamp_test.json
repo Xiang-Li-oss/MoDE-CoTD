@@ -1,0 +1,1202 @@
+[
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A waiter had some customers. After 9 customers left he still had 12 customers. How many customers did he have at the start?\nA:",
+    "output": "21.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: They decided to hold the party in their backyard. If they have 11 sets of tables and each set has 13 chairs How many chairs do they have in the backyard?\nA:",
+    "output": "143.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser. How many more crayons than erasers did he have left?\nA:",
+    "output": "66.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were some birds sitting on the fence. 4 more birds came to join them. If there are a total of 5 birds on the fence now How many birds had been sitting on the fence at the start?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jerry had 3 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed some of the old ones. If there are 6 action figures on his shelf now How many action figures did he remove from the shelf?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Danny collects bottle caps and wrappers. He found 65 wrappers and 5 bottle caps at the park. Now he has 31 bottle caps and 9 wrappers in his collection. How many more wrappers than bottle caps did danny find at the park?\nA:",
+    "output": "60.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A grocery store had 49 bottles of regular soda, 40 bottles of diet soda and 6 bottles of lite soda. How many bottles of regular soda and diet soda did they have altogether?\nA:",
+    "output": "89.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan has $ 3. He bought 2 candy bar for $ 4, each one costing the same amount of money. How much did each candy bar cost?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are some baskets of peaches. Each basket has 4 red peaches and 3 green peaches. If there are a total of 7 peaches in all baskets How many baskets of peaches are there?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 78 dollars in Olivia's wallet. She spent 15 dollars at a supermarket. How much money does she have left?\nA:",
+    "output": "63.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 703 visitors came to the Buckingham palace on the previous day. If there were 246 visitors on that day How many visited the Buckingham palace within 25 days?\nA:",
+    "output": "949.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Danny collects bottle caps and wrappers. He found 46 wrappers and 50 bottle caps at the park. Now he has 21 bottle caps and 52 wrappers in his collection. How many more bottle caps than wrappers did danny find at the park?\nA:",
+    "output": "4.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Luke played 177 rounds of a trivia game. If he gained 46 points in each round How many points did he score in the game?\nA:",
+    "output": "8142.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 3 birds and 4 storks were sitting on the fence. 2 more birds came to join them. How many more birds than storks are sitting on the fence?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 9 inches. The mouse jumped 3 inches lesser than the frog who jumped 33 inches farther than the grasshopper. How far did the mouse jump?\nA:",
+    "output": "39.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jerry had 7 action figures on a shelf in his room. Later he added some more action figures to the shelf and removed 10 of the old ones. If there are 8 action figures on his shelf now How many action figures did he add to the shelf?\nA:",
+    "output": "11.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Frank put 11 pieces of candy in each bag. If he had 22 pieces of candy How many bags would he have?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Winter is almost here and most animals are migrating to warmer countries. There were 89 bird families living near the mountain. If 60 bird families flew away for winter How many more bird families flew away for the winter than those that stayed behind?\nA:",
+    "output": "31.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 9 roses and 6 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 13 orchids and 3 roses in the vase. How many more orchids than roses are there in the vase now?\nA:",
+    "output": "10.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Emily is making bead necklaces for her 72 friends. She has 6 beads and each necklace takes 3 beads. How many necklaces can Emily make?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Rebecca wants to split a collection of eggs into 3 groups. Rebecca has 4 marbles and 15 eggs. How many eggs will each group have?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: If Lewis earns $ 1357 every week during the 223 weeks of a harvest season. How much money will he earn if he works for 73 harvest seasons?\nA:",
+    "output": "22090603.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jack received 3 emails and 64 letters in the morning. He then received 5 emails and 54 letters in the afternoon. How many emails did jack receive in the day?\nA:",
+    "output": "8.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paco had 40 cookies. He ate 2 of them. Then he bought 37 more cookies How many cookies did Paco have left?\nA:",
+    "output": "75.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 36 children were riding on the bus. At the bus stop 68 children got off the bus while some more got on the bus. Then there were 12 children altogether on the bus. How many more children got off the bus than those that got on?\nA:",
+    "output": "24.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tiffany was collecting cans for recycling. On monday she had 4 bags of cans. The next day she found some more bags worth of cans. If she had a total of 6 bags altogether How many bags did she find on the next day?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Emily is making bead necklaces for her friends where each necklace takes 5 beads. She made 4 necklaces. How many beads did Emily have?\nA:",
+    "output": "20.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 2 birds and 6 storks were sitting on the fence. 3 more birds came to join them. How many more storks than birds are sitting on the fence?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The Razorback t-shirt shop made $ 51 dollars from selling 3 t-shirt during the Arkansas and Texas tech game they. What is the cost of each t-shirt?\nA:",
+    "output": "17.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paco had 12 cookies. He ate 16 cookies and gave 21 of them to his friend. How many more cookies did he give to his friend than those he ate?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Because of the decision Sofia asked the students to suggest specific types of food. If 408 students suggested adding mashed potatoes while 42 suggested adding bacon to the menu How many more students suggested mashed potatoes than those that suggested bacon?\nA:",
+    "output": "366.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Julia played tag with 19 kids on monday. She played tag with 18 kids on tuesday. She spent a total of 38 hours to play tag on both days. How many more kids did she play with on monday than on tuesday?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3. How much money did he spend to buy chocolate than he did to buy candy bar?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Frank was reading through his favorite book. It took him 16 days to finish the book. If the book had 112 pages How many pages did he read per day?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 20 different books in the ' crazy silly school ' series. If you are yet to read 5 of the books How many books have you already read?\nA:",
+    "output": "15.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: You had 26 bags with equal number of cookies. If you had 15 candies and 52 cookies in total How many cookies does each bag have?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: He then went to see the oranges being harvested. He found out that they harvest 38 sacks per day and that each sack containes 42 oranges. How many sacks of oranges will they have after 49 days of harvest?\nA:",
+    "output": "1862.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Faye was placing her pencils into rows with 22 pencils in each row. She had 6 packs of pencils each one having 14 pencils. How many pencils does she have?\nA:",
+    "output": "84.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A farmer had 160 tomatoes in his garden. If he picked 56 of them yesterday and 41 today. How many did he have left after yesterday's picking?\nA:",
+    "output": "104.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 15 campers went rowing in the morning. Some more campers went rowing in the afternoon. If a total of 32 campers went rowing that day How many campers went rowing in the afternoon?\nA:",
+    "output": "17.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ed had 5 more marbles than Doug. Doug lost 3 of his marbles at the playground. If Ed had 27 marbles How many marbles did Doug have initially?\nA:",
+    "output": "22.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 19 chocolate chip cookies yesterday and 231 raisin cookies and 237 chocolate chip cookies this morning. How many more chocolate chip cookies than raisin cakes did Helen bake?\nA:",
+    "output": "25.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Danny collects bottle caps. He found 30 bottle caps at the park while he threw away 63 old ones. Now he has 42 bottle caps in his collection. How many more bottle caps did danny throw away than those he found at the park?\nA:",
+    "output": "33.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Last week Fred had 47 dollars and Jason had 99 dollars. Over the weekend Fred delivered newspapers earning 111 dollars and washed cars earning 34 dollars. How much money does Fred have now?\nA:",
+    "output": "192.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary is baking a cake. The recipe calls for 6 cups of sugar and 14 cups of flour. She already put in 7 cups of flour and 60 cups of sugar. How many more cups of flour does she need to add?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 7 roses and 12 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 11 roses and 20 orchids in the vase. How many more orchids than roses are there in the vase now?\nA:",
+    "output": "9.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: After Jessie started to go jogging everyday she lost 35 kilograms. She weighed 69 kilograms before beginning jogging. How much does she weigh now?\nA:",
+    "output": "34.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Last week Fred had 111 dollars and Jason had 40 dollars. Fred washed cars over the weekend and now has 115 dollars. Jason delivered newspapers and now has 44 dollars. How much money did they earn by washing cars?\nA:",
+    "output": "4.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Matthew gave equal numbers of crackers and cakes to his 4 friends. If he had 10 crackers and 8 cakes initially How many cakes did each person eat?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jessica cut some roses from her flower garden to put in her vase. There are now 19 roses in the vase. If there were 3 roses in the vase initially How many roses did she cut?\nA:",
+    "output": "16.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paige was helping her mom plant flowers and they put 10 seeds in each flower bed. If they planted 60 seeds altogther How many flower beds did they have?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Next on his checklist is wax to stick the feathers together. He needs 159 g of wax more. If the feathers require a total of 628 g of wax How many grams of wax does he already have?\nA:",
+    "output": "469.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Frank was reading through his favorite book. He read 8 pages per day. If the book had 576 pages How many days did he take to finish the book?\nA:",
+    "output": "72.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are a total of 16 peaches in a basket. If there are 13 red peaches and some more green peaches in the basket. How many green peaches are in the basket?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 544 pots in each of the 10 gardens. Each pot has 32 flowers in it. How many flowers are there in all?\nA:",
+    "output": "174080.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paige was helping her mom plant flowers and together they planted some seeds. They put 10 seeds in each flower bed. If there are 45 flowerbeds How many seeds did they plant?\nA:",
+    "output": "450.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 14 invitations in it and she bought 6 packs. Then she bought 11 extra invitations. How many friends can she invite?\nA:",
+    "output": "95.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Danny collects bottle caps. He found 63 bottle caps at the park while he threw away 51 old ones. Now he has 33 bottle caps in his collection. How many bottle caps did danny have at first?\nA:",
+    "output": "21.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A grocery store had 67 bottles of regular soda and 9 bottles of diet soda. How many more bottles of regular soda than diet soda did they have?\nA:",
+    "output": "58.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jake has 3 fewer peaches than Steven who has 8 more peaches than Jill. Steven has 5 peaches. How many more peaches does Jake have than Jill?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Steven has 12 peaches. Jake has 4 fewer peaches than Steven who has 67 more peaches than Jill. How many peaches does Jake have?\nA:",
+    "output": "8.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The Razorback t-shirt shop makes $ 98 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 163 t-shirts. If they sold 89 t-shirts during the Arkansas game How much money did they make from selling the t-shirts during the arkansas game?\nA:",
+    "output": "8722.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For the walls of the house he would use 13 large planks of wood. If each plank of wood needs 17 pieces of nails to be secured and in addition 8 nails are needed for some smaller planks. How many nails does John need for the house wall?\nA:",
+    "output": "229.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Because of the decision Sofia asked the students to suggest specific types of food. If 269 students suggested adding bacon 330 suggested adding mashed potatoes to the menu and 76 suggested adding tomatoes How many more students suggested mashed potatoes than those that suggested bacon?\nA:",
+    "output": "61.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Brenda's mother made cookies for 14. If each of them had 30 cookies How many cookies did she prepare?\nA:",
+    "output": "420.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left. How many more apps did he delete than he added?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jack received 6 emails in the morning and 2 emails in the afternoon. How many more emails did Jack receive in the morning than in the afternoon?\nA:",
+    "output": "4.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: They decided to hold the party in their backyard. They have 4 sets of tables and each set has 3 chairs. If a total of 14 people will attend the party How many more chairs will they have to buy?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A grocery store had a total of 30 bottles of which 28 were bottles of regular soda and the rest were bottles of diet soda. How many bottles of diet soda did they have?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Debby bought 360 soda bottles and 162 water bottles when they were on sale. If she drank 122 water bottles and 9 soda bottles a day How many days would the soda bottles last?\nA:",
+    "output": "40.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: During the Arkansas and Texas tech game the Razorback t-shirt shop made $ 60 by selling t-shirts. If they make $ 10 dollars off each t-shirt sold How many t-shirts did they sell?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Winter is almost here and most animals are migrating to warmer countries. 86 bird families flew away for the winter from near a mountain. If there were 45 bird families living near the mountain initially How many more bird families flew away for the winter than those that stayed behind?\nA:",
+    "output": "127.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Every day Ryan spends 2 hours on learning english, 5 hours on learning chinese and 4 hours on learning spanish. How many more hours does he spend on learning chinese than he does on learning spanish?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paco had 6 cookies. He gave 30 cookies to his friend and ate 23 cookies. How many more cookies did he give to his friend than those he ate?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: We ordered 17 pizzas. Each pizza has 4 slices. If there are 25 of us How many slices of pizza are there altogether?\nA:",
+    "output": "68.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mom buys 51 white t - shirts. If white t - shirts can be purchased in packages of 3 How many packages will she have?\nA:",
+    "output": "17.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Adam could fit 8 action figures and 10 cabinets on each shelf in his room. His room has 4 shelves. How many total items could his shelves hold?\nA:",
+    "output": "72.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In Haley's class some boys love to play marbles. Haley gives 2 marbles to each boy. If she had 28 marbles How many boys did she give the marbles to?\nA:",
+    "output": "14.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Matthew had 14 crackers and 21 cakes. If Matthew gave equal numbers of crackers and cakes to his 7 friends How many crackers and cakes did each person eat?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 31 cookies yesterday 270 cookies this morning and 419 cookies the day before yesterday. How many cookies did Helen bake till last night?\nA:",
+    "output": "450.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Edward spent $ 16 to buy books and $ 8 to buy pens. Now he has $ 19. How much more did Edward spend on books than pens?\nA:",
+    "output": "8.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan has $ 4. He had $ 3 left with him after he bought a candy bar. How much did the candy bar cost?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ed had 19 more marbles than Doug. Ed lost some of his marbles at the playground. Now Ed has 8 more marbles than doug. How many marbles did Ed lose?\nA:",
+    "output": "11.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A grocery store had 72 bottles of regular soda, 32 bottles of diet soda and 78 apples. How many more bottles than apple did they have?\nA:",
+    "output": "26.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In a school there are 700 girls and the rest are boys. If there are 142 more boys than girls How many pupils are there in that school?\nA:",
+    "output": "1542.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lucy went to the grocery store. She bought 2 packs of cookie and 12 packs of cake. In the end she had 56 amount of change remaining. How many packs of groceries did she buy in all?\nA:",
+    "output": "14.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary is baking a cake. The recipe calls for 11 cups of sugar and 9 cups of flour. She already put in 12 cups of flour and 10 cups of sugar. How many more cups of sugar does she need to add?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The Razorback t-shirt shop makes $ 106 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 242 t-shirts. If they sold 115 t-shirts during the Arkansas game How many t-shirts did they sell during the Texas tech game?\nA:",
+    "output": "127.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Robin has 43 packages of gum. There are 23 pieces in each package. Robin has 8 extra pieces of gum. How many pieces of gum does Robin have?\nA:",
+    "output": "997.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 404 baseball cards and 495 Ace cards left. How many more Ace cards than baseball cards does Nell have?\nA:",
+    "output": "91.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The ring toss game at the carnival made 325 dollars in the first 154 days and 114 dollars in the remaining 57 days. How much did they make per day in the remaining 57 days at the carnival?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Brenda's mother made cookies for 10 guests but 9 guests did not come. If she prepared 18 cookies and each guest had the same number of cookies How many did each of them have?\nA:",
+    "output": "18.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary is baking a cake. The recipe calls for 9 cups of sugar 7 cups of flour and 4 cups of salt. She already put in 2 cups of flour. How many more cups of flour than cups of salt does she need to add now?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jesse needs a carpet of size 10 square feet to cover her room. If her room is 2 feet wide What is the length of her room?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jessie currently weighs 9 kilograms. After she started to go jogging everyday she lost 62 kilograms in the first week and 140 kilograms in the second week. How much did she weigh before starting to jog?\nA:",
+    "output": "211.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paul got a box of 589 crayons for his birthday. During the school year he gave 571 crayons to his friends while he lost 161 crayons. How many more crayons did he give to his friends than those he lost?\nA:",
+    "output": "410.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jack received 9 emails in the morning, 10 emails in the afternoon and 7 emails in the evening. How many more emails did Jack receive in the morning than in the evening?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jack received 6 emails in the morning and 8 emails in the afternoon. How many more emails did Jack receive in the afternoon than in the morning?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: After eating a hearty meal they went to see the Buckingham palace. There were 71 paintings in the Buckingham palace. There, Rachel learned that 557 visitors came to the Buckingham palace that day. If there were 188 visitors the previous day How many visited the Buckingham palace within 57 days?\nA:",
+    "output": "745.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 197 chocolate chip cookies and 46 raisin cookies yesterday. And she baked 75 raisin cookies and 66 chocolate chip cookies this morning. How many more chocolate chip cookies did Helen bake yesterday compared to today?\nA:",
+    "output": "131.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jake has 18 fewer peaches than Steven who has 13 more peaches than Jill. Steven has 19 peaches. How many peaches does Jill have?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lucy went to the grocery store. She bought 23 packs of cookie and some packs of cake. In total she had 27 packs of grocery How many packs of cake did she buy in all?\nA:",
+    "output": "4.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Debby drinks 6 bottles a day. If she bought a total of 12 water bottles How many days would they last her?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 22 parents in the program and 676 people in total. How many pupils were present in the program?\nA:",
+    "output": "654.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jake has 12 fewer peaches and 79 more apples than Steven. Steven has 19 peaches and 14 apples. How many peaches does Jake have?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Debby bought 301 water bottles when they were on sale. If she drank 144 bottles a day for some days. If she has 157 bottles left How many days did she drink for?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Frank put some pieces of candy equally into 2 bags. If he had 16 pieces of candy How many pieces of candy are in each bag?\nA:",
+    "output": "8.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Baker made 99 cakes. He bought 167 new cakes and sold 89 cakes. How many more cakes did baker buy than those he sold?\nA:",
+    "output": "78.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: David did 44 push-ups in gym class today. David did 9 more push-ups than Zachary. How many push-ups did Zachary do?\nA:",
+    "output": "35.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Edward spent $ 6 to buy books and $ 16 to buy pens. Now he has $ 19. How much did Edward have before he spent his money?\nA:",
+    "output": "41.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 7 roses in the vase. Jessica cut some more roses from her flower garden which had a total of 59 roses. There are now 20 roses in the vase. How many roses did she cut?\nA:",
+    "output": "13.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Baker made 13 cakes. He sold 91 of them and bought 154 new cakes. How many more cakes did baker buy than those he sold?\nA:",
+    "output": "63.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jerry had 7 action figures and 2 books on a shelf in his room. Later he added 4 more books to the shelf. How many more action figures than books were on his shelf?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan has $ 3. For a total of $ 4 he bought 2 candy bar each one costing the same amount of money. How much did each candy bar cost?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 527 chocolate chip cookies and 86 raisin cookies yesterday. And she baked 86 raisin cookies and 554 chocolate chip cookies this morning. How many chocolate chip cookies did Helen bake?\nA:",
+    "output": "1081.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 3 red peaches, and some more green peaches are in the basket. If there are 10 more green peaches than red peaches in the basket How many green peaches are in the basket?\nA:",
+    "output": "13.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jake has 9 fewer peaches than Steven and 18 more peaches than Jill. Steven has 16 peaches. How many more peaches does Steven have than Jill?\nA:",
+    "output": "27.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Edward spent $ 4 to buy books and $ 3 to buy pens. Now he has $ 12. How much did Edward spend on books and pens?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Julia played tag with 9 kids on monday, 7 kids on tuesday and 96 kids on wednesday. How many more kids did she play with on monday than on tuesday?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In a school there are 402 more girls than boys. If there are 739 girls How many boys are there in that school?\nA:",
+    "output": "337.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 6 red peaches, 90 yellow peaches and 16 green peaches are in the basket. How many red and green peaches are in the basket?\nA:",
+    "output": "22.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Baker made 8 cakes. He bought 139 new cakes and sold 145 cakes. How many more cakes did baker sell than those he bought?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jack received 6 emails and 8 letters in the morning. He then received 2 emails and 7 letters in the afternoon. How many more letters did Jack receive in the morning than in the afternoon?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jesse's room is 19 feet wide and 20 feet long. How much longer is her room than it is wide?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paul got a box of 601 crayons and 406 erasers for his birthday. At the end of the school year he only had 336 crayons left while not having lost a single eraser. How many more erasers than crayons did he have left?\nA:",
+    "output": "70.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Melissa scored a total of 21 points playing some games. Is she scored 7 points in each game. How many games did she play?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Adam has 10 apples. Jackie has 2 apples. How many more apples does Adam have than Jackie?\nA:",
+    "output": "8.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: If you had 4 bags with equal number of cookies and 36 cookies in total How many cookies does each bag have?\nA:",
+    "output": "9.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: White t - shirts can be purchased in packages of 13. If mom buys 39 white t - shirts How many packages will she have?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For the walls of the house John would use large planks of wood. Each plank needs 2 pieces of nails to be secured and he would use 16 planks. How many nails does John need for the house wall?\nA:",
+    "output": "32.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Marco and his dad went strawberry picking. Together their strawberries weighed 35 pounds. Marco's strawberries weighed 13 pounds. How much more did his dad's strawberries weigh than his?\nA:",
+    "output": "9.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Julia played tag with 15 kids on monday, 18 kids on tuesday and 97 kids on wednesday. How many kids did she play with on monday and tuesday?\nA:",
+    "output": "33.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Rachel had to complete 9 pages of math homework, 2 pages of reading homework and 96 more pages of biology homework. How many more pages of math homework than reading homework did she have?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. The next day she found 7 more bags worth of cans. How many more bags did she have on monday than she found on the next day?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Because of the decision Sofia asked the students to suggest specific types of food. 457 students suggested adding mashed potatoes while others suggested adding bacon to the menu. If 63 more students suggested adding mashed potatoes than those that suggested bacon How many students suggested bacon?\nA:",
+    "output": "394.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paco had 22 sweet cookies and 75 salty cookies. He ate 15 sweet cookies and 54 salty cookies. How many sweet cookies did Paco have left?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary is baking a cake. The recipe calls for 9 cups of flour and 5 cups of sugar. She already put in 3 cups of flour and 62 cups of sugar. How many more cups of flour does she need to add?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Each pack of dvds costs 107 dollars. If there is a discount of 106 dollars on each pack How many packs of dvds can you buy with 93 dollars?\nA:",
+    "output": "93.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the arcade Dave had won 7 tickets. He used some tickets to buy toys. If he still has 2 tickets left How many tickets did Dave use to buy toys?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Being his favorite, he saved checking on the grapevines for his last stop. He was told by 294 of the pickers that they fill 244 drums of grapes per day and 47 drums of raspberries per day. How many drums of grapes would be filled in 146 days?\nA:",
+    "output": "35624.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 2 red peaches, 6 yellow peaches and 14 green peaches are in the basket. How many more green peaches than yellow peaches are in the basket?\nA:",
+    "output": "8.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A book has 31 chapters. Each chapter is 61 pages long. How many pages does the book have altogether?\nA:",
+    "output": "1891.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Brenda's mother made cookies for guests. Each guest had 2 cookies. If she prepared a total of 10 cookies How many guests did she prepare cookies for?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Being his favorite, he saved checking on the grapevines for his last stop. He was told by 235 of the pickers that they fill 100 drums of raspberries per day and 221 drums of grapes per day. How many drums of grapes would be filled in 77 days?\nA:",
+    "output": "17017.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: He then went to see the oranges being harvested. He found out that they harvested 54 sacks of oranges. How many days did it take to harvest them if they harvested 18 sacks of oranges per day?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paco had 13 cookies. He ate 2 of them. Then he bought 36 more cookies How many more cookies did he buy than those he ate?\nA:",
+    "output": "34.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary is baking a cake. The recipe calls for 12 cups of flour 14 cups of sugar and 7 cups of salt. She already put in 2 cups of flour. How many more cups of flour than cups of salt does she need to add now?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jake has 7 fewer peaches than Steven and 9 more peaches than Jill. Steven has 16 peaches. How many peaches does Jake have?\nA:",
+    "output": "9.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Zachary did 15 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 9 push-ups less than David. How many more push-ups did Zachary do than John?\nA:",
+    "output": "30.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Rebecca wants to split a collection of eggs into groups of 5. Rebecca has 10 marbles and 15 eggs. How many groups will be created?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The Ferris wheel in paradise park has 6 seats. Each seat can hold 14 people. If there are 16 people on the wheel right now How many more people can join the wheel?\nA:",
+    "output": "68.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Robin has 21 packages of gum and 45 packages of candy. There are 9 pieces in each package. How many pieces of candies does Robin have?\nA:",
+    "output": "405.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Marco and his dad went strawberry picking. Marco's dad's strawberries weighed 11 pounds. If together their strawberries weighed 30 pounds. How much did Marco's strawberries weigh?\nA:",
+    "output": "19.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Julia played tag with 5 kids on monday, 9 kids on tuesday and 15 kids on wednesday. How many kids did she play with on monday and wednesday?\nA:",
+    "output": "20.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Shirley sold 10 boxes of trefoils. How many boxes are in each case if she needs to deliver 5 cases of boxes?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: David did 56 more push-ups than Zachary in gym class today. If David did 38 push-ups How many push-ups did Zachary and David do altogether?\nA:",
+    "output": "20.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Faye was placing her pencils into rows with 16 pencils in each row. She had 28 packs of pencils each one having 24 pencils. How many rows could she make?\nA:",
+    "output": "42.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Brenda's mother made cookies for guests. If she prepared 38 cookies and each of them had 19 cookies How many guests did she prepare cookies for?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jack received 3 emails in the afternoon, 6 emails in the morning and some more in the evening. If he received a total of 10 emails in the day How many emails did jack receive in the evening?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Steven has 19 peaches. Jake has 12 fewer peaches than Steven and 72 more peaches than Jill. How many peaches does Jake have?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: He had 15 aquariums for saltwater animals and 62 aquariums for freshwater animals. Each aquarium has 19 animals in it. How many animals does he have in total?\nA:",
+    "output": "1463.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan has $ 3 left with him after he bought a candy bar for $ 2. How much money did he have initially?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A book has 3 chapters. The first chapter is 91 pages long the second chapter is 23 pages long and the third chapter is 25 pages long. How many more pages does the first chapter have than the second chapter?\nA:",
+    "output": "68.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Danny collects bottle caps. He found 36 bottle caps at the park while he threw away 35 old ones. Now he has 22 bottle caps in his collection. How many more bottle caps did danny find at the park than those he threw away?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the zoo, a cage had 95 snakes and 61 alligators. If 64 snakes were hiding How many snakes were not hiding?\nA:",
+    "output": "31.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Robin has some packages of gum. There are 7 pieces in each package. Robin has 6 extra pieces of gum. In all the number of pieces of gums robin has is 41. How many packages does Robin have?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Baker made 155 cakes. If his friend bought 140 cakes from him How many cakes would baker still have?\nA:",
+    "output": "15.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 2 children were riding on the bus. At the bus stop some more children got on the bus. Then there were 10 children altogether on the bus. How many more children are on the bus now than there were before the bus stop?\nA:",
+    "output": "8.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For the walls of the house he would use 8 large planks of wood. If each plank of wood needs 74 pieces of nails to be secured How many planks does John need for the house wall?\nA:",
+    "output": "8.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paco ate 36 cookies. If he had 37 cookies initially How many cookies did Paco have left?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Randy has 79 blocks. He uses 14 blocks to build a tower and 11 blocks to build a house. How many blocks are left?\nA:",
+    "output": "54.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Every day Ryan spends 6 hours on learning english 7 hours on learning chinese and 3 hours on learning spanish. How many hours does he spend on learning english, chinese and spanish in all?\nA:",
+    "output": "16.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In a school there are 635 girls and the rest are boys. If there are 510 more boys than girls How many boys are there in that school?\nA:",
+    "output": "1145.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: You had 14 bags with equal number of cookies. If you had 28 cookies and 86 candies in total How many bags of cookies do you have?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Faye was placing her pencils and crayons into 30 rows with 71 crayons and 24 pencils in each row. How many pencils does she have?\nA:",
+    "output": "720.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Olivia spent 38 dollars at a supermarket. If there were 128 dollars in her wallet initially How much money does she have left?\nA:",
+    "output": "90.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Every day Ryan spends 5 hours on learning chinese and some more hours on learning english. If he spends 2 hours more on learning english than on learning chinese How many hours does he spend on learning english?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jack received 5 emails and 6 letters in the morning. He then received 9 emails and 7 letters in the afternoon. How many letters did jack receive in the day?\nA:",
+    "output": "13.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: He then went to see the oranges being harvested. He found out that they harvest 16 sacks per day and that each sack containes 57 oranges. How many days will it take to harvest 80 sacks of oranges?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 25 inches. The frog jumped 32 inches farther than the grasshopper and the mouse jumped 26 inches lesser than the frog. How far did the mouse jump?\nA:",
+    "output": "31.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: He then went to see the oranges being harvested. He found out that they harvest 76 sacks per day and discard 64 of them. How many oranges do they harvest per day if each sack contains 50 oranges?\nA:",
+    "output": "600.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ed had 10 more marbles than Doug. Doug lost 11 of his marbles at the playground. If Ed had 45 marbles How many more marbles did Ed have than Doug then?\nA:",
+    "output": "21.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 10 invitations in it and she bought 7 packs. If she sends invitations to only 2 friends How many invitations will be left?\nA:",
+    "output": "68.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Rachel's tree had 4 apples initially. She picked some apples and now there are 2 apples left on the tree. How many apples did rachel pick?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Every day Ryan spends 4 hours on learning english and 6 hours on learning chinese. If he learns for 86 days How many hours does he spend on learning english and chinese each day?\nA:",
+    "output": "10.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Baker made 126 cakes and 48 pastries. If he sold 115 cakes and 81 pastries How many more cakes than pastries did baker make?\nA:",
+    "output": "78.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 11 baskets of peaches. Each basket has 10 red peaches and 18 green peaches. How many peaches are in the baskets altogether?\nA:",
+    "output": "308.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paul got a box of 440 crayons for his birthday. During the school year he gave 111 crayons to his friends while he lost 106 crayons. How many crayons did he have left?\nA:",
+    "output": "223.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Matthew gave 6 crackers to each his friends. If he had 36 crackers How many friends did he give crackers to?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Katie had 57 new games and 39 old games. Her friends had 34 new games. How many more games does Katie have than her friends?\nA:",
+    "output": "62.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the arcade Dave had won 14 tickets and lost 2 tickets. If he used 10 to buy some toys How many tickets did Dave have left?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Edward had $ 18. He spent $ 16. How much money does Edward have now?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: After a typhoon, 2 trees in Haley's backyard died. If she had grown 12 trees initially How many trees does she have left?\nA:",
+    "output": "10.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jake has 13 fewer peaches and 3 more apples than Steven. Steven has 9 peaches and 8 apples. How many apples does Jake have?\nA:",
+    "output": "11.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Rebecca wants to split a collection of eggs into 4 groups. Rebecca has 8 eggs and 6 marbles. How many eggs will each group have?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Rachel had to complete 7 pages of math homework, 11 pages of reading homework and 8 more pages of biology homework. How many more pages of reading homework than biology homework did she have?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Baker sold 8 cakes. If he had made 40 cakes initially How many more cakes did baker make than those he sold?\nA:",
+    "output": "32.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Allan brought 6 balloons and Jake brought 2 balloons to the park. Jake then bought 3 more balloons at the park. How many more balloons did Allan have than Jake in the park?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Faye was placing her pencils and crayons into 19 rows with 4 pencils and 27 crayons in each row. How many pencils does she have?\nA:",
+    "output": "76.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lawrence county has 313473 kids. During summer break 274865 kids stay home and the rest go to camp. How many kids go to the camp during the break?\nA:",
+    "output": "38608.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Baker made 54 cakes and 143 pastries. If he sold 68 cakes and 92 pastries How many more pastries than cakes did baker sell?\nA:",
+    "output": "24.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The Ferris wheel in paradise park has 18 seats. Each seat can hold 15 people. If 10 seats are broken How many people can ride the Ferris wheel at the same time?\nA:",
+    "output": "120.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Frank was reading through his favorite book. The book had 193 pages equally distributed over 15 chapters. It took Frank 660 days to finish the book. How many chapters did he read per day?\nA:",
+    "output": "44.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Winter is almost here and most animals are migrating to warmer countries. There are 18 bird families living near the mountain. If 38 bird families flew away to africa and 80 bird families flew away to asia How many bird families flew away for the winter?\nA:",
+    "output": "118.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Baker made 56 pastries and 124 cakes. If he sold 104 cakes and 29 pastries How many pastries would baker still have?\nA:",
+    "output": "27.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Every day Ryan spends 5 hours on learning english and 4 hours on learning chinese. If he learns for 6 days How many hours does he spend on learning chinese in all?\nA:",
+    "output": "24.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: He has 9 apples more than Adam and Jackie together do. Adam and Jackie have 7 apples between them. How many apples does He have?\nA:",
+    "output": "16.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Rebecca wants to split a collection of eggs into groups of 11. If each group has 2 eggs How many eggs does Rebecca have?\nA:",
+    "output": "22.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jack received 10 emails in the morning, 7 emails in the afternoon and 17 emails in the evening. How many more emails did Jack receive in the morning than in the afternoon?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake. How many more packs of cookie did she buy over cake?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: David did 40 more push-ups but 17 less crunches than Zachary in gym class today. If Zachary did 34 push-ups and 62 crunches How many crunches did David do?\nA:",
+    "output": "45.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Katie had 78 new games and 86 old games. Her friends had 48 new games. How many new games do they have together?\nA:",
+    "output": "126.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jerry had 4 action figures on a shelf in his room. Later he added some more action figures to the shelf. If there are a total of 8 action figures on his shelf now How many action figures did he add to the shelf?\nA:",
+    "output": "4.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: We ordered 9 pizzas. Each pizza has 10 slices. If there are 2 of us How many slices of pizza does each of us get if distributed equally?\nA:",
+    "output": "45.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Because of the decision Sofia asked the students to suggest specific types of food. 182 students suggested adding mashed potatoes while others suggested adding bacon to the menu. If 166 more students suggested adding bacon than those that suggested mashed potatoes How many students suggested bacon?\nA:",
+    "output": "348.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Every day Ryan spends 3 hours on learning english and some more hours on learning chinese. If he spends a total of 4 hours on learning english and chinese everyday How many hours does he spend on learning chinese?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Baker made 52 pastries and 84 cakes. If he sold 102 cakes and 94 pastries How many more cakes than pastries did baker make?\nA:",
+    "output": "32.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: If you had 33 cookies and each bag has 11 cookies How many bags of cookies do you have?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 90 chocolate chip cookies yesterday and 51 raisin cookies and 484 chocolate chip cookies this morning. How many chocolate chip cookies did Helen bake?\nA:",
+    "output": "574.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 13 roses in the vase. Jessica cut some more roses from her flower garden which had a total of 12 roses. There are now 21 roses in the vase. How many roses are left in the garden?\nA:",
+    "output": "4.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paul had 21 books. After selling some in a garage sale he bought 42 new ones. If he has 15 books now How many more books did he sell than he bought?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A mailman has to give 32 pieces of junk mail to each of the 55 blocks. If he gives 8 mails to each house in a block How many houses are there in a block?\nA:",
+    "output": "4.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Winter is almost here and most animals are migrating to warmer countries. There are 41 bird families living near the mountain. If 35 bird families flew away to asia and 62 bird families flew away to africa How many more bird families flew away to africa than those that flew away to asia?\nA:",
+    "output": "27.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 6 roses and 20 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 21 orchids and 22 roses in the vase. How many more roses than orchids are there in the vase now?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ryan learns english and chinese for 7 days. Every day he spends 4 hours on learning english and 5 hours on learning chinese. How many hours does he spend on learning english and chinese in all?\nA:",
+    "output": "63.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: During summer break 61619 kids from Lawrence county stayed home and the rest went to camp. The total number of kids in Lawrence county is 91676. About how many kids in Lawrence county went to camp?\nA:",
+    "output": "30057.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paul got a box of some crayons for his birthday. By the end of the school year he had either lost or given away 551 of them and only had 177 left. How many crayons did he get for his birthday?\nA:",
+    "output": "728.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Bryan took a look at his books as well. If he has a total of 42 books and each bookshelf contains 2 books How many bookshelves does he have?\nA:",
+    "output": "21.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Julia played tag with 16 kids on monday. If she played tag with 12 more kids on monday than on tuesday How many kids did she play with on tuesday?\nA:",
+    "output": "4.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paul got a box of 267 crayons for his birthday. During the school year he lost 231 crayons while he gave away 308 crayons to his friends. How many more crayons did he give to his friends than those he lost?\nA:",
+    "output": "77.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: If the cave is 919 feet deep and they need to travel 1307 feet How far is the end of the cave?\nA:",
+    "output": "2226.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary is baking a cake. The recipe calls for 9 cups of sugar 14 cups of flour and 40 cups of salt. She already put in 4 cups of flour. How many more cups of flour than cups of sugar does she need to add now?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jack received 10 emails and 12 letters in the morning. He then received 3 emails and 44 letters in the afternoon. How many more emails did Jack receive in the morning than in the afternoon?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Together Adam and Jackie have 12 apples. He has 9 apples more than Adam and Jackie together do. Adam has 8 more apples than Jackie. How many apples does He have?\nA:",
+    "output": "21.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 384 oranges and 192 bananas in Philip's collection. If the bananas are organized into 345 groups and oranges are organized into 16 groups How big is each group of oranges?\nA:",
+    "output": "24.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: David did 27 more push-ups but 7 less crunches than Zachary in gym class today. If Zachary did 5 push-ups and 17 crunches How many more crunches than push-ups did Zachary do?\nA:",
+    "output": "12.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: He also had 74 aquariums for freshwater animals and 22 aquariums for saltwater animals. Each aquarium has 46 animals in it. How many saltwater animals does Tyler have?\nA:",
+    "output": "1012.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Rachel picked 6 ripe apples from her tree. Now the tree has 2 ripe apples and 4 unripe apples. How many apples did the tree have to begin with?\nA:",
+    "output": "12.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The Ferris wheel in paradise park has 4 seats. If 20 people can ride the wheel at the same time How many people can each seat hold?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A mailman gives 2 junk mails to each house in a block. If the mailman has to give 14 pieces of junk mail to each block. How many houses are there in a block?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A waiter had 3 customers. After some left he still had 4 customers. How many more customers stayed behind than those that left?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Allan brought 5 balloons to the park. If Jake brought 6 more balloons than the number of balloons that Allan brought How many balloons did Jake bring to the park?\nA:",
+    "output": "11.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Baker made 19 cakes and 131 pastries. If he sold 70 cakes and 88 pastries How many more pastries than cakes did baker make?\nA:",
+    "output": "112.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 18 red peaches, 14 yellow peaches and 17 green peaches are in the basket. How many red and yellow peaches are in the basket?\nA:",
+    "output": "32.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary is baking a cake. The recipe calls for 6 cups of flour and 13 cups of sugar. She already put in some cups of flour. If she still needs 8 more cups of flour than sugar How many more cups of flour does she need to add?\nA:",
+    "output": "21.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Julia played tag with some kids on monday. She played tag with 14 kids on tuesday. If she played with a total of 16 kids How many kids did she play with on monday?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kelly has 80 nintendo games. She found 31 more nintendo games. How many does she need to give away so that she will have 6 games left?\nA:",
+    "output": "105.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For the walls of the house he would use 11 nails in all to secure large planks of wood. If each plank needs 3 pieces of nails to be secured and an additional 8 nails were used. How many planks does John need for the house wall?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 22 different books and 10 different movies in the ' crazy silly school ' series. If you read 12 of the books and watched 56 of the movies How many more books do you still have to read?\nA:",
+    "output": "10.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A grocery store had 57 bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda. How many bottles did they have total?\nA:",
+    "output": "110.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Winter is almost here and most animals are migrating to warmer countries. There are 85 bird families living near the mountain. If 23 bird families flew away to africa and 37 bird families flew away to asia How many bird families were left near the mountain?\nA:",
+    "output": "25.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In a school there are 902 girls and 811 boys. 44 more girls joined the school. How many girls are there in the school now?\nA:",
+    "output": "946.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan has $ 4. He bought a chocolate for $ 7 and a candy bar for $ 2. How much money did he spend to buy chocolate than he did to buy candy bar?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the arcade Dave had won 18 tickets. If he used 5 to buy some toys and 11 more to buy some clothes How many tickets did Dave have left?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The school is planning a field trip. The school has 24 classrooms. There are 120 students in the school with each classroom having the same number of students. There are 84 seats on each school bus. How many students are in each class?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Allan brought 2 balloons and Jake brought 6 balloons to the park. Allan then bought 3 more balloons at the park. How many more balloons did Jake have than Allan in the park?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: He then went to see the oranges being harvested. He found out that they harvest 28 sacks of ripe oranges and 52 sacks of unripe oranges per day. How many sacks of oranges will they have after 26 days of harvest?\nA:",
+    "output": "2080.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Together Adam and Jackie have 6 apples. He has 4 apples more than adam and jackie together do. How many apples does he have?\nA:",
+    "output": "10.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Allan brought 5 balloons and Jake brought 6 balloons to the park. Jake then bought 3 more balloons at the park. How many balloons did Jake bring to the park?\nA:",
+    "output": "9.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The Razorback shop makes $ 62 dollars off each t-shirt and $ 99 off each jersey. During the Arkansas and Texas tech game they sold 183 t-shirts and 31 jerseys. How much money did they make from selling the t-shirts?\nA:",
+    "output": "11346.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Faye was placing her pencils and crayons into 16 rows with 6 crayons and 21 pencils in each row. How many crayons does she have?\nA:",
+    "output": "96.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jack received 3 emails in the morning, 4 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the morning and evening?\nA:",
+    "output": "11.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Robin cut off 13 inches of his hair. If his hair was 14 inches long initially How long is his hair now?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Next on his checklist is wax to stick the feathers together. If the feathers require 166 g of wax and right now he has 20 g How many more grams of wax does he need?\nA:",
+    "output": "146.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The grasshopper and the frog had a jumping contest. The grasshopper jumped 9 inches and the frog jumped 12 inches. How much farther did the frog jump than the grasshopper?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In Haley's class 13 boys love to play marbles and 50 boys love to play cards. If Haley has 26 marbles How many will each of the boys receive?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Steven has 18 peaches. Jake has 12 fewer peaches than Steven who has 8 more peaches than Jill. How many peaches does Jill have?\nA:",
+    "output": "10.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In Haley's class 11 are boys who love to play marbles. If Haley gives 9 marbles to each boy How many marbles did she have?\nA:",
+    "output": "99.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ed had 30 more marbles than Doug. Ed lost 21 of his marbles at the playground. If Ed had 91 marbles How many more marbles did Ed have than Doug then?\nA:",
+    "output": "9.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: After making some pies, chef had 2 apples left. Initially he had 43 apples How many apples did he use?\nA:",
+    "output": "41.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Allan brought 3 balloons and 20 balls while Jake brought 5 balloons and 59 balls to the park. How many balloons did Allan and Jake have in the park?\nA:",
+    "output": "8.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: They decided to hold the party in their backyard. If they have 5 sets of tables and each set has 10 chairs How many more chairs than tables do they have?\nA:",
+    "output": "45.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: After resting they decided to go for a swim. The depth of the water is 16 times Ron's height. Dean is 9 feet taller than Ron. If Ron stands at 13 feet How deep was the water?\nA:",
+    "output": "208.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Robin has 28 packages of gum and 14 packages of candy. There are 6 pieces in each package. How many pieces does Robin have?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 17 different movies and 11 different books in the ' crazy silly school ' series. If you read 13 of the books and watched 63 of the movies How many more movies than books are there in the ' crazy silly school ' series?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Haley grew 9 trees in her backyard. After a typhoon 4 died. Then she grew 5 more trees. How many trees does she have left?\nA:",
+    "output": "10.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Robin has 28 packages of gum and 13 packages of candy. There are 4 pieces in each package. How many pieces of gum does Robin have?\nA:",
+    "output": "112.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Baker made 134 pastries and 11 cakes. If he sold 140 cakes and 92 pastries How many more pastries than cakes did baker make?\nA:",
+    "output": "123.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Nell collects baseball cards. She had 528 cards while Jeff had 11 cards. She gave some of her cards to jeff and now has 252 cards left. How many cards did Nell give to Jeff?\nA:",
+    "output": "276.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: He then went to see the oranges being harvested. He found out that they harvest 44 sacks of ripe oranges and 25 sacks of unripe oranges per day. How many more sacks of ripe oranges than unripe oranges are harvested per day?\nA:",
+    "output": "19.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paul had 2 books. After selling some in a garage sale he bought 150 new ones. If he has 58 books now How many books did he sell?\nA:",
+    "output": "94.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paul got a box of 531 crayons and 38 erasers for his birthday. At the end of the school year he only had 391 left while not having lost a single erasers. How many more crayons than erasers did he have left?\nA:",
+    "output": "353.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lewis earns a total of $ 1216 during the harvest. If he earns $ 16 each week How many weeks did the harvest last?\nA:",
+    "output": "76.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dave had 10 apps on his phone. He added 11 new apps. After deleting some he had 4 left. How many apps did he delete?\nA:",
+    "output": "17.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dave had some apps on his phone. After deleting 18 of them he had 5 left. How many apps did he have on his phone at the start?\nA:",
+    "output": "23.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Randy has 86 blocks. He uses 79 blocks to build a tower and 82 blocks to build a house. How many more blocks did he use to build the house than he did to build the tower?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jack received 4 emails in the morning and some more in the afternoon. If he received a total of 5 emails in the day How many emails did Jack receive in the afternoon?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were some roses in the vase. Jessica cut 16 more roses from her flower garden and put them in the vase. There are now 23 roses in the vase. How many roses were there in the vase at the beginning?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 29 campers went rowing and 66 campers went hiking in the morning. 26 campers went rowing in the afternoon. How many more campers went rowing in the morning than in the afternoon?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dave had 17 apps on his phone. After adding some he had 18 left. How many apps did he add?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Being his favorite, he saved checking on the grapevines after 57 stops. He was told by 252 of the pickers that they fill 108 drums of grapes per day. How many drums of grapes would be filled in 58 days?\nA:",
+    "output": "6264.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 45 visitors came to the Buckingham palace on the previous day. If 829 people visited the Buckingham palace within the past 85 days How many visitors visited the Buckingham palace on that day?\nA:",
+    "output": "784.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A chef had 40 apples and 54 peaches. After making some pies, he had 39 apples left. How many apples did he use?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A mailman has to give 38 pieces of junk mail to each of the 78 blocks. If there are 19 houses on a block How many pieces of junk mail should he give each house?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A book has 3 chapters. The first chapter is 53 pages long the second chapter is 75 pages long and the third chapter is 21 pages long. How many more pages does the first chapter have than the third chapter?\nA:",
+    "output": "32.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Bobby ate 17 pieces of candy. Then he ate 15 more. If he initially had 36 pieces of candy How many pieces of candy does he still have left?\nA:",
+    "output": "4.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Frank was reading through some books. Each book had 66 pages and it took Frank 12 days to finish each book. If he takes 492 days to finish all books How many books did he read?\nA:",
+    "output": "41.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 10 red peaches and some more green peaches are in the basket. If there are a total of 15 peaches in the basket How many green peaches are in the basket?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In Haley's class some boys love to play marbles. If Haley has 10 marbles and she gave 5 marbles to each boy How many boys did she give the marbles to?\nA:",
+    "output": "2.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 57 g of colors to paint them. He needs 22 g of wax more. If the feathers require a total of 353 g of wax How many grams of wax does he already have?\nA:",
+    "output": "331.0"
+  }
+]

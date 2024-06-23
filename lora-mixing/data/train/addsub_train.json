@@ -1,0 +1,842 @@
+[
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 28 bales of hay in the barn . Tim stacked bales in the barn today . There are now 54 bales of hay in the barn . How many bales did he store in the barn ?\nA:",
+    "output": "There were 28 bales of hay in the barn. \n\nThis is our starting point, and we are given this information. \n\nTim stacked bales in the barn today. \n\nThis is telling us that Tim did something with the bales of hay, but we don't know how many he stacked. \n\nThere are now 54 bales of hay in the barn. \n\nThis is telling us the end result, that there are 54 bales of hay in the barn. \n\nTo solve this, we need to figure out how many bales Tim stacked. We\n\n-->\n\n26 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary is baking a cake . The recipe wants 8 cups of flour . She already put in 2 cups . How many cups does she need to add ?\nA:",
+    "output": "Mary is baking a cake. \nThe recipe wants 8 cups of flour. \nShe already put in 2 cups. \n\nThat means she needs to add 6 more cups of flour.\n\n-->\n\n6 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara 's high school played 12 basketball games this year . The team won most of their games . They were defeated during 4 games . How many games did they win ?\nA:",
+    "output": "The team won most of their games. This means that they won more than half of their games. \nThey were defeated during 4 games. This means that they lost 4 games. \n\nWe can say that they won 8 games and lost 4 games.\n\n-->\n\n8 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 22 walnut trees currently in the park . Park workers will plant walnut trees today . When the workers are finished there will be 55 walnut trees in the park . How many walnut trees did the workers plant today ?\nA:",
+    "output": "There are 22 walnut trees currently in the park. \n\nPark workers will plant walnut trees today. \n\nWhen the workers are finished there will be 55 walnut trees in the park.\n\nHow many walnut trees did the workers plant today?\n\nThe workers planted 33 walnut trees today.\n\n-->\n\n33 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mike had 34 peaches at his roadside fruit dish . He went to the orchard and picked peaches to stock up . There are now 86 peaches . how many did he pick ?\nA:",
+    "output": "Mike had 34 peaches at his roadside fruit dish. \n\nWe know that he picked some peaches from the orchard to bring back and add to his roadside fruit dish. \n\nNow, we know that the total number of peaches is 86. \n\nTo find out how many peaches Mike picked from the orchard, we need to subtract the number of peaches he had at his roadside fruit dish (34) from the total number of peaches (86). \n\nThis means that Mike picked 52 peaches from the orchard.\n\n-->\n\n52 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 6 roses in the vase . Mary cut some roses from her flower garden . There are now 16 roses in the vase . How many roses did she cut ?\nA:",
+    "output": "There were 6 roses in the vase. \nMary cut some roses from her flower garden. \nThere are now 16 roses in the vase. \n\nSo we know that Mary added 10 roses to the vase, making the total 16.\n\n-->\n\n10 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan went to 4 football games this year . She went to 9 games last year . How many football games did Joan go to in all ?\nA:",
+    "output": "Joan went to 4 football games this year and 9 games last year. So we can say that Joan went to a total of 4 + 9 = 13 football games in all.\n\n-->\n\n13 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tom has 9 yellow balloons Sara has 8 yellow balloons . How many yellow balloons do they have in total ?\nA:",
+    "output": "Tom has 9 yellow balloons and Sara has 8 yellow balloons. So we can say that Tom has 9 more yellow balloons than Sara. Another way to think about it is that Tom has 9 yellow balloons and Sara has 8 yellow balloons, so they have a total of 9 + 8 = 17 yellow balloons.\n\n-->\n\n17 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam had 9 dimes in his bank . His dad gave him 7 dimes . How many dimes does Sam have now ?\nA:",
+    "output": "Sam had 9 dimes in his bank. \nHis dad gave him 7 dimes. \n\nThat means that Sam now has 9 + 7 = 16 dimes.\n\n-->\n\n16 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A restaurant served 9 pizzas during lunch and 6 during dinner today . How many pizzas were served today ?\nA:",
+    "output": "A restaurant served 9 pizzas during lunch and 6 during dinner today. \n\nThat means that, in total, the restaurant served 9 + 6 = 15 pizzas today.\n\n-->\n\n15 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 2 pencils in the drawer . Tim placed 3 pencils in the drawer . How many pencils are now there in total ?\nA:",
+    "output": "There are 2 pencils in the drawer.\nTim placed 3 pencils in the drawer.\n\nNow, there are 2 + 3 = 5 pencils in the drawer.\n\n-->\n\n5 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan found 6 seashells and Jessica found 8 seashells on the beach . How many seashells did they find together ?\nA:",
+    "output": "Joan found 6 seashells. \nThat means there are now 6 seashells that weren't there before. \n\nJessica found 8 seashells. \nThat means there are now 8 more seashells that weren't there before. \n\nSo, in total, they found 14 seashells.\n\n-->\n\n14 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sandy grew 6 carrots . Sam grew 3 carrots . How many carrots did they grow in total ?\nA:",
+    "output": "Sandy grew 6 carrots. \nSam grew 3 carrots. \n\nThat means they grew a total of 9 carrots.\n\n-->\n\n9 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Benny picked 2 apples and Dan picked 9 apples from the apple tree . How many apples were picked in total ?\nA:",
+    "output": "Benny picked 2 apples. \nThat means there are 2 apples less in the tree. \nDan picked 9 apples. \nThat means there are 9 apples less in the tree. \n\nIn total, there are 11 apples less in the tree.\n\n-->\n\n11 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sally found 9 seashells , Tom found 7 seashells , and Jessica found 5 seashells on the beach . How many seashells did they find together ?\nA:",
+    "output": "Sally found 9 seashells, Tom found 7 seashells, and Jessica found 5 seashells. So, we can say that they found a total of 9 + 7 + 5 = 21 seashells.\n\n-->\n\n21 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tim 's cat had kittens . He gave 3 to Jessica and 6 to Sara . He now has 9 kittens . How many kittens did he have to start with ?\nA:",
+    "output": "Tim's cat had kittens. He gave 3 to Jessica and 6 to Sara. \n\nThat means he gave away 9 kittens, and now he has 9 kittens left. \n\nThat means he started with 18 kittens.\n\n-->\n\n18 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan has 9 blue balloons , Sally has 5 blue balloons , and Jessica has 2 blue balloons . How many blue balloons do they have in total ?\nA:",
+    "output": "Joan has 9 blue balloons, Sally has 5 blue balloons, and Jessica has 2 blue balloons. So we can say that they have 9 + 5 + 2 = 16 blue balloons in total.\n\n-->\n\n16 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Melanie had 7 dimes in her bank . Her dad gave her 8 dimes and her mother gave her 4 dimes . How many dimes does Melanie have now ?\nA:",
+    "output": "Melanie had 7 dimes in her bank. \nHer dad gave her 8 dimes. \nHer mother gave her 4 dimes. \n\nSo, Melanie has 7 + 8 + 4 = 19 dimes now.\n\n-->\n\n19 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A restaurant served 5 cakes during lunch and 6 during dinner today . The restaurant served 3 cakes yesterday . How many cakes were served in total ?\nA:",
+    "output": "The restaurant served 5 cakes during lunch and 6 during dinner today. \nThat means they served a total of 11 cakes today. \nThe restaurant served 3 cakes yesterday. \nThat means they served a total of 14 cakes in total.\n\n-->\n\n14 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Melanie picked 4 plums , Dan picked 9 plums , and Sally picked 3 plums from the plum tree . How many plums were picked in total ?\nA:",
+    "output": "Melanie picked 4 plums. \nDan picked 9 plums. \nSally picked 3 plums. \n\n4 + 9 + 3 = 16. \n\n16 plums were picked in total.\n\n-->\n\n16 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara grew 4 onions , Sally grew 5 onions , and Fred grew 9 onions . How many onions did they grow in all ?\nA:",
+    "output": "Sara grew 4 onions. \nSally grew 5 onions. \nThat means, in total, they grew 4 + 5 = 9 onions. \nBut we know that Fred grew 9 onions too. \nSo in total, they grew 9 + 9 = 18 onions.\n\n-->\n\n18 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam found 18 seashells and Mary found 47 seashells on the beach . How many seashells did they find together ?\nA:",
+    "output": "Step 1: How many seashells did Sam find?\n\nSam found 18 seashells.\n\nStep 2: How many seashells did Mary find?\n\nMary found 47 seashells.\n\nStep 3: How many seashells did they find together?\n\nThey found 65 seashells together.\n\n-->\n\n65 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara picked 45 pears and Sally picked 11 pears from the pear tree . How many pears were picked in total ?\nA:",
+    "output": "Sara picked 45 pears. This is 45.\nSally picked 11 pears. This is 11.\n\nWe can see that 45 + 11 = 56. So, in total, 56 pears were picked.\n\n-->\n\n56 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Keith has 20 books . Jason has 21 books . How many books do they have together ?\nA:",
+    "output": "Keith has 20 books. \nJason has 21 books. \n\nThat means they have 41 books together.\n\n-->\n\n41 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara has 31 red and 15 green balloons . Sandy has 24 red balloons . How many red balloons do they have in total ?\nA:",
+    "output": "Sara has 31 red balloons and 15 green balloons. \nSandy has 24 red balloons. \n\nTo find out how many red balloons they have in total, we need to add 31 and 24. \n\n31 + 24 = 55 \n\nTherefore, they have 55 red balloons in total.\n\n-->\n\n55 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Fred grew 38 cantelopes . Tim grew 44 cantelopes . How many cantelopes did they grow in total ?\nA:",
+    "output": "First, we need to find out how many cantelopes Fred grew. We know that he grew 38. \n\nNext, we need to find out how many cantelopes Tim grew. We know that he grew 44. \n\nLastly, we need to add the total number of cantelopes that Fred grew with the total number of cantelopes that Tim grew. This will give us the total number of cantelopes that they grew in total. \n\nTherefore, 38 + 44 = 82.\n\n-->\n\n82 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam went to 14 football games this year . He went to 29 games last year . How many football games did Sam go to in all ?\nA:",
+    "output": "Sam went to 14 football games this year. \nSam went to 29 games last year. \n\nHow many football games did Sam go to in all? \n\n14 + 29 = 43\n\n-->\n\n43 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary found 18 seashells and Jessica found 41 seashells on the beach . How many seashells did they find together ?\nA:",
+    "output": "Mary found 18 seashells. \n\nJessica found 41 seashells. \n\nThat means they found a total of 18 + 41 = 59 seashells together.\n\n-->\n\n59 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jason picked 46 pears , Keith picked 47 pears , and Mike picked 12 pears from the pear tree . How many pears were picked in total ?\nA:",
+    "output": "Jason picked 46 pears. \nKeith picked 47 pears. \nMike picked 12 pears. \n\n46 + 47 + 12 = 105\n\n-->\n\n105 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Melanie had 19 dimes in her bank . Her dad gave her 39 dimes and her mother gave her 25 dimes . How many dimes does Melanie have now ?\nA:",
+    "output": "Melanie had 19 dimes in her bank. \nHer dad gave her 39 dimes. \nHer mother gave her 25 dimes. \n\nNow, we need to find out how many dimes Melanie has in total. \n\n19 + 39 + 25 = 83\n\nSo, Melanie has 83 dimes in total.\n\n-->\n\n83 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Alyssa has 37 blue balloons , Sandy has 28 blue balloons , and Sally has 39 blue balloons . How many blue balloons do they have in all ?\nA:",
+    "output": "Alyssa has 37 blue balloons. \nSandy has 28 blue balloons. \nSally has 39 blue balloons. \n\nTo find the total number of blue balloons, we need to add 37 + 28 + 39. \n\n37 + 28 = 65 \n65 + 39 = 104 \n\nTherefore, the three friends have a total of 104 blue balloons.\n\n-->\n\n104 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jason went to 11 football games this month . He went to 17 games last month , and plans to go to 16 games next month . How many games will he attend in all ?\nA:",
+    "output": "In one month, Jason attends 11 + 17 = 28 games. \nIn two months, Jason attends 28 + 16 = 44 games.\n\n-->\n\n44 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mike has 35 books in his library . He bought several books at a yard sale over the weekend . He now has 56 books in his library . How many books did he buy at the yard sale ?\nA:",
+    "output": "Mike has 35 books in his library. \nHe buys several books at a yard sale. \nHe now has 56 books in his library. \n\nHow many books did he buy at the yard sale?\n\nHe bought 21 books at the yard sale.\n\n-->\n\n21 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sally had 13 peaches at her roadside fruit dish . She went to the orchard and picked peaches to stock up . There are now 55 peaches . how many did she pick ?\nA:",
+    "output": "Sally had 13 peaches at her roadside fruit dish. \nThat means she started with 13. \n\nShe went to the orchard and picked peaches to stock up. \nThat means she added some more. \n\nThere are now 55 peaches. \nThat means the final total is 55. \n\nTo find out how many she picked, we need to take away the original 13 from the final total of 55. \n\n55 - 13 = \n\n42\n\n-->\n\n42 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Benny received 67 dollars for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat . He had 33 dollars over , how much did he spent on the baseball gear ?\nA:",
+    "output": "Benny received 67 dollars for his birthday. \n\nHe went to a sporting goods store and bought a baseball glove, baseball, and bat. \n\nHow much did he spend on the baseball gear? \n\nWe know that he had 33 dollars over, so we can set up the equation: \n\n67 - x = 33\n\nx = 34 \n\nSo, Benny spent 34 dollars on the baseball gear.\n\n-->\n\n34 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 3 roses in the vase . Alyssa cut some roses from her flower garden . There are now 14 roses in the vase . How many roses did she cut ?\nA:",
+    "output": "There were 3 roses in the vase. \nAlyssa cut some roses from her flower garden. \nThat means she took away some roses. \nThere are now 14 roses in the vase. \nThat means she added some roses. \n3 + some = 14\n14 - 3 = some\nSome = 11\n\n-->\n\n11 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 73 bales of hay in the barn . Jason stacked bales in the barn today . There are now 96 bales of hay in the barn . How many bales did he store in the barn ?\nA:",
+    "output": "There were 73 bales of hay in the barn. \nJason stacked bales in the barn today. \n\nThat means that there are now more bales of hay in the barn than there were before. So we can say that:\n\nThere are now 96 bales of hay in the barn. \n\nHow many bales did he store in the barn?\n\nHe stored 23 bales in the barn.\n\n-->\n\n23 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Nancy grew 6 potatoes . Sandy grew 7 potatoes . How many potatoes did they grow in total ?\nA:",
+    "output": "Nancy grew 6 potatoes. \nThat means Nancy has 6 potatoes. \nSandy grew 7 potatoes. \nThat means Sandy has 7 potatoes. \n\nNancy has 6 potatoes and Sandy has 7 potatoes. \nThat means they have a total of 6 + 7 = 13 potatoes.\n\n-->\n\n13 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 9 crayons in the drawer . Benny placed 3 crayons in the drawer . How many crayons are now there in total ?\nA:",
+    "output": "There are 9 crayons in the drawer.\nBenny placed 3 crayons in the drawer.\n\nHow many crayons are now there in total?\n\nThere are 9 + 3 = 12 crayons in the drawer in total.\n\n-->\n\n12 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 5 oak trees currently in the park . Park workers will plant 4 oak trees today . How many oak trees will the park have when the workers are finished ?\nA:",
+    "output": "There are 5 oak trees currently in the park. \n\nPark workers will plant 4 oak trees today. \n\nThis means that when the workers are finished, there will be a total of 9 oak trees in the park.\n\n-->\n\n9 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tom found 7 seashells but 4 were broken . How many unbroken seashells did Tom find ?\nA:",
+    "output": "Tom found 7 seashells. \n4 were broken. \nHow many unbroken seashells did Tom find? \n\n3\n\n-->\n\n3 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sally picked 7 lemons and Mary picked 9 lemons from the lemon tree . How many lemons were picked in total ?\nA:",
+    "output": "Sally picked 7 lemons and Mary picked 9 lemons. So we can say that Sally picked 7 lemons and Mary picked 9 lemons. So we can say that 7 + 9 = 16 lemons were picked in total.\n\n-->\n\n16 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Fred had 7 dimes in his bank . His sister borrowed 3 of his dimes . How many dimes does Fred have now ?\nA:",
+    "output": "Fred had 7 dimes in his bank. \nHis sister borrowed 3 of his dimes. \n\nThat means that his sister now has 3 dimes, and Fred has 4 dimes.\n\n-->\n\n4 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 34 dogwood trees currently in the park . Park workers will plant 49 dogwood trees today . How many dogwood trees will the park have when the workers are finished ?\nA:",
+    "output": "There are 34 dogwood trees currently in the park. \n\nPark workers will plant 49 dogwood trees today. \n\nHow many dogwood trees will the park have when the workers are finished?\n\nThe park will have 83 dogwood trees when the workers are finished.\n\n-->\n\n83 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 27 pencils in the drawer . Nancy placed 45 pencils in the drawer . How many pencils are now there in total ?\nA:",
+    "output": "There are 27 pencils in the drawer. \nNancy placed 45 pencils in the drawer. \n\nHow many pencils are now there in total?\n\nThere are now 72 pencils in the drawer.\n\n-->\n\n72 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam found 35 seashells on the beach , he gave Joan 18 of the seashells . How many seashells does he now have ?\nA:",
+    "output": "Sam found 35 seashells on the beach. \nHe gave Joan 18 of the seashells. \n\nThis means that he gave away 18 seashells and he has 35 - 18 = 17 seashells left.\n\n-->\n\n17 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tim has 22 books . Mike has 20 books . How many books do they have together ?\nA:",
+    "output": "Step 1: How many books does each person have?\n\nTim has 22 books and Mike has 20 books.\n\nStep 2: How many books are there in total?\n\nThere are 22 + 20 = 42 books in total.\n\n-->\n\n42 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mike has 87 baseball cards . Sam bought 13 of Mike 's baseball cards . How many baseball cards does Mike have now ?\nA:",
+    "output": "Mike has 87 baseball cards. \nSam buys 13 of Mike's baseball cards. \nThat means Mike is left with 87-13=74 baseball cards.\n\n-->\n\n74 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sandy grew 51 pumpkins . Mike grew 23 pumpkins . How many pumpkins did they grow in total ?\nA:",
+    "output": "Sandy grew 51 pumpkins. \nMike grew 23 pumpkins. \n\nThat means they grew a total of \n\n51 + 23 \n\npumpkins.\n\n-->\n\n74 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tim has 44 books . Sam has 52 books . How many books do they have together ?\nA:",
+    "output": "Step 1: How many books does Tim have? 44. \nStep 2: How many books does Sam have? 52. \nStep 3: How many books do they have together? 44 + 52 = 96.\n\n-->\n\n96 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan has 64 violet marbles , he gave Mary 14 of the marbles . How many violet marbles does he now have ?\nA:",
+    "output": "Dan has 64 violet marbles. \nHe gave Mary 14 of the marbles. \n\nThat means he gave away 14 marbles, so he must have 50 marbles left.\n\n-->\n\n50 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 25 popular trees currently in the park . Park workers will plant 73 popular trees today . How many popular trees will the park have when the workers are finished ?\nA:",
+    "output": "There are 25 popular trees currently in the park. \n\nPark workers will plant 73 popular trees today. \n\nThis means that, when the workers are finished, there will be a total of 98 popular trees in the park.\n\n-->\n\n98 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree . How many pears were picked in all ?\nA:",
+    "output": "Alyssa picked 42 pears. So we have 42 pears. \nNancy picked 17 pears. So we have 42 + 17 = 59 pears.\n\n-->\n\n59 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan found 79 seashells on the beach , she gave Mike 63 of the seashells . How many seashells does she now have ?\nA:",
+    "output": "Joan found 79 seashells on the beach. \nShe gave Mike 63 of the seashells. \n\nThat means she gave away 63 and she's left with 79 - 63, which is 16.\n\n-->\n\n16 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam has 110 books . Joan has 102 books . How many books do they have together ?\nA:",
+    "output": "Step 1: How many books does Joan have? We are given that Joan has 102 books.\n\nStep 2: How many books does Sam have? We are given that Sam has 110 books.\n\nStep 3: How many books do they have together? We can add Joan's 102 books to Sam's 110 books to get 212 books.\n\n-->\n\n212 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Melanie grew 139 turnips . Benny grew 113 turnips . How many turnips did they grow in all ?\nA:",
+    "output": "Step 1: How many turnips did Melanie grow? \nStep 2: How many turnips did Benny grow? \nStep 3: How many turnips did they grow in all? \n\nStep 1: Melanie grew 139 turnips. \nStep 2: Benny grew 113 turnips. \nStep 3: They grew in all 252 turnips.\n\n-->\n\n252 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jason has 676 Pokemon cards . Alyssa bought 224 of Jason 's Pokemon cards . How many Pokemon cards does Jason have now ?\nA:",
+    "output": "Jason had 676 Pokemon cards. \nAlyssa bought 224 of Jason's Pokemon cards. \nThat means Alyssa took some of Jason's Pokemon cards away. \nSo now, Jason has less Pokemon cards than he had before. \nThat means the answer is 676 - 224, which is 452.\n\n-->\n\n452 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Fred has 709 green balloons , he gave Sandy 221 of the balloons . How many green balloons does he now have ?\nA:",
+    "output": "Fred has 709 green balloons. \nHe gave Sandy 221 of the balloons. \n\nThat means he gave away 221 balloons, and he has 709 - 221, or 488, balloons left.\n\n-->\n\n488 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 115 pencils in the drawer . Sara placed 100 pencils in the drawer . How many pencils are now there in all ?\nA:",
+    "output": "There are 115 pencils in the drawer. \nSara placed 100 pencils in the drawer. \n\nHow many pencils are now there in all?\n\nThere are 115 pencils in the drawer. \nSara placed 100 pencils in the drawer. \n\nThis means that there are a total of 215 pencils.\n\n-->\n\n215 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan had 5 dimes in her bank . She spent 2 of her dimes . How many dimes does she have now ?\nA:",
+    "output": "Joan had 5 dimes in her bank. She spent 2 of her dimes. So she has 3 dimes now.\n\n-->\n\n3 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 2 orchid bushes currently in the park . Park workers will plant 4 orchid bushes today . How many orchid bushes will the park have when the workers are finished ?\nA:",
+    "output": "There are 2 orchid bushes currently in the park. \n\nPark workers will plant 4 orchid bushes today. \n\nThis means that when the workers are finished, there will be a total of 6 orchid bushes in the park.\n\n-->\n\n6 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary had 7 nickels in her bank . Her dad gave her 5 nickels . How many nickels does Mary have now ?\nA:",
+    "output": "Mary had 7 nickels in her bank. \nHer dad gave her 5 nickels. \n\nThat means Mary now has 7 + 5 = 12 nickels.\n\n-->\n\n12 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Keith grew 6 turnips . Alyssa grew 9 turnips . How many turnips did they grow in all ?\nA:",
+    "output": "Keith grew 6 turnips. Alyssa grew 9 turnips. How many turnips did they grow in all?\n\nKeith grew 6 turnips. Alyssa grew 9 turnips. They grew 15 turnips in all.\n\n-->\n\n15 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary has 9 yellow marbles Joan has 3 yellow marbles . How many yellow marbles do they have in all ?\nA:",
+    "output": "Mary has 9 yellow marbles. Joan has 3 yellow marbles. \n\n9 + 3 = 12 \n\nSo, they have 12 yellow marbles in all.\n\n-->\n\n12 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sally grew 6 carrots . Fred grew 4 carrots . How many carrots did they grow in all ?\nA:",
+    "output": "Sally grew 6 carrots. \nThat means Sally has 6 carrots. \nFred grew 4 carrots. \nThat means Fred has 4 carrots. \n\nNow, we want to know how many carrots they have in total. \n\nWe can find the answer by adding: \n\n6 (the number of carrots Sally has) + 4 (the number of carrots Fred has) = 10 \n\nTherefore, they have 10 carrots in total.\n\n-->\n\n10 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Fred has 5 baseball cards . Melanie bought 3 of Fred 's baseball cards . How many baseball cards does Fred have now ?\nA:",
+    "output": "Fred has 5 baseball cards. \nMelanie buys 3 of Fred's baseball cards. \nThat means that Melanie has 3 baseball cards, and Fred has 2 baseball cards.\n\n-->\n\n2 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary had 8 potatoes in the garden . The rabbits ate 3 of the potatoes . How many potatoes does Mary now have ?\nA:",
+    "output": "Mary had 8 potatoes in the garden. \nThe rabbits ate 3 of the potatoes. \n\nThat means that before the rabbits ate any potatoes, Mary had 8. And after the rabbits ate 3 potatoes, Mary is left with 8-3, or 5, potatoes.\n\n-->\n\n5 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 9 oak trees currently in the park . Park workers had to cut down 2 oak trees that were damaged . How many oak trees will the park have when the workers are finished ?\nA:",
+    "output": "There are 9 oak trees currently in the park. \n\nThis is our starting point. We know that there are 9 oak trees in the park. \n\nPark workers had to cut down 2 oak trees that were damaged. \n\nWe know that 2 oak trees were cut down, so this means that there are now 7 oak trees in the park. \n\nHow many oak trees will the park have when the workers are finished? \n\nWhen the workers are finished, there will be 7 oak trees in the park.\n\n-->\n\n7 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jessica had 8 quarters in her bank . Her sister borrowed 3 of her quarters . How many quarters does Jessica have now ?\nA:",
+    "output": "Step 1: Jessica had 8 quarters in her bank. \nStep 2: Her sister borrowed 3 of her quarters. \nStep 3: How many quarters does Jessica have now? \n\nThe answer is 5.\n\n-->\n\n5 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A restaurant made 9 hamburgers to serve during lunch . Only 3 were actually served . How many hamburgers were over from lunch ?\nA:",
+    "output": "There were 9 hamburgers made to serve during lunch. \n3 hamburgers were served. \nThat means that 9-3=6 hamburgers were over from lunch.\n\n-->\n\n6 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 7 crayons in the drawer . Mary took 3 crayons out of the drawer . How many crayons are there now ?\nA:",
+    "output": "There are 7 crayons in the drawer. \nMary took 3 crayons out of the drawer. \n\nThat means that there are now 3 less crayons in the drawer. So, the answer is 4.\n\n-->\n\n4 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan picked 9 limes and gave Sara 4 of the limes . How many limes does Dan have now ?\nA:",
+    "output": "Dan picked 9 limes. \n\nThen he gave Sara 4 of the limes. \n\nThat means he has 9 - 4 = 5 limes left.\n\n-->\n\n5 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan has 9 blue balloons but lost 2 of them . How many blue balloons does Joan have now ?\nA:",
+    "output": "Joan has 9 blue balloons. \nJoan loses 2 blue balloons. \nJoan has 7 blue balloons.\n\n-->\n\n7 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan picked 43 apples from the orchard , and gave 27 apples to Melanie . How many apples does Joan have now ?\nA:",
+    "output": "Joan picked 43 apples from the orchard. So we start with 43 apples. Then, she gave 27 apples to Melanie. This means that she now has 27 apples less than she started with. So we take away 27 apples from 43 apples, and we're left with 16 apples.\n\n-->\n\n16 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Fred has 40 baseball cards . Keith bought 22 of Fred 's baseball cards . How many baseball cards does Fred have now ?\nA:",
+    "output": "Fred has 40 baseball cards. \nKeith buys 22 of Fred's baseball cards. \nThat means that Keith now has 22 baseball cards, and Fred has 18 baseball cards.\n\n-->\n\n18 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara grew 43 pumpkins , but the rabbits ate 23 pumpkins . How many pumpkins does Sara have ?\nA:",
+    "output": "Sara grew 43 pumpkins.\nThe rabbits ate 23 pumpkins.\n\nThat means that Sara had 43 pumpkins, and then 23 were taken away. So Sara has 43 - 23, which is 20, pumpkins left.\n\n-->\n\n20 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 46 rulers in the drawer . Tim took 25 rulers from the drawer . How many rulers are now in the drawer ?\nA:",
+    "output": "There are 46 rulers in the drawer. \nTim took 25 rulers from the drawer. \n\nHow many rulers are now in the drawer?\n\nThere are 21 rulers in the drawer.\n\n-->\n\n21 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan purchased a basketball game for $ 5.20 , and a racing game for $ 4.23 . How much did Joan spend on video games ?\nA:",
+    "output": "Joan purchased a basketball game for $5.20. \nJoan purchased a racing game for $4.23. \n\nTo find out how much Joan spent on video games, we need to add $5.20 and $4.23. \n\n$5.20 + $4.23 = $9.43\n\nJoan spent $9.43 on video games.\n\n-->\n\n9.43 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Alyssa bought some toys . She bought a football for $ 5.71 , and spent $ 6.59 on marbles . In total , how much did Alyssa spend on toys ?\nA:",
+    "output": "Alyssa bought a football for $5.71 and spent $6.59 on marbles. So she must have spent more on marbles than on the football. \n\nAlyssa spent a total of $12.30 on toys.\n\n-->\n\n12.3 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jessica spent $ 10.22 on a cat toy , and a cage cost her $ 11.73 . What was the total cost of Jessica 's purchases ?\nA:",
+    "output": "First, we need to find out how much money Jessica spent on the cat toy. We know that she spent $10.22 on the cat toy, so we can just write that down. \n\nNext, we need to find out how much money Jessica spent on the cage. We know that she spent $11.73 on the cage, so we can just write that down. \n\nNow, we need to add up the two amounts to find out the total cost of Jessica's purchases. \n\n$10.22 + $11.73 = $21.95\n\n-->\n\n21.95 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary loves eating fruits . Mary paid $ 11.08 for berries , $ 14.33 for apples , and $ 9.31 for peaches . In total , how much money did she spend ?\nA:",
+    "output": "First, we need to find out how much money Mary spent on berries. We know that she paid $11.08 for berries, so we can just write that down. \n\nNext, we need to find out how much money Mary spent on apples. We know that she paid $14.33 for apples, so we can just write that down. \n\nFinally, we need to find out how much money Mary spent on peaches. We know that she paid $9.31 for peaches, so we can just write that down. \n\nTo find out how much money Mary spent in\n\n-->\n\n34.72 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tom purchased a football game for $ 14.02 , a strategy game for $ 9.46 , and a Batman game for $ 12.04 . How much did Tom spend on video games ?\nA:",
+    "output": "Tom purchased a football game for $14.02. \nTom purchased a strategy game for $9.46. \nTom purchased a Batman game for $12.04. \nTom spent $35.52 on video games.\n\n-->\n\n35.52 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mike bought some toys . He bought marbles for $ 9.05 , a football for $ 4.95 , and spent $ 6.52 on a baseball . In total , how much did Mike spend on toys ?\nA:",
+    "output": "Mike bought some toys. \n\nMike bought marbles for $9.05, a football for $4.95, and spent $6.52 on a baseball. \n\nIn total, Mike spent $9.05 + $4.95 + $6.52 = $20.52 on toys.\n\n-->\n\n20.52 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A ship is filled with 5973 tons of cargo . It stops in the Bahamas , where sailors load 8723 tons of cargo onboard . How many tons of cargo does the ship hold now ?\nA:",
+    "output": "A ship is filled with 5973 tons of cargo. \n\nThat means it has 5973 tons of cargo onboard. \n\nIt stops in the Bahamas, where sailors load 8723 tons of cargo onboard. \n\nThat means it now has 5973 + 8723 = 14,696 tons of cargo onboard.\n\n-->\n\n14696.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Before December , customers buy 1346 ear muffs from the mall . During December , they buy 6444 , and there are none . In all , how many ear muffs do the customers buy ?\nA:",
+    "output": "Before December, customers bought 1346 earmuffs. \nIn December, they bought 6444 earmuffs. \nIn total, they bought (1346 + 6444) = 7790 earmuffs.\n\n-->\n\n7790.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Diane is a beekeeper . Last year , she harvested 2479 pounds of honey . This year , she bought some new hives and increased her honey harvest by 6085 pounds . How many pounds of honey did Diane harvest this year ?\nA:",
+    "output": "Diane harvested 2479 pounds of honey last year. This year, she increased her harvest by 6085 pounds. This year's harvest would be 2479 + 6085 = 8,564 pounds.\n\n-->\n\n8564.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: An oil pipe in the sea broke . Before engineers started to fix the pipe , 6522 liters of oil leaked into the water . While the engineers worked , the pipe leaked 5165 liters of oil . In all , how many liters of oil leaked into the water ?\nA:",
+    "output": "We are given that 6522 liters of oil leaked into the water before the engineers started to fix the pipe. \nThen, while the engineers worked, the pipe leaked 5165 liters of oil. \n\nIn total, then, the amount of oil that leaked into the water was 6522 + 5165 = 11,687 liters.\n\n-->\n\n11687.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A car company produced 3884 cars in North America and 2871 cars in Europe . How many cars is that in all ?\nA:",
+    "output": "In North America, the company produced 3884 cars. \nIn Europe, the company produced 2871 cars. \n\nIn total, the company produced 3884 + 2871 = 6755 cars.\n\n-->\n\n6755.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Abe 's family moved from the Bahamas to Japan , so they had convert their money into Japanese yen . Their checking account now has 6359 yen and their savings account now has 3485 yen . How many yen do they have ?\nA:",
+    "output": "Abe's family moved from the Bahamas to Japan, so they had to convert their money into Japanese yen. \n\nThis means that they had some amount of money in Bahamian dollars, which they then converted into Japanese yen. So, we can represent this with the equation:\n\nBahamian dollars + Japanese yen = total money\n\nWe know that their checking account now has 6359 yen, and their savings account now has 3485 yen. So, we can represent this with the equation:\n\nchecking account + savings account = total money\n\nNow, we can set the two equations equal\n\n-->\n\n9844.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 1986 books in Oak Grove 's public library . In addition , there are 5106 books in its school libraries . How many books do the libraries in Oak Grove have overall ?\nA:",
+    "output": "There are 1986 books in Oak Grove's public library. \nIn addition, there are 5106 books in its school libraries. \nTo find the total number of books in both libraries, we need to add 1986 + 5106. \nTherefore, the total number of books in both libraries is 7092.\n\n-->\n\n7092.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were originally 20817 houses in Lincoln County . During a housing boom , developers built 97741 . How many houses are there now in Lincoln County ?\nA:",
+    "output": "There were originally 20817 houses in Lincoln County. \nDuring a housing boom, developers built 97741. \n\nThat means that there are now (20817 + 97741) = 118558 houses in Lincoln County.\n\n-->\n\n118558.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A farmer estimates that he will harvest 48097 bushels of wheat . The weather is perfect during the growing season , so he harvests 684 bushels of wheat than expected . How many bushels of wheat does the farmer harvest ?\nA:",
+    "output": "The farmer estimates that he will harvest 48097 bushels of wheat. \nThe weather is perfect during the growing season, so he harvests 684 bushels of wheat than expected. \n\nThis means that the farmer actually harvests 48781 bushels of wheat.\n\n-->\n\n48781.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Last year at Newberg 's airport , 14507 passengers landed on time . Unfortunately , 213 passengers landed late . In all , how many passengers landed in Newberg last year ?\nA:",
+    "output": "There were a total of 14507 + 213 = 14720 passengers that landed in Newberg last year.\n\n-->\n\n14720.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Some insects called aphids attack a large farm . In response , the farmer releases ladybugs onto the fields . There are 12170 ladybugs with spots and 54912 ladybugs without spots . How many ladybugs are there in all ?\nA:",
+    "output": "There are 12170 ladybugs with spots and 54912 ladybugs without spots. \n\nThat means there are a total of 67,082 ladybugs.\n\n-->\n\n67082.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: To fill an order , the factory dyed 61921 yards of silk green and 49500 yards pink . How many yards of silk did it dye for that order ?\nA:",
+    "output": "The factory dyed 61921 yards of silk green. \nThe factory dyed 49500 yards pink. \n\nThe factory dyed a total of 61921 + 49500 = 111421 yards of silk for that order.\n\n-->\n\n111421.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A bathing suit manufacturer has a supply of 14797 bathing suits for men . In addition , it has 4969 bathing suits for women . How many bathing suits are available overall ?\nA:",
+    "output": "The manufacturer has a supply of 14797 bathing suits for men. \nIn addition, it has 4969 bathing suits for women. \n\nTo find the total number of bathing suits available overall, we need to add 14797 and 4969. \n\n14797 + 4969 = 19766\n\nTherefore, the manufacturer has a total of 19766 bathing suits available overall.\n\n-->\n\n19766.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Before the recent housing boom , there were 1426 houses in Lawrence County . Now , there are 2000 houses . How many houses did developers build during the housing boom ?\nA:",
+    "output": "There were 1426 houses in Lawrence County before the recent housing boom. \nNow, there are 2000 houses in Lawrence County. \n\nThis means that there are 574 more houses in Lawrence County now than there were before the recent housing boom. \n\nTherefore, developers must have built 574 houses during the housing boom.\n\n-->\n\n574.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A worker at a medical lab is studying blood samples . 2 samples contained a total of 7341 blood cells . The first sample contained 4221 blood cells . How many blood cells were in the second sample ?\nA:",
+    "output": "The first sample contained 4221 blood cells. \nThat means the second sample contained 7341 - 4221 = 3120 blood cells.\n\n-->\n\n3120.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: So far , an orchard has sold a combined total of 9792 pounds of fresh and frozen fruit this season . If they have sold 3513 pounds of frozen fruit , how many pounds of fresh fruit have been sold so far ?\nA:",
+    "output": "First, we need to realize that the orchard has sold a combined total of 9792 pounds of fresh and frozen fruit. This means that the total weight of both the fresh and frozen fruit that has been sold is 9792 pounds. \n\nNext, we need to realize that the orchard has sold 3513 pounds of frozen fruit. This means that the weight of the frozen fruit that has been sold is 3513 pounds. \n\nNow, we just need to solve for the weight of the fresh fruit that has been sold. We can do this by subtracting the weight of the frozen fruit that has been\n\n-->\n\n6279.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The Richmond Tigers sold a total of 9570 tickets last season . If they sold 3867 tickets in the first half of the season , how many tickets did they sell in the second half ?\nA:",
+    "output": "The Richmond Tigers sold a total of 9570 tickets last season. \nIf they sold 3867 tickets in the first half of the season, \n\nthen they sold 9570 - 3867 = 5703 tickets in the second half of the season.\n\n-->\n\n5703.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A petri dish originally contained 600 bacteria . A scientist let the bacteria grow and now there are 8917 of them . How many more bacteria are there now ?\nA:",
+    "output": "There were 600 bacteria to start. \nThen the scientist let them grow. \nNow there are 8917 bacteria. \n\nSo we want to know how many more bacteria there are now. We can find this out by subtracting the original number of bacteria from the current number of bacteria: \n\n8917 - 600 = 8317\n\nThere are 8317 more bacteria now.\n\n-->\n\n8317.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tori is a school janitor . Last week , she picked up a total of 1576 pieces of trash . If she picked up 344 pieces of trash in the classrooms , how many pieces of trash did Tori pick up outside the classrooms ?\nA:",
+    "output": "Tori picked up a total of 1576 pieces of trash. \nShe picked up 344 pieces of trash in the classrooms. \n\nThat means she picked up (1576 - 344) pieces of trash outside the classrooms. \n\nTherefore, Tori picked up 1232 pieces of trash outside the classrooms.\n\n-->\n\n1232.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Molly owns the Wafting Pie Company . This morning , her employees used 816 eggs to bake pumpkin pies . If her employees used a total of 1339 eggs today , how many eggs did they use in the afternoon ?\nA:",
+    "output": "Molly's employees used 816 eggs to bake pumpkin pies in the morning. \nThat means they used 1339 - 816 = 523 eggs in the afternoon.\n\n-->\n\n523.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Each of farmer Cunningham 's 6048 lambs is either black or white . There are 193 white ones . How many of Farmer Cunningham 's lambs are black ?\nA:",
+    "output": "There are 6048 lambs in total. \nWe know that 193 of them are white. \nThat means that the remaining lambs must be black. \n\nTherefore, there are 6048 - 193 = 5855 black lambs.\n\n-->\n\n5855.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Students at Arcadia schools are participating in a coat drive . 9437 coats have been collected so far . 6922 coats were collected from the high schools , and the rest from the elementary schools . How many coats were collected at the elementary schools ?\nA:",
+    "output": "There are two types of schools: high schools and elementary schools. \nWe are told that 9437 coats have been collected in total. \nWe are told that 6922 coats were collected from the high schools. \n\nThis means that the remaining coats must have been collected from the elementary schools. \n\nTherefore, the number of coats collected at the elementary schools is 9437 - 6922 = 2515.\n\n-->\n\n2515.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The Silvergrove Public Library used a grant to purchase 2647 books . Now the library has a total of 8582 books . How many books did the library have before the grant ?\nA:",
+    "output": "The library had 8582 books after the grant. \nThe library received 2647 books from the grant. \nTherefore, the library had 8582 - 2647 = 5935 books before the grant.\n\n-->\n\n5935.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Last year , egg producers in Douglas County produced 1416 eggs . This year , those same farms produced 4636 eggs . How many more eggs did the farms produce this year ?\nA:",
+    "output": "Last year, the farms produced 1416 eggs. \nThis year, the farms produced 4636 eggs. \n\nTo find out how many more eggs were produced this year, we need to subtract the number of eggs produced last year from the number of eggs produced this year. \n\n4636 - 1416 = \n\n3,220\n\n-->\n\n3220.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: An oil pipe in the sea broke . Before engineers started to fix the pipe , 2475 gallons of oil leaked into the water . A total of 6206 gallons of oil leaked before the pipe was fixed . How many gallons of oil leaked while the engineers were fixing the pipe ?\nA:",
+    "output": "We are given that 2475 gallons of oil leaked into the water before engineers started to fix the pipe. \nWe are also given that a total of 6206 gallons of oil leaked before the pipe was fixed. \n\nWe want to know how many gallons of oil leaked while the engineers were fixing the pipe. \n\nWe can set up the equation: \n\n2475 + x = 6206\n\nx = 3731\n\n3731 gallons of oil leaked while the engineers were fixing the pipe.\n\n-->\n\n3731.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A treasure hunter discovered a buried treasure chest filled with a total of 5155 gems . 45 of the gems were diamonds , and the rest were rubies . How many of the gems were rubies ?\nA:",
+    "output": "The treasure hunter discovered a buried treasure chest filled with a total of 5155 gems. \n\nWe know that 45 of the gems were diamonds, and the rest were rubies. \n\nWe want to find out how many of the gems were rubies. \n\nWe can set up an equation to solve this problem. \n\nWe know that the total number of gems is 5155. We also know that 45 of those gems are diamonds. So if we subtract 45 from 5155, we will be left with the number of rubies. \n\n5155 - 45 = 5110\n\n-->\n\n5110.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While playing a video game , Paul scored 3103 points . He and his cousin together have a total of 5816 points . How many points does Paul 's cousin have ?\nA:",
+    "output": "We know that Paul has 3103 points and that together, he and his cousin have 5816 points. \n\nWe want to know how many points Paul's cousin has. \n\nWe can set up an equation to solve this problem. \n\n3103 + x = 5816\n\nx = 5816 - 3103\n\nx = 2713\n\n-->\n\n2713.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A construction company is repaving a damaged road . So far , they have repaved a total of 4938 inches of the road . Today , they repaved 805 inches of the road . How many inches of the road had they repaved before today ?\nA:",
+    "output": "The company has repaved a total of 4938 inches of the road. \nToday, they repaved 805 inches of the road. \nSo before today, they had repaved 4938 - 805 = 4133 inches of the road.\n\n-->\n\n4133.0 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Oscar 's bus ride to school is 0.75 mile and Charlie 's bus ride is 0.25 mile . How much longer is Oscar 's bus ride than Charlie 's ?\nA:",
+    "output": "Oscar's bus ride is 0.75 mile. \nCharlie's bus ride is 0.25 mile. \n\nTo find out how much longer Oscar's bus ride is than Charlie's, we need to subtract Charlie's bus ride from Oscar's bus ride. \n\n0.75 - 0.25 = \n\n0.50 \n\nOscar's bus ride is 0.50 mile longer than Charlie's.\n\n-->\n\n0.5 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ella owns 2 dogs . Each day , 1 dog eats 0.125 scoop of dog food and the other dog eats 0.125 scoop . Together , how much dog food do the 2 dogs eat each day ?\nA:",
+    "output": "Ella owns 2 dogs. This is given information and we do not need to solve for anything. \nEach day, 1 dog eats 0.125 scoop of dog food and the other dog eats 0.125 scoop. This is also given information. \nTogether, how much dog food do the 2 dogs eat each day? This is what we need to solve for. \n\nWe know that each dog eats 0.125 scoop of dog food each day. This means that the total amount of dog food that the 2 dogs eat each day is 0.25 scoop.\n\n-->\n\n0.25 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In Mr. Olsen 's mathematics class , 0.7 the students received A 's and 0.2 received B 's . What fraction of the students received either A 's or B 's ?\nA:",
+    "output": "0.7 of the students received A's. \n0.2 of the students received B's. \n\n0.7 + 0.2 = 0.9 \n\n0.9 of the students received either A's or B's.\n\n-->\n\n0.9 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 1 evening , a restaurant served a total of 0.2 loaf of wheat bread and 0.4 loaf of white bread . How many loaves were served in all ?\nA:",
+    "output": "There were a total of 0.2 loaf of wheat bread and 0.4 loaf of white bread. \n\nThis means that there were a total of 0.6 loaf of bread.\n\n-->\n\n0.6 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dina made cookies . She used 0.625 cup of flour and 0.25 cup of sugar . How much more flour than sugar did Dina use ?\nA:",
+    "output": "Dina used 0.625 cup of flour and 0.25 cup of sugar. How much more flour than sugar did Dina use?\n\n0.625 - 0.25 = 0.375\n\nDina used 0.375 more flour than sugar.\n\n-->\n\n0.375 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Each day , the polar bear at Richmond 's zoo eats 0.2 bucket of trout and 0.4 bucket of salmon . How many buckets of fish does the polar bear eat daily ?\nA:",
+    "output": "How many buckets of trout does the polar bear eat daily? \nHow many buckets of salmon does the polar bear eat daily? \nHow many buckets of fish does the polar bear eat daily in total? \n\nThe polar bear at Richmond's zoo eats 0.2 bucket of trout and 0.4 bucket of salmon each day. So, the polar bear eats 0.6 buckets of fish each day.\n\n-->\n\n0.6 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Suzie found 2 worms in the yard and measured them with a ruler . 1 worm was 0.8 inch long . The other worm was 0.1 inch long . How much longer was the longer worm ?\nA:",
+    "output": "The first worm is 0.8 inches long. \nThe second worm is 0.1 inches long. \nTo find out how much longer the first worm is, we need to subtract the length of the second worm from the length of the first worm. \n\n0.8 - 0.1 = 0.7\n\nThe first worm is 0.7 inches longer than the second worm.\n\n-->\n\n0.7 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Vince 's bus ride to school is 0.625 mile and Zachary 's bus ride is 0.5 mile . How much longer is Vince 's bus ride than Zachary 's ?\nA:",
+    "output": "Vince's bus ride is 0.625 mile. \nZachary's bus ride is 0.5 mile. \n\nTo compare the two, we need to know how much longer Vince's bus ride is than Zachary's. \n\n0.625 - 0.5 = 0.125 \n\nVince's bus ride is 0.125 mile longer than Zachary's.\n\n-->\n\n0.125 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Elizabeth went to the salon and had 0.375 inch of hair cut off . The next day she went back and asked for another 0.5 inch to be cut off . How much hair did she have cut off in all ?\nA:",
+    "output": "Elizabeth went to the salon and had 0.375 inch of hair cut off. This can be written as 0.375 inches. \nThe next day she went back and asked for another 0.5 inch to be cut off. This can be written as 0.5 inches. \n\nNow we need to add these two numbers together to find the total. \n\n0.375 inches + 0.5 inches = \n\n0.875 inches\n\n-->\n\n0.875 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Greg and Sharon own neighboring cornfields . Greg harvested 0.4 acre of corn on Monday and Sharon harvested 0.1 acre . How many more acres did Greg harvest than Sharon ?\nA:",
+    "output": "Greg harvested 0.4 acre of corn on Monday. \nThat means Sharon harvested 0.1 acre of corn on Monday. \nThat means Greg harvested 0.3 more acres of corn than Sharon.\n\n-->\n\n0.3 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While making desserts for a bake sale , Victor used 0.625 scoop of brown sugar as well as 0.25 scoop of white sugar . How much more brown sugar did Victor use ?\nA:",
+    "output": "Step 1: How much is one scoop of brown sugar? \nStep 2: How much is one scoop of white sugar? \nStep 3: How much more brown sugar did Victor use? \n\nStep 1: One scoop of brown sugar is 0.625 cups. \nStep 2: One scoop of white sugar is 0.25 cups. \nStep 3: Victor used 0.625 cups of brown sugar and 0.25 cups of white sugar. This means that Victor used 0.375 cups more brown sugar than white sugar.\n\n-->\n\n0.375 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jonah added 0.3 cup of yellow raisins and 0.4 cup of black raisins to a batch of trail mix . How many cups of raisins did Jonah add in all ?\nA:",
+    "output": "Jonah added 0.3 cup of yellow raisins. \nThen, Jonah added 0.4 cup of black raisins. \n\nIn all, Jonah added 0.3 + 0.4 = 0.7 cups of raisins.\n\n-->\n\n0.7 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In Yardley it snowed 0.125 inch in the morning and 0.5 inch in the afternoon . What was the total amount of snowfall ?\nA:",
+    "output": "In the morning, there was 0.125 inch of snowfall. In the afternoon, there was 0.5 inch of snowfall. So the total amount of snowfall was 0.125 + 0.5 = 0.625 inch.\n\n-->\n\n0.625 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kaleen filled a bucket with 0.75 gallon of water . A few minutes later , she realized only 0.5 gallon of water remained . How much water had leaked out of the bucket ?\nA:",
+    "output": "Kaleen filled a bucket with 0.75 gallon of water. This is the first step and the given information. \nA few minutes later, she realized only 0.5 gallon of water remained. This is the second step and the given information. \nHow much water had leaked out of the bucket? This is the question we are trying to answer. \n\nWe can set up an equation to solve this problem. \n\n0.75 gallon + x = 0.5 gallon\n\nWe want to solve for x, which is how much water leaked out of the bucket.\n\n-->\n\n0.25 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Irwin 's family went on a camping trip in the mountains . On the first day , they hiked from their car to the campsite . First , they hiked 0.2 mile from the car to a stream , and 0.4 mile from the stream to a meadow . Then they hiked 0.1 mile from the meadow to the campsite . How many miles did Irwin 's family hike in all ?\nA:",
+    "output": "The family hiked 0.2 miles from the car to the stream. \nThen, they hiked 0.4 miles from the stream to the meadow. \nLastly, they hiked 0.1 miles from the meadow to the campsite. \n\nIn total, the family hiked 0.2 + 0.4 + 0.1 = 0.7 miles.\n\n-->\n\n0.7 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Bonnie 's science class recorded the rainfall each day . They recorded 0.16666666666666666 centimeter of rain on Monday , 0.4166666666666667 centimeter of rain on Tuesday , and 0.08333333333333333 centimeter of rain on Wednesday . How many centimeters of rain did the class record in all ?\nA:",
+    "output": "The class recorded 0.16666666666666666 centimeter of rain on Monday. \nThe class recorded 0.4166666666666667 centimeter of rain on Tuesday. \nThe class recorded 0.08333333333333333 centimeter of rain on Wednesday. \n\nTo find the total amount of rain that the class recorded, we need to add up all of the rain that fell on each day. \n\n0.16666666666666666 + 0.4166666666666667 + 0.08333333333333333 = 0.6666666666666667\n\nThe class recorded a total of 0.66666666\n\n-->\n\n0.6666666666666666 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Last Saturday , Spencer walked all over town running errands . First , he walked 0.3 mile from his house to the library and 0.1 mile from the library to the post office . Then he walked 0.4 mile from the post office back home . How many miles did Spencer walk in all ?\nA:",
+    "output": "Spencer walked 0.3 miles from his house to the library. \nThen he walked 0.1 miles from the library to the post office. \nThen he walked 0.4 miles from the post office back home. \n\nIn total, Spencer walked 0.8 miles.\n\n-->\n\n0.8 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A construction company ordered 0.16666666666666666 ton of concrete , 0.16666666666666666 ton of bricks , and 0.5 ton of stone . How many tons of material did the company order in all ?\nA:",
+    "output": "There are 3 types of materials - concrete, bricks, stone. \nThe company ordered 0.16666666666666666 ton of concrete, 0.16666666666666666 ton of bricks, and 0.5 ton of stone. \nThis means that they ordered a total of 0.8333333333333334 tons of material.\n\n-->\n\n0.8333333333333334 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ellen made smoothies in the blender . She used 0.2 cup of strawberries , 0.1 cup of yogurt , and 0.2 cup of orange juice . How many cups of ingredients did Ellen use for the smoothies ?\nA:",
+    "output": "First, we need to convert everything to cups. \n0.2 cups of strawberries is the same as 1/5 cups of strawberries. \n0.1 cups of yogurt is the same as 1/10 cups of yogurt. \n0.2 cups of orange juice is the same as 1/5 cups of orange juice. \n\nNow that we have everything in cups, we can add them up. \n1/5 + 1/10 + 1/5 = 1/2\n\nEllen used 1/2 cup of ingredients for the smoothies.\n\n-->\n\n0.5 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Heather went to the county fair last weekend . When she got there , she had to walk 0.3333333333333333 mile from the car to the entrance . Then she walked 0.3333333333333333 mile to the carnival rides and 0.08333333333333333 mile from the carnival rides back to the car . How many miles did Heather walk in all ?\nA:",
+    "output": "Heather walked from the car to the entrance. This was 0.3333333333333333 miles. \nThen she walked from the entrance to the carnival rides. This was another 0.3333333333333333 miles. \nFinally, she walked from the carnival rides back to the car. This was 0.08333333333333333 miles. \n\nIn total, Heather walked 0.3333333333333333 + 0.3333333333333333 + 0.08333333333333333 = 0.75 miles.\n\n-->\n\n0.75 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Karin 's science class weighed plastic rings for an experiment . They found that the orange ring weighed 0.08333333333333333 ounce , the purple ring weighed 0.3333333333333333 ounce , and the white ring weighed 0.4166666666666667 ounce . What was the total weight of the plastic rings ?\nA:",
+    "output": "The orange ring weighed 0.08333333333333333 ounce. \nThe purple ring weighed 0.3333333333333333 ounce. \nThe white ring weighed 0.4166666666666667 ounce. \n\nTo find the total weight of the plastic rings, we need to add the weights of the orange ring, the purple ring, and the white ring. \n\n0.08333333333333333 + 0.3333333333333333 + 0.4166666666666667 = 0.8333333333333334\n\n-->\n\n0.8333333333333334 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Carefully following a recipe , Kenny used exactly 0.16666666666666666 cup of oil and 1.1666666666666667 cups of water . How many cups of liquid did Kenny use in all ?\nA:",
+    "output": "Kenny used 0.16666666666666666 cups of oil. This is the first part of the liquid. \n\nKenny used 1.1666666666666667 cups of water. This is the second part of the liquid. \n\nKenny used a total of 1.3333333333333333 cups of liquid.\n\n-->\n\n1.3333333333333333 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: This afternoon Craig left school , rode the bus 3.8333333333333335 miles , and then walked 0.16666666666666666 mile to get home . How much farther did Craig ride than walk ?\nA:",
+    "output": "Craig left school and rode the bus 3.8333333333333335 miles. Then, he walked 0.16666666666666666 mile to get home. \n\nHow much farther did Craig ride than walk? We need to find the difference in distance between riding the bus and walking. \n\n3.8333333333333335 - 0.16666666666666666 = 3.6666666666666665\n\nCraig rode the bus 3.6666666666666665 miles farther than he walked.\n\n-->\n\n3.6666666666666665 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kelly 's chemistry textbook weighs 7.125 pounds and her geometry textbook weighs 0.625 pound . How much more does the chemistry textbook weigh than the geometry textbook ?\nA:",
+    "output": "First, we need to figure out how much more the chemistry textbook weighs than the geometry textbook. \n\nTo do this, we need to subtract the weight of the geometry textbook from the weight of the chemistry textbook. \n\n7.125 pounds - 0.625 pounds = 6.5 pounds \n\nThe chemistry textbook weighs 6.5 pounds more than the geometry textbook.\n\n-->\n\n6.5 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Roadster 's Paving Company used 10 tons of cement to pave Lexi 's street and 5.1 tons of cement to pave Tess 's street . How much cement did Roadster 's Paving Company use in all ?\nA:",
+    "output": "First, we need to find out how much cement Roadster's Paving Company used in total. To do this, we need to add 10 tons and 5.1 tons. This gives us a total of 15.1 tons. \n\nTherefore, Roadster's Paving Company used 15.1 tons of cement in all.\n\n-->\n\n15.1 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: On a hot day , Sam poured 1 bucket of water into a plastic wading pool . A few minutes later he added another 8.8 buckets . How much water did Sam pour into the pool ?\nA:",
+    "output": "On a hot day, Sam poured 1 bucket of water into a plastic wading pool. This means that he has 1 bucket of water.\n\nA few minutes later, he added another 8.8 buckets. This means that he has 8.8 + 1 = 9.8 buckets of water.\n\n-->\n\n9.8 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A bucket contains 3 gallons of water . If Derek adds 6.8 gallons more , how many gallons will there be in all ?\nA:",
+    "output": "There are 3 gallons of water in the bucket. \nDerek adds 6.8 gallons more. \n\nThis means that there are now 3 + 6.8 = 9.8 gallons of water in the bucket.\n\n-->\n\n9.8 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Hoping to be named Salesperson of the Month , Rosa called the names from 10.2 pages of the phone book last week . This week , she called the people listed on another 8.6 pages of the same phone book . How many pages worth of people did Rosa call in all ?\nA:",
+    "output": "Rosa called 10.2 pages of people last week. This week, she called 8.6 pages of people. In all, Rosa called 18.8 pages of people.\n\n-->\n\n18.8 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the beach , Janet and her sister both built sandcastles and then measured their heights . Janet 's sandcastle was 3.6666666666666665 feet tall and her sister 's was 2.3333333333333335 feet tall . How much taller was Janet 's sandcastle than her sister 's ?\nA:",
+    "output": "First, we need to find the difference in height between the two sandcastles. We can do this by subtracting the height of the smaller sandcastle from the height of the larger sandcastle. In this case, we would subtract 2.3333333333333335 from 3.6666666666666665. \n\n3.6666666666666665 - 2.3333333333333335 = 1.333333333333333\n\nThis means that Janet's sandcastle is 1.333333333333333 feet taller than her sister's sandcastle.\n\n-->\n\n1.3333333333333333 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Alec and his roommates ate 3.25 pints of ice cream on Friday night and 0.25 pint of ice cream on Saturday night . How many pints did they eat in all ?\nA:",
+    "output": "We know that Alec and his roommates ate 3.25 pints of ice cream on Friday night. \nWe also know that they ate 0.25 pints of ice cream on Saturday night. \n\nIn order to find the total number of pints that they ate, we need to add 3.25 and 0.25. \n\n3.25 + 0.25 = 3.5 \n\nTherefore, Alec and his roommates ate 3.5 pints of ice cream in all.\n\n-->\n\n3.5 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A farmer started the day with 8.75 buckets of seeds . After spending the morning sowing seeds , she now has 6 buckets . How many buckets of seeds did the farmer sow ?\nA:",
+    "output": "The farmer started the day with 8.75 buckets of seeds. \nShe spends the morning sowing seeds. \nShe now has 6 buckets. \n\nWe want to know how many buckets of seeds she sowed. \n\nWe can set up an equation to solve this problem. \n\n8.75 - x = 6 \n\nx = 2.75 \n\nThe farmer sowed 2.75 buckets of seeds.\n\n-->\n\n2.75 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Irene just bought a new lamp for her bedside table . The old lamp was 1 foot tall and the new lamp is 2.3333333333333335 feet tall . How much taller is the new lamp than the old lamp ?\nA:",
+    "output": "Irene just bought a new lamp for her bedside table. \nThe old lamp was 1 foot tall. \nThe new lamp is 2.3333333333333335 feet tall. \n\nHow much taller is the new lamp than the old lamp? \n\nThe new lamp is 1.3333333333333335 feet taller than the old lamp.\n\n-->\n\n1.3333333333333333 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 7.75 gallons of water in Becky 's fish tank . If Becky adds 7 gallons more , how many gallons will there be in all ?\nA:",
+    "output": "There are 7.75 gallons of water in Becky's fish tank. \n\nWe are told that Becky adds 7 gallons more. \n\nThis means that there are now 7 + 7.75 = 14.75 gallons of water in Becky's fish tank.\n\n-->\n\n14.75 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kenji and his classmates placed colored blocks on a scale during a science lab . The yellow block weighed 0.6 pounds and the green block weighed 0.4 pounds . How much more did the yellow block weigh than the green block ?\nA:",
+    "output": "The yellow block weighed 0.6 pounds and the green block weighed 0.4 pounds. \n\nThe difference in weight between the two blocks is 0.2 pounds.\n\n-->\n\n0.2 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Terrell hiked 8.2 miles on Saturday . Then , on Sunday , he hiked another 1.6 miles . How far did Terrell hike all together ?\nA:",
+    "output": "On Saturday, Terrell hiked 8.2 miles. \nOn Sunday, Terrell hiked another 1.6 miles. \n\nTo find the total number of miles Terrell hiked, we need to add 8.2 + 1.6. \n\n8.2 + 1.6 = 9.8\n\nTerrell hiked 9.8 miles in total.\n\n-->\n\n9.8 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kevin bought 2 watermelons . The first watermelon was 9.91 pounds , and the second watermelon was 4.11 pounds . How many pounds of watermelon did Kevin buy ?\nA:",
+    "output": "Kevin bought 2 watermelons. \nThe first watermelon was 9.91 pounds. \nThe second watermelon was 4.11 pounds. \n\nTo find the total pounds of watermelon that Kevin bought, we need to add 9.91 + 4.11. \n\n9.91 + 4.11 = 14.02 \n\nKevin bought a total of 14.02 pounds of watermelon.\n\n-->\n\n14.02 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In March it rained 0.81 inches . It rained 0.35 inches less in April than in March . How much did it rain in April ?\nA:",
+    "output": "In March, it rained 0.81 inches. \nIn April, it rained 0.81 - 0.35 = 0.46 inches.\n\n-->\n\n0.46 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ron weighed 2 colored metal balls during a science class . The blue ball weighed 6 pounds and the brown ball weighed 3.12 pounds . If Ron places both balls on the scale at the same time , what will the scale read ?\nA:",
+    "output": "Ron weighs 2 colored metal balls during a science class. \nThe blue ball weighs 6 pounds and the brown ball weighs 3.12 pounds. \nIf Ron places both balls on the scale at the same time, \n\nthe scale will read 9.12 pounds.\n\n-->\n\n9.12 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A bee colony produced 0.36 pounds of honey , but bears ate 0.05 pounds of it . How much honey remains ?\nA:",
+    "output": "The bee colony produced 0.36 pounds of honey. \nFrom that, the bears ate 0.05 pounds of it. \nThat leaves us with 0.36 - 0.05 = 0.31 pounds of honey remaining.\n\n-->\n\n0.31 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: It snowed 0.32 inches on Monday and 0.21 inches on Tuesday . How much did it snow on Monday and Tuesday combined ?\nA:",
+    "output": "The first thing we need to do is add the two numbers together. \n\n0.32 + 0.21 = 0.53\n\nThis means that it snowed a total of 0.53 inches on Monday and Tuesday combined.\n\n-->\n\n0.53 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Brennan had 0.25 grams of pepper . Then he used 0.16 grams of the pepper to make some scrambled eggs . How much pepper does Brennan have ?\nA:",
+    "output": "Brennan had 0.25 grams of pepper. \nThen he used 0.16 grams of the pepper to make some scrambled eggs. \n\nThis means that Brennan now has 0.25 - 0.16 = 0.09 grams of pepper.\n\n-->\n\n0.09 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Gordon bought 3.42 pounds of fruit for a class party . The class ate 2.2 pounds of the fruit . How much fruit is ?\nA:",
+    "output": "Gordon bought 3.42 pounds of fruit. \nThe class ate 2.2 pounds of the fruit. \n\nThat means that there is 3.42 - 2.2 = 1.22 pounds of fruit left.\n\n-->\n\n1.22 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A truck carrying 4.1 pounds of sand travels to a construction yard and loses 2.4 pounds of sand along the way . How much sand does the truck have when it arrives at the yard ?\nA:",
+    "output": "A truck carrying 4.1 pounds of sand loses 2.4 pounds of sand along the way. \nThis means that the truck had 4.1 pounds of sand to start with, and it lost 2.4 pounds of sand along the way. \nThis means that the truck has 4.1 - 2.4 = 1.7 pounds of sand when it arrives at the yard.\n\n-->\n\n1.7 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tori was 4.4 feet tall . Then she grew 2.86 feet taller . How tall is Tori now ?\nA:",
+    "output": "Tori was 4.4 feet tall. \n\nThen she grew 2.86 feet taller. \n\nNow she is 4.4 + 2.86 = 7.26 feet tall.\n\n-->\n\n7.26 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jason found 49 seashells and 48 starfish on the beach . He gave 13 of the seashells to Tim . How many seashells does Jason now have ?\nA:",
+    "output": "Jason found 49 seashells and 48 starfish on the beach. \n\nHe gave 13 of the seashells to Tim. \n\nHow many seashells does Jason now have?\n\nJason now has 49 - 13 = 36 seashells.\n\n-->\n\n36 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jason has 18 books and he has read 9 of them . Mary has 42 books . How many books do they have together ?\nA:",
+    "output": "Jason has 18 books. \nHe has read 9 of them. \nThat means he has 9 left to read. \n\nMary has 42 books. \n\nJason and Mary have a total of 18 + 42 = 60 books.\n\n-->\n\n60 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 41 crayons and 26 pencils in the drawer . Sam placed 12 crayons in the drawer . How many crayons are now there in total ?\nA:",
+    "output": "There are 41 crayons in the drawer. \nSam placed 12 crayons in the drawer. \nHow many crayons are now there in total?\n\nThere are now 41 + 12 = 53 crayons in the drawer.\n\n-->\n\n53 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mike had 33 quarters and 87 nickels in his bank . His dad borrowed 75 nickels from Mike . How many nickels does he have now ?\nA:",
+    "output": "Mike had 33 quarters and 87 nickels in his bank. \nHis dad borrowed 75 nickels from Mike. \n\nSo now, Mike has 33 quarters and 12 nickels in his bank.\n\n-->\n\n12 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam has 86 yellow and 20 green marbles . Joan took 25 of Sam 's yellow marbles . How many yellow marbles does Sam now have ?\nA:",
+    "output": "First, Joan took 25 of Sam's yellow marbles. So we need to subtract 25 from 86. \n\n86 - 25 = \n\n61\n\n-->\n\n61 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Alyssa picked 25 limes and Mike picked 32 limes . Tom picked 12 plums . How many limes were picked in all ?\nA:",
+    "output": "Alyssa picked 25 limes. So we have 25 limes. \nMike picked 32 limes. So we have 57 limes. \nTom picked 12 plums. So we have 12 plums. \n\nTherefore, in total, we have 57 limes.\n\n-->\n\n57 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tim found 679 seashells and 110 starfish on the beach . He gave 172 of the seashells to Sara . How many seashells does Tim now have ?\nA:",
+    "output": "First, we'll start with what we know. We know that Tim found 679 seashells and 110 starfish on the beach. We also know that he gave 172 of the seashells to Sara.\n\nNow, we want to figure out how many seashells Tim now has. We can do this by subtracting the number of seashells he gave to Sara from the total number of seashells he found.\n\n679 - 172 = \n\n507\n\nSo, Tim now has 507 seashells.\n\n-->\n\n507 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mike picked 123 oranges and Melanie picked 104 oranges . Fred picked 130 apples . How many oranges were picked in total ?\nA:",
+    "output": "Mike picked 123 oranges. \nMelanie picked 104 oranges. \n\nHow many oranges were picked in total?\n\nThe answer is 227.\n\n-->\n\n227 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 112 short trees and 119 tall trees currently in the park . Park workers will plant 105 short trees today . How many short trees will the park have when the workers are finished ?\nA:",
+    "output": "There are 112 short trees and 119 tall trees currently in the park. \n\nPark workers will plant 105 short trees today. \n\nThat means that when the workers are finished, there will be 112 + 105 = 217 short trees in the park.\n\n-->\n\n217 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara had 100 pennies and 783 quarters in her bank . Her dad borrowed 271 quarters from Sara . How many quarters does she have now ?\nA:",
+    "output": "Sara had 100 pennies and 783 quarters in her bank. \nHer dad borrowed 271 quarters from Sara. \n\nThis means that her dad took 271 quarters from her bank, so she would have 783 - 271 = 512 quarters remaining.\n\n-->\n\n512 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A restaurant made 9 hamburgers and 4 hot dogs to serve during lunch . Only 3 hamburgers were actually served . How many hamburgers were over ?\nA:",
+    "output": "There were 9 hamburgers made. \n3 hamburgers were served. \nThat means that 9-3=6 hamburgers were not served. \n\nTherefore, the answer is 6.\n\n-->\n\n6 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Melanie picked 7 plums and 4 oranges from the orchard . She gave 3 plums to Sam . How many plums does she have now ?\nA:",
+    "output": "First, Melanie picked 7 plums and 4 oranges from the orchard. \nThen, she gave 3 plums to Sam. \nThat means she has 7 - 3 = 4 plums now.\n\n-->\n\n4 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were a total of 8 football games this year , 4 are played at night . Keith missed 4 of the games . How many football games did Keith go to in total ?\nA:",
+    "output": "There were a total of 8 football games this year. Keith missed 4 of the games. So Keith went to 4 of the 8 football games.\n\n-->\n\n4 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 9 pencils and 4 rulers in the drawer . Sally took 4 pencils out of the drawer . How many pencils are there now ?\nA:",
+    "output": "There are 9 pencils and 4 rulers in the drawer.\nSally took 4 pencils out of the drawer.\n\nThat means that there are now 9-4=5 pencils in the drawer.\n\n-->\n\n5 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jason has 7 violet balloons and 4 red balloons . He lost 3 of the violet balloons . How many violet balloons does Jason have now ?\nA:",
+    "output": "Jason has 7 violet balloons and 4 red balloons.\nHe lost 3 of the violet balloons.\n\nThat means he now has 7 - 3 = 4 violet balloons.\n\n-->\n\n4 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan had 7 potatoes and 4 cantelopes in the garden . The rabbits ate 4 of the potatoes . How many potatoes does Dan now have ?\nA:",
+    "output": "Dan had 7 potatoes and 4 cantaloupes in the garden. \nThe rabbits ate 4 of the potatoes. \n\nThat means that Dan now has 3 potatoes.\n\n-->\n\n3 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara had 4 quarters and 8 dimes in her bank . Her sister borrowed 4 dimes . How many dimes does Sara have now ?\nA:",
+    "output": "Sara had 4 quarters and 8 dimes in her bank. \nHer sister borrowed 4 dimes. \n\nThat means that her sister took 4 dimes from Sara's bank, so now Sara has 4 quarters and 4 dimes left.\n\n-->\n\n4 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sandy 's dog had 8 puppies and 4 had spots . She gave 4 to her friends . How many puppies does she now have ?\nA:",
+    "output": "Sandy's dog had 8 puppies. \n4 of those puppies had spots. \nSandy gave 4 of those puppies to her friends. \n\nThis means that Sandy now has 4 puppies left.\n\n-->\n\n4 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara picked 35 pears and 27 apples from the orchard . She gave 28 pears to Dan . How many pears does Sara have ?\nA:",
+    "output": "Sara picked 35 pears and 27 apples from the orchard. \n\nThis means that, in total, Sara had 62 pieces of fruit. \n\nShe gave 28 pears to Dan. \n\nThis means that, after giving some pears to Dan, Sara was left with \n\n35 - 28 = 7 pears.\n\n-->\n\n7 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jessica grew 35 watermelons and 30 carrots , but the rabbits ate 27 watermelons . How many watermelons does Jessica have ?\nA:",
+    "output": "First, we need to find out how many watermelons the rabbits ate. We know that Jessica grew 35 watermelons, and that the rabbits ate 27 of them. So, we can subtract 27 from 35 to find out how many watermelons Jessica has. \n\n35 - 27 = 8\n\nSo, Jessica has 8 watermelons.\n\n-->\n\n8 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan has 47 green and 48 red marbles . Fred took 24 of Joan 's green marbles . How many green marbles does Joan now have ?\nA:",
+    "output": "Joan has 47 green marbles and 48 red marbles. Fred took 24 of Joan's green marbles. So Joan now has 47-24=23 green marbles.\n\n-->\n\n23 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 42 walnut trees and 12 orange trees currently in the park . Park workers had to cut down 13 walnut trees that were damaged . How many walnut trees will be in the park when the workers are finished ?\nA:",
+    "output": "There are 42 walnut trees and 12 orange trees currently in the park.\n\nPark workers had to cut down 13 walnut trees that were damaged.\n\nThat means that there are now 29 walnut trees in the park.\n\n-->\n\n29 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan joined his school 's band . He bought a clarinet for $ 130.30 , and a song book which was $ 11.24 . Dan found $ 12.32 in his pocket . How much did Dan spend at the music store ?\nA:",
+    "output": "Dan joined his school's band. He bought a clarinet for $130.30, and a song book which was $11.24. \n\nThat means that in total, Dan spent $141.54 at the music store.\n\n-->\n\n141.54 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For his car , Mike spent $ 118.54 on speakers and $ 106.33 on new tires . Mike wanted 3 CD 's for $ 4.58 but decided not to . In total , how much did Mike spend on car parts ?\nA:",
+    "output": "Mike spent $118.54 on speakers. \nMike spent $106.33 on new tires. \nMike wanted 3 CDs for $4.58 but decided not to. \n\nIn total, Mike spent $118.54 + $106.33 = $224.87 on car parts.\n\n-->\n\n224.87 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan spent $ 15 on shorts and $ 14.82 on a jacket , and $ 12.51 on a shirt . She went to 3 shops . In total , how much money did Joan spend on clothing ?\nA:",
+    "output": "Joan spent $15 on shorts. \nJoan spent $14.82 on a jacket. \nJoan spent $12.51 on a shirt. \n\nIn total, Joan spent $42.33 on clothing.\n\n-->\n\n42.33 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan bought toy cars for $ 14.88 , a skateboard for $ 4.88 , and got toy trucks for $ 5.86 . She spent $ 14.55 on pants . In total , how much did Joan spend on toys ?\nA:",
+    "output": "Joan spent $14.88 on toy cars, $4.88 on a skateboard, and $5.86 on toy trucks. So Joan spent $14.88 + $4.88 + $5.86 = $25.62 on toys.\n\n-->\n\n25.62 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary is baking a cake . The recipe calls for 7 cups of flour and 3 cups of sugar . She already put in 2 cups of flour . How many cups of flour does she need to add ?\nA:",
+    "output": "Mary is baking a cake. The recipe calls for 7 cups of flour and 3 cups of sugar. \n\nShe already put in 2 cups of flour. \n\nThat means she needs to add 5 more cups of flour to the recipe.\n\n-->\n\n5 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Last week Fred had 23 dollars and Jason had 46 dollars . Fred washed cars over the weekend and now has 86 dollars . How much money did Fred make washing cars ?\nA:",
+    "output": "Fred had 23 dollars and Jason had 46 dollars. \n\nThat means that in total, there were 69 dollars. \n\nFred washed cars over the weekend and now has 86 dollars. \n\nThat means that in total, there are now 86 + 46 = 132 dollars. \n\nThat means that Fred made 132 - 69 = 63 dollars.\n\n-->\n\n63 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 31 short trees and 32 tall trees currently in the park . Park workers will plant short trees today . When the workers are finished there will be 95 short trees in the park . How many short trees did the workers plant today ?\nA:",
+    "output": "There are 31 short trees and 32 tall trees currently in the park. \nPark workers will plant short trees today. \nWhen the workers are finished there will be 95 short trees in the park.\n\nWe can see that the number of short trees increased by 64. This means that the workers planted 64 short trees today.\n\n-->\n\n64 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 6 pencils and 7 rulers in the drawer . Benny placed 3 pencils in the drawer . How many pencils are now there in total ?\nA:",
+    "output": "There are 6 pencils and 7 rulers in the drawer. \nBenny placed 3 pencils in the drawer. \n\nThat means there are now 9 pencils in the drawer.\n\n-->\n\n9 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 2 maple trees and 5 popular trees currently in the park . Park workers will plant 9 maple trees today . How many maple trees will the park have when the workers are finished ?\nA:",
+    "output": "There are 2 maple trees and 5 popular trees currently in the park. \nThe park workers will plant 9 maple trees today. \nThat means there will be 11 maple trees in the park when the workers are finished.\n\n-->\n\n11 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A restaurant served 7 slices of pie during lunch and 5 during dinner today . It served 8 of them yesterday . How many slices of pie were served today ?\nA:",
+    "output": "The restaurant served 7 slices of pie during lunch and 5 during dinner today. \n\nThat means that it served a total of 12 slices of pie today. \n\nIt served 8 of them yesterday. \n\nThat means that it served a total of 20 slices of pie this week.\n\n-->\n\n12 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 7 dogwood trees currently in the park . Park workers will plant 5 dogwood trees today and 4 dogwood trees tomorrow . It took 8 workers to finish the work . How many dogwood trees will the park have when the workers are finished ?\nA:",
+    "output": "There are 7 dogwood trees currently in the park. \n\nPark workers will plant 5 dogwood trees today and 4 dogwood trees tomorrow. \n\nThat means that when they finish today, there will be 12 dogwood trees in the park. \n\nWhen they finish tomorrow, there will be 16 dogwood trees in the park.\n\n-->\n\n16 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Fred has 5 yellow balloons , Sam has 6 yellow balloons , and Mary has 7 yellow balloons . The balloons cost 5 dollars . How many yellow balloons do they have in total ?\nA:",
+    "output": "Fred has 5 yellow balloons.\nSam has 6 yellow balloons.\nMary has 7 yellow balloons.\n\nSo, in total, they have 18 yellow balloons.\n\n-->\n\n18 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 39 scissors and 22 pencils in the drawer . Dan placed 13 scissors in the drawer . How many scissors are now there in total ?\nA:",
+    "output": "There are 39 scissors and 22 pencils in the drawer.\n\nDan placed 13 scissors in the drawer.\n\nNow there are a total of 52 scissors in the drawer.\n\n-->\n\n52 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 22 orchid bushes and 40 orange trees currently in the park . Park workers will plant 13 orchid bushes today . How many orchid bushes will the park have when the workers are finished ?\nA:",
+    "output": "There are 22 orchid bushes and 40 orange trees currently in the park.\n\nPark workers will plant 13 orchid bushes today.\n\nThat means there will be a total of (22 + 13) = 35 orchid bushes in the park when the workers are finished.\n\n-->\n\n35 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary picked 14 oranges and Jason picked 41 oranges . Keith picked 38 apples . How many oranges were picked in all ?\nA:",
+    "output": "First, we need to find out how many oranges were picked in all. We can do this by adding up the number of oranges that each person picked:\n\n14 + 41 = 55\n\nSo, 55 oranges were picked in all.\n\n-->\n\n55 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan grew 24 pumpkins , Keith grew 42 pumpkins , and Alyssa grew 13 pumpkins . They worked for 34 days on the farm . How many pumpkins did they grow in all ?\nA:",
+    "output": "Joan grew 24 pumpkins in 34 days. \nKeith grew 42 pumpkins in 34 days. \nAlyssa grew 13 pumpkins in 34 days. \n\nTherefore, they grew 24 + 42 + 13 = 79 pumpkins in all.\n\n-->\n\n79 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Alyssa went to 11 soccer games this year , but missed 12 . She went to 13 games last year and plans to go to 15 games next year . How many soccer games will Alyssa go to in all ?\nA:",
+    "output": "In one year, Alyssa goes to 11 + 13 = 24 soccer games. In two years, Alyssa goes to 24 + 15 = 39 soccer games. So in three years, Alyssa goes to a total of 39 soccer games.\n\n-->\n\n39 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Fred has 10 red balloons , Sam has 46 red balloons , and Dan has 16 red balloons . The balloons cost 10 dollars . How many red balloons do they have in all ?\nA:",
+    "output": "Fred has 10 red balloons.\nSam has 46 red balloons.\nDan has 16 red balloons.\n\nThis means that they have a total of 10 + 46 + 16 = 72 red balloons.\n\n-->\n\n72 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Fred picked 36 limes , Alyssa picked 32 limes , and Nancy picked 35 limes and 18 pears , at the farm . How many limes were picked in total ?\nA:",
+    "output": "First, we need to find out how many limes were picked in total. We can do this by adding up the number of limes that each person picked. \n\n36 + 32 + 35 = 103\n\nSo, 103 limes were picked in total.\n\n-->\n\n103 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Benny received 79 dollars and 9 movie tickets for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat . He had 32 dollars over , how much did he spent on the baseball gear ?\nA:",
+    "output": "Benny received 79 dollars and 9 movie tickets. \n\nHe went to a sporting goods store and bought a baseball glove, baseball, and bat. \n\nHow much did he spend on the baseball gear? \n\nWe can set up an equation to solve this problem. \n\n79 + 9 = 32 \n\n79 - 32 = 47 \n\n47 is how much he spent on the baseball gear.\n\n-->\n\n47 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 43 maple trees and 22 orange trees currently in the park . Park workers will plant maple trees today . When the workers are finished there will be 54 maple trees in the park . How many maple trees did the workers plant today ?\nA:",
+    "output": "There are 43 maple trees and 22 orange trees currently in the park. \n\nPark workers will plant maple trees today. \n\nWhen the workers are finished there will be 54 maple trees in the park.\n\nHow many maple trees did the workers plant today?\n\nThe workers planted 11 maple trees today.\n\n-->\n\n11 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan had 14 peaches and 10 pears at his roadside fruit dish . He went to the orchard and picked peaches to stock up . There are now 85 peaches . how many did he pick ?\nA:",
+    "output": "Dan had 14 peaches and 10 pears at his roadside fruit dish. \n\nWe know that he picked peaches to stock up, so we can say that the number of peaches he had at his roadside fruit dish increased. \n\nThe final number of peaches he had was 85. \n\nWe want to find out how many peaches he picked. \n\nWe can set up an equation to solve this problem. \n\n14 + x = 85\n\nx = 71\n\nDan picked 71 peaches.\n\n-->\n\n71 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 2 red orchids and 4 white orchids in the vase . Jessica cut some red orchids from her flower garden . There are now 18 red orchids in the vase . How many red orchids did she cut ?\nA:",
+    "output": "There were 2 red orchids and 4 white orchids in the vase.\nJessica cut some red orchids from her flower garden.\nThere are now 18 red orchids in the vase.\n\nSo, Jessica cut 16 red orchids from her flower garden.\n\n-->\n\n16 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Keith picked 3 pears and Jason picked 2 pears from the pear tree . Joan picked 5 apples from the apple tree . How many pears were picked in total ?\nA:",
+    "output": "Keith picked 3 pears and Jason picked 2 pears from the pear tree. \nThat means a total of 3 + 2 = 5 pears were picked from the pear tree. \nJoan picked 5 apples from the apple tree. \nThat means a total of 5 apples were picked from the apple tree. \n\nSo in total, 5 pears and 5 apples were picked.\n\n-->\n\n5 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sally has 9 orange balloons and 4 blue balloons . She lost 2 of the orange balloons . How many orange balloons does Sally have now ?\nA:",
+    "output": "Sally has 9 orange balloons and 4 blue balloons.\nShe lost 2 of the orange balloons.\n\nThat means Sally has 9 - 2 = 7 orange balloons now.\n\n-->\n\n7 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sandy grew 8 carrots and 7 turnips . Mary grew 6 carrots . How many carrots did they grow in all ?\nA:",
+    "output": "Sandy grew 8 carrots and 7 turnips. \nMary grew 6 carrots. \n\nSo, Sandy grew 8 carrots and Mary grew 6 carrots. In total, they grew 8 + 6 = 14 carrots.\n\n-->\n\n14 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 5 scissors and 3 pencils in the drawer . Jason placed 4 scissors in the drawer . How many scissors are now there in total ?\nA:",
+    "output": "There are 5 scissors and 3 pencils in the drawer.\nJason placed 4 scissors in the drawer.\n\nNow, there are 9 scissors in the drawer.\n\n-->\n\n9 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Alyssa 's cat had 8 kittens and 8 had spots . She gave 4 to her friends . How many kittens does she now have ?\nA:",
+    "output": "Alyssa's cat had 8 kittens. \nAlyssa gave 4 kittens to her friends. \nAlyssa now has 4 kittens.\n\n-->\n\n4 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam had 7 pennies and 8 dimes in his bank . His sister borrowed 4 dimes . How many dimes does Sam have now ?\nA:",
+    "output": "Sam had 7 pennies and 8 dimes in his bank. \nHis sister borrowed 4 dimes. \n\nThat means that his sister took 4 dimes from Sam, so now Sam has 4 less dimes. \n\nSo Sam has 8 - 4 = 4 dimes now.\n\n-->\n\n4 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 3 short trees and 6 tall trees currently in the park . Park workers will plant 9 short trees today . How many short trees will the park have when the workers are finished ?\nA:",
+    "output": "There are 3 short trees and 6 tall trees currently in the park. \n\nPark workers will plant 9 short trees today. \n\nThat means that when the workers are finished, there will be a total of 12 short trees in the park.\n\n-->\n\n12 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary had 21 dimes and 38 pennies in her bank . Her dad borrowed 18 pennies from Mary . How many pennies does she have now ?\nA:",
+    "output": "Mary had 21 dimes and 38 pennies in her bank. \nHer dad borrowed 18 pennies from Mary. \n\nSo now, Mary has 21 dimes and 20 pennies in her bank.\n\n-->\n\n20 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Alyssa picked 17 plums and Jason picked 10 plums . Melanie picked 35 pears . How many plums were picked in all ?\nA:",
+    "output": "Alyssa picked 17 plums. \n\nJason picked 10 plums. \n\nThat means that, in total, 27 plums were picked.\n\n-->\n\n27 END"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 37 short bushes and 30 tall trees currently in the park . Park workers will plant 20 short bushes today . How many short bushes will the park have when the workers are finished ?\nA:",
+    "output": "There are 37 short bushes and 30 tall trees currently in the park. \n\nPark workers will plant 20 short bushes today. \n\nThis means that when the workers are finished, there will be a total of 57 short bushes in the park.\n\n-->\n\n57 END"
+  }
+]

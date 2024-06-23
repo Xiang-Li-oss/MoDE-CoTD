@@ -1,0 +1,2750 @@
+[
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs it common to see frost during some college commencements?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo hamsters provide food for any animals?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Brooke Shields succeed at University of Pennsylvania?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Jackson Pollock trained by Leonardo da Vinci?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a sophist use an \u00e9p\u00e9e?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Dale Jr hug his dad after their last Daytona 500 together?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan citrus grow in Ulaanbaatar?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Argon near Neon on the periodic table of elements?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre psychiatric patients welcome to join the United States Air Force?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo people in middle school usually get breast exams?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Dioskourides a lapidary?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Solomon make up bigger percentage of Islamic prophets than Kings of Judah?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes an individual oceanographer study many sciences?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Family Guy take place on the American West Coast?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the first Duke of Valentinois play a key role in the Hundred Years' War?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes James Webb Space Telescope fail astronomer in locating planet Krypton?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nShould a finished website have lorem ipsum paragraphs?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid William Shaespeare read the Daily Mirror?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan an Asian black bear use chopsticks?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan someone sell their time through the Toronto Star?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you purchase a dish with injera at Taco Bell?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Sockington enjoy onions?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Alexander Graham Bell hypothetically support Nazi eugenics?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Black Lives Matter connected with capsaicin?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you hide a basketball in a sand cat's ear?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould the Spice Girls compete against \u017dRK Kumanovo?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre there enough Jonny Cash records in the world to give one to each French citizen?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould someone mistake the smell of your brussels sprouts for a fart?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Boris Yeltsin watch the 2008 Summer Olympics?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a student at the University of Houston see a caracal on campus?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a hundred thousand lolcats fit on a first generation iPhone?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre monks forbidden from engaging in warfare?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the BBC World Service hosted in Europe?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs a pottery kiln inappropriate for use with glass blowing?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs dysphoria around one's pelvis treatable without surgery?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan the Dalai Lama fit in a car?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs an espresso likely to assuage fear?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Superhero fiction invented in the digital format?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre any animals in Chinese calendar Chordata?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill 2020 elephant pregnancy last past next year with 4 solar eclipses?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Sony definitively win the video game war against Sega?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould an ethics professor teach a class on Cezanne?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nHas every astronaut survived their space journey?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo members of the Supreme Court of the United States have longer terms than most senators?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Mercedes-Benz associated with the Nazis?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a sea turtle play tennis using a tennis racket?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Donald Trump come up with the idea for the New York Harbor?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes March begin on the same day of the week as February during leap years?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Land of Israel in possession of an Islamic empire in 16th century?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nPaleography hypothetically helps to understand Cthulhu?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs a thousand dollars per Days of Our Lives episodes preferred to other soaps?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes a person using tonsure have hair at the top of their scalp?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre there special traffic laws associated with funerals?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you get a fever from consuming meat?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre a dozen pickles good for easing hypertension?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes a sea otter eat spiders?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes D\u00fcsseldorf have only a small number of smoggy days each year?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the Dalai Lama believe in the divine barzakh?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Walt Disney able to email his illustrations to people living far away?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the best tasting part of the papaya in the center?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould an environmentalist advocate for preventing domestic canine reproduction?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Iphone have more iterations than Samsung Galaxy?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Irish mythology inspire Washington Irving?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the tibia required for floor exercises?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Emma Roberts's Nancy Drew be considered a private investigator?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nHas categories of Nobel prizes remained same since Alfred Nobel established them?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Rand Paul guilty of catch-phrase used to attack John Kerry in 2004?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you chew argon?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo people remember Lucille Ball's winemaking as successful?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill Gremlins sequels tie number of Matrix sequels?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the country that received the most gold medals during the 1976 Olympics still exist?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes open heart surgery finish before entirety of American Ballet Theatre's Swan Lake?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the Yellow Pages the fastest way to find a phone number?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the density of helium cause voices to sound deeper?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a slingshot be improperly classified as artillery?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Heracles famous labors exceed a baker's dozen?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the Democratic Party's nominee for President of the U.S. in 1908 watch TV?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid occupants of Vellore Fort need to defend themselves from Grizzly Bears?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a week be enough time to watch every episode of Ugly Betty?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you find a snow leopard in the Yucatan?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan surgery prevent an existential crisis?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Sirius part of a constellation of an animal?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Hurricane Harvey catch a Peregrine falcon?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you write a whole Haiku in a single tweet?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan an adult human skull hypothetically pass through the birth canal?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWere mollusks an ingredient in the color purple?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan giant pandas sell out a Metallica show?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you cure hepatitis with a tonsillectomy?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre all students guaranteed lunch at school in the US?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould 2019 Natalie Portman avoid a Snickers bar due to her diet?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould it be impossible to use an Iwato scale for a twelve-tone technique composition?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould the host of The Colbert Report be likely to vote for Trump?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the Fibonacci number sequence longer than every number discovered in Pi?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs average number of peas in a pod enough commas for a billion?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill Ronda Rousey hypothetically defeat X-Men's Colossus in a fight?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan photography be considered abstract art?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a woman on average have a baby before wheat seed blooms?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs 3D printing able to make adenovirus?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Eid al-Fitr holiday inappropriate to watch entire US Office?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould it be very difficult for Nuno Gomes to dive to the Red Sea's deepest point?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Benito Mussolini wear bigger shoes than Haf\u00fe\u00f3r Bj\u00f6rnsson?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Glen Beck and Stephen Colbert be likely to tour together?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo some religions look forward to armageddon?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a Yeti be likely to have prehensile limbs?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Amazon afford The Mona Lisa?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs it true that gay male couples cannot naturally reproduce?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas ship that recovered Apollo 13 named after a World War II battle?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo human sacrums have more fused vertebrae than an Alaskan Malamute?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs sternum connected to any of the bones mentioned in James Weldon Johnson's Dem Bones?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Snoopy transmit rabies?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Buddy The Elf know anyone who works in publishing?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Oprah Winfrey buy dozens of her staff Bugatti luxury cars?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a viewer of Monday Night Football be able to catch WWE Raw during commercial breaks?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo depressed people travel to the Golden Gate Bridge often?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a triples tandem bike support Apollo 15 crew?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a dog respond to bell before Grey seal?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre sables related to wolverines?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Nicole Kidman ideal choice to play Psylocke based on height and weight?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Adobe Suite have video game engine coding?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you swim to Miami from New York?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas a Tiny House ceiling out of Osama bin Laden's reach?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid England win any Olympic gold medals in 1800?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre all types of pottery safe to cook in?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Pope Alexander VI's origin country least represented in papal history?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan depression be mistaken for laziness?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan an Arvanite Greek understand some of the Albanian Declaration of Independence?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid breakdancing grow in popularity during WW2?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Romeo and Juliet an unusual title to teach high schoolers?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill bumblebees derail the United States presidential election?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre the names of The Powerpuff Girls alliterative?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Amy Winehouse a fan of Star Wars: Rogue One?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Christopher Nolan indebted to Bob Kane?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you get a ride on Amtrak to the Underworld?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas the Eiffel tower used as a symbol of the French Revolution?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Queen Elizabeth The Queen Mother and her daughter share name with Tudor queen?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Snickers helpful for weight loss?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Europa linked to Viennese waltzes?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Lemon enhance the flavor of milk?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Oprah Winfrey have a degree from an Ivy League university?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the United States Capitol located near the White House?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan someone with dermatitis be a hand model?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIf he were poor, would Christopher Reeve have lived?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre Donkeys part of Christmas celebrations?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas the death of Heath Ledger caused by his work on The Dark Knight?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Polar Bears roam around in Ancient Greece?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo all of the African regions that participated in the Portugese Colonial War share an official language?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Bactrian Camel most impressive animal when it comes to number of humps?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo German Shepherds worry about the Abitur?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan the Moscow Kremlin fit inside Disney Land?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the lead singer of Led Zepplin ever perform with Ernest Chataway?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid P. G. Wodehouse like the internet as a child?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Harvey Milk ever run for governor?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a vegan prefer a natural bongo drum over a synthetic one?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre those incapable of reproduction incapable of parenthood?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs it possible that June got its name from mythology?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Richard III's father have greater longevity than him?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes a Starbucks passion tea have ginger in it?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Dustin Hoffman one of the B'nei Yisrael?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Billy Graham support agnosticism?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo Youtube viewers get unsolicited audiobook advice often?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould the Who concert in international space station be audible?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes a dentist treat Bluetooth problems?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIf someone loves buffalo wings do they enjoy capsaicin?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould someone in Tokyo take a taxi to the The Metropolitan Museum of Art?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the United States Department of Education oversee services benefiting undocumented migrants?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre deaf people left out of enjoying music?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill the small intenstine break down a cotton ball?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs winter associated with hot temperatures?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo you often hear Marco Polo's name shouted near water?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould multiple average rulers be necessary to measure the length of a giant armadillo?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIf you were on a diet, would you have to skip lunch at McDonald's?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a Dodo hypothetically tower over Ma Petite?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes ABBA have similar gender configuration to The Mamas & The Papas?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Rick and Morty considered an anime?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you avoid internet trolls on reddit?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo flying fish have good eyesight?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould JPEG be a good format for saving an image of Da Vinci's Vitruvian Man?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a ten-pin bowling pin be a deadly weapon?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWere there eight humans on Noah's Ark?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a false pope become a saint?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Northwest Airlines' longevity surpass Betty White?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you put bitcoin in your pocket?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Queen Elizabeth I read the works of Jean-Paul Sartre?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the Riksdag a political entity in Scandinavia?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo children send their Christmas letters to the South Pole?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill AC/DC album sales buy more B-52 bombers than Lil Wayne's?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs purchasing food for a Lolcat unnecessary?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould nickel boil in the outer core of the earth?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a cell fit inside of a shoebox?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan numerologists become members of Royal Society?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Tokyo Tower designers appreciate Stephen Sauvestre?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a hamster experience two leap years?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Native American tribes teach Spaniards how to cultivate maize?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan your psychologist say hello to you while you are out at the supermarket?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Hamlet more common on IMDB than Comedy of Errors?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan an elite runner circle the Pyrenees in one day?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the title of Shirley Bassey's 1971 diamond song a true statement?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre classic nintendo games for emulator legal?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs silicon important in California?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you give at least one word from the Torah to all residents of Bunkie Louisiana?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan eating your weight in celery prevent diabetes?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs 500GB USB device enough to save 10 hours of Netflix shows a day?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid J. D. Salinger ever ask his father for a quincea\u00f1era?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo Koalas prefer Eucalyptus over meat?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes horseradish have a fetlock?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid any of Maya Angelou's children follow in her footsteps?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes James Watson believe that Africans are inferior to Europeans?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Richard Wagner support the Nazis?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre hippos dangerous to humans?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Doctor Strange like the Pittsburgh Steelers logo?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre the events of Star Trek: The Next Generation in the history of the world?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs a doctorate required to teach at a SUNY School?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould ramen be bad for someone with heart failure?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs there a popular Broadway character who is a missionary?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Malcolm X avoid eating ham?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo Elementary School students typically need graphing calculators?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill the Albany in Georgia reach a hundred thousand occupants before the one in New York?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre people more likely than normal to get sunburn at Burning Man?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan dementia be cured with a cast?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs groundhog day used as a global season indicator?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Darth Vader hypothetically catch the Coronavirus?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a snake swallow an M60 Patton?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a person with Anorexia nervosa be more likely to break a bone than a regular person?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the bull shark more bull than shark?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid US President during Spanish-American War suffer similar demise to Abraham Lincoln?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nHas Aretha Franklin ever collaborated with a suicidal person?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo children's bicycles often have extra wheels?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIn geometry terms, is the Royal Observatory in Greenwich similar to a yield sign?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a dichromat probably easily distinguish chlorine gas from neon gas?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Darth Vader monogamous?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the Foreign and Commonwealth Office a European political agency?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre there five different single-digit Fibonacci numbers?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs electricity necessary to balance an account in Microsoft Excel?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre most books written as a Haiku?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the Social Democratic Party of Germany help Frederick II become King of Prussia?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan the Toyota Hilux tip the scales against Mr. Ed?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Edward Snowden have visited the headquarters of United Nations Conference on Trade and Development?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas the amount of spinach Popeye ate unhealthy?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Eighth Amendment to the United States Constitution popular in court?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid U2 play a concert at the Polo Grounds?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIn isopropyl alcohol, is the solubility of salt low?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould baker's dozen of side by side Mac Trucks jam up Golden Gate Bridge?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould an eleventh-grader be eligible for Medicare?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo you need to schedule separate preventive healthcare and sickness visits?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo seven McDonald's hamburgers exceed USDA recommended fat allowance?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre implants from an ORIF surgery affected by the magnetic field of the Earth?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs number of stars in Milky Way at least ten times earth's population?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould you find a tibia beside parsley on a holiday plate?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Mercury make for good Slip N Slide material?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould you read The Atlantic magazine during the Games of the XXII Olympiad?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid James Watson's partner in studying the double helix outlive him?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo you need a farmer to make a circuit board?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Rumi spend his time in a state of euphoria?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould dual-energy X-ray absorptiometry be useful if performed on a crab?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nShould oysters be avoided by people with ADHD?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the Royal Air Force ensign on the moon?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Rosalind Franklin contribute to work that led to Whole Genome Sequencing?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Kenny G hold the qualifications to be a tax collector?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan the Great Depression be treated with Prozac?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs clementine pith highly sought after?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould half muggle wizards fear Lord Voldemort?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould East India Company prefer China's modern trade?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a dog easily notice ammonia?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you buy Reddit at Walmart?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Snowdon mountain be a piece of cake for Tenzing Norgay?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a sloth hypothetically watch an entire episode of Scrubs underwater?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Subway have a sex offender as a spokesperson?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the Presidency of Bill Clinton conclude with his impeachment?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a caracal be defeated by Javier Sotomayor in a high jump competition?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs number of different US President's in 1800s a lucky number in Hong Kong?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWere veterans of the War in Vietnam (1945\u201346) given free education by the Soviet Union?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a goblin shark eat at Crossroads Kitchen?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Katharine Hepburn have ridden the AirTrain JFK?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Lionel Richie related to Sheila E?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs a paleo dieter unlikely to color beverages green for St. Patrick's Day?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Saddam Hussein witness the inauguration of Donald Trump?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Alan Rickman have an improperly functioning organ?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nHas Johns Hopkins University always treated subjects ethically?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs University of Pittsburgh easier to enter than FBI?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan someone in Uberlandia work for Mitsubishi?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a Wolverine and a Lynx be hard to tell apart?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre Durian fruits an olfactory delight?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Richard Wagner compose the theme songs for two television series?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo Squidward Tentacles and Alan Greenspan have different musical passions?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Evander Holyfield eat pork products?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo the Egyptian pyramids look the same from outside as they did when new?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Constitution of the United States paper offend PETA?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Clark Gable appear in any movies scored by John Williams?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs a Halloween cruise in the Gulf of Mexico likely to be safe from storms?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan Billie Eilish afford a Porsche?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a Gladiator's weapon crush a diamond?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould someone on antidepressants need to be cautious of some citrus fruits?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Monty Python write the Who's on First sketch?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo giraffes require special facilities at zoos?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould most children be up past their bedtime if they were watching Conan O'Brien?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs being 5 year Capital One Venture member more cost effective than being in Church of Satan?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas the Joker an enemy of the Avengers?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs US route 1 dominated by historically red states?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWere items released from Pandora's box at least two of the names of Four Horsemen?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Paul the Apostle's cause of death violate the tenets of Ahimsa?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nHas the creator of Futurama lived in multiple centuries?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould someone with back pain enjoy picking strawberries?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Christopher Walken close to achieving EGOT status?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Rumi's work serialized in a magazine?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you see Stonehenge from a window in Dusseldorf?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Nicole Kidman despise Roman Josi?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a Catholic priest commend someone's pride?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould white rice go rancid before sesame seeds?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould J.K Rowling's top sellers be on a fantasy shelf?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Carolina Reaper decrease sales if added to all US salsa?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo some people soak in olive oil and water?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the Paramount leader produce Titanic?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs it normal to find parsley in multiple sections of the grocery store?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Jackie Chan have trouble communicating with a deaf person?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo beeswax alternatives to cling wrap use plsatic?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould an expensive tailor use adhesive to create a shorter hem on slacks?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo frogs feel disgust?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Home Depot sell item in late September zodiac sign symbol?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Al Capone have read works from the Harlem Renaissance?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas latest Republican governor of New Jersey as of 2020 heftiest politician ever?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Harry Potter and the Philosopher's Stone popular during the great depression?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs narcissism's origin a rare place to get modern words from?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs art prioritized in the US education system?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs LG Electronics located in a city with an official bird that has a purplish/blue tail?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nShould cactus soil always be damp?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs dessert eaten before breakfast?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Johnny Carson win enough Emmy's to fill a carton if Emmy's were eggs?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Julius Caesar read books on Pharmacology?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould alligator best saltwater crocodile in hypothetical Lake Urmia battle?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the cuisine of Hawaii suitable for a vegan?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Metallica band members cutting their hair hurt their sales?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Jackson Pollock straight edge?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Dungeons and Dragons a game well suited for solo play?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould the moon fit inside the Black Sea?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill you see peach blossoms and Andromeda at the same time?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas the tenth Amendment to the Constitution written using Pitman shorthand?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Zelda Williams have any cousins on her father's side?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a spider wasp be more effective than a bullet ant to stop a criminal?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Disney's second film rip off a prophet story?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nLil Wayne similar real name rapper has over quadruple Wayne's Grammy awards?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan an emu chase a bogan?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDuring the Cuban revolution, did the US experience a population boom?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan eating grapefruit kill besides allergies or choking?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs an ammonia fighting cleaner good for pet owners?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a packed Wembley stadium be likely to have a descendant of the Mongols inside?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Holy Saturday 2019 have special significance to pot smokers?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nHas CNES planted a French flag on the lunar surface?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Disney associated with Los Angeles County?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a camel fit in a dog house?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs there a warthog on Broadway?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould an Orthodox Presbyterian object to 1700s judge's attire?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould toast for a vegan have margarine instead of butter?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a Common warthog starve in a greenhouse?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Bern a poor choice for a xenophobic Swiss citizen to live?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo pirates care about vitamin C?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Saint Vincent and the Grenadines named by an Italian explorer?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Alfred Hitchcock include internet slang in his films?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo Republicans reject all forms of welfare?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a compact disc melt in magma?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre there options for students who struggle to understand the writing style of Othello?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Goofy have counted nine planets in his first year?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas historical Dracula from a town in Bucharest?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid H.G. Wells' \"War of the Worlds\" include cosmic rays?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes a mongoose have natural camouflage for desert?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Recep Tayyip Erdo\u011fan be unfamiliar with b\u00f6rek?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan whole genome sequencing be used for COVID-19?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould lumberjacks get full after eating three dosa?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo black swan cygnets typically know both of their genetic parents?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Kurt Cobain's death indirectly caused by Daniel LeFever?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the founders of the biggest city in Orange County, California speak Italian?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the Louvre in billionaire George Soros's price range?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a house full of aloe vera hypothetically be ideal for Unsinkable Sam?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the phone Alexander Graham Bell use have call waiting?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Bart Simpson have owned comics with The Joker?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Elmo an original muppet character on Sesame Street?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nHave rhinoceroses been killed to improve human sex lives?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould three newborn kittens fit on a standard Amtrak coach seat?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan the Persian Gulf fit in New Jersey?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo Jews believe in any New Testament angels?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Michael Vick on People for the Ethical Treatment of Animals's hypothetical blacklist?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes someone from Japan need a passport to go to a Nordic country?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a duck ever need a Caesarean section?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you worship Ahura Mazda at a mosque?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Switzerland support the United States in the Spanish\u2013American War?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Robert Downey Jr's Marvel Cinematic Universe character survive the Infinity War?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Gladiator's weapon of choice require less hands than Soul Calibur's Faust?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Mozart ever buy anything from Dolce & Gabbana?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould it be wise to bring a robusto into Central Park Zoo?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Mercury help detect coronavirus?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Al Capone carry a smartphone?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Benjamin Franklin a prime candidate to have his statues removed by Black Lives Matter movement?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a teacher still have their job if they called a black student an ape?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre rainbows devoid of color made by mixing yin and yang colors?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid mongoose come from later period than rhinos?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Bill Gates the wealthiest of the Baby Boomers?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Marco Polo travel with Christopher Columbus?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the language used in Saint Vincent and the Grenadines rooted in English?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Lionel Richie ever have dinner with Abraham Lincoln?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould you watch Naruto and Puzzle Place on the same channel?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Johnny Carson's children fill out a water polo team?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the Pixar film Brave feature Scottish people?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould the United States Military Academy reject an applicant with multiple sclerosis?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Stone Cold Steve Austin wrestle in three different centuries?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre sesame seeds glued onto hamburger buns?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Sugar Ray Robinson box if he stole in Iran?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould the fastest tortoise win a race against a Chicago \"L\"?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre some Brazilian Navy ships built in Britian?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs there a Harry Potter character named after Florence?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Iceland lose to Amazon in a bidding war?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas the AK-47 used in the Seven Years' War?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs CAS number 8009-03-8 harmful for a rash?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo more Cauliflower grow in Arizona than California?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo most fans follow Katy Perry for gospel music?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Masaharu Morimoto rely on glutamic acid?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould one Amazon share ever buy twenty year Netflix subscription?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a student of the class of 2017 have amnesia about 9/11?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan the Supreme Court of Canada fight a Lucha trios match?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a cow produce Harvey Milk?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas song of Roland protagonist friendly with group that had sagas?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Bugs Bunny known for carrying a root vegetable around with him?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWere the Ten commandments the part of the bible that Jewish people do not believe in?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a retail associate envy the retailer's CEO's pay?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs it bad to have lactic acid in your body?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould the crew of Apollo 15 have difficulty riding a unicycle?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo Snow White dwarves best The Hobbit dwarves in battle?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould it be typical for a Rede Globo anchor to say Konnichiwa to the viewers?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Zorro carve his name into items regularly?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould vegans consider chickpeas for a tuna substitute?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Swiss Guard defeat the Marines?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre human footprints absent from Mount Sharp?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Emperor Commodus paid tribute in Pound sterling?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nShould spaghetti be slick when cooked?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas the Carnation Revolution the deadliest revolution in Europe?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you find Bugs Bunny at Space Mountain?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes a kangaroo incubate its offspring?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill every resident of Los Angeles County, California go to Jehovah Witnesses's heaven?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre goats found on abyssal plains?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Kylee Jenner ask for no cream in her coffee?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas the MLB World Series held in Newcastle, New South Wales?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nHas cannabis been a big influence in rap music genre?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes table tennis use prime numbers?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the largest city in New Mexico also known as Yoot\u00f3?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs November a bad time for a photographer to take pictures of a plum tree in bloom?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould you be more likely to die of hypothermia in New York than Florida?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a carrot receive an organ transplant?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan too many oranges cause diarrhea?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nShould someone prone to jealousy be in a polyamorous relationship?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Homer Simpson need two hands worth of fingers to count to 5?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the judo rank system reach the triple digits?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs cactus fruit an important menu item for a restaurant based on Cuauht\u00e9moc?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Mike Tyson train to use the gogoplata?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Fiat Chrysler associated with Japanese cars?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan the history of art be learned by an amoeba?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid any Golden Globe winners attend John Kerry's alma mater?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould someone theoretically use an armadillo as a shield?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Post Malone have a fear of needles?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a Jujutsu expert hypothetically defeat a Janissary?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre pirate lieutenants like navy lieutenants?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a Hwasong-15 missile hypothetically reach Voyager 2?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIf your electric stove has a glass top, should you use cast iron skillets?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a sesame seed grow in the human body?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Ariana Grande's signature style combine comfort items and high fashion?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Maruti Suzuki Baleno an efficient car for Linus Torvald's family?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan Vice President of the United States kill with impunity?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Bruce Lee absent from the 1964 University of Washington graduation ceremony?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs a Coca plant farm likely to be found in Yakutsk?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre saltwater crocodiles related to alligators?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a rabbi save the soul of a Christian?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the Nepalese Civil War take place near India?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan rowing competitions take place indoors?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Jamie Brewer have attended the United States Naval Academy?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould largest asteroid crush a whole city?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a martyr saint have been excommunicated?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan nitric acid break the Louvre?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo hornets provide meaningful data for oceanographers?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Arnold Schwarzenegger hypothetically defeat Haf\u00fe\u00f3r Bj\u00f6rnsson in a powerlifting competition if both are at their peak strength?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Elizabeth II the Queen during the Persian Gulf War?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Modafinil be effective in completing a suicide?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Arnold Schwarzenegger be unable to run for President of the US?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan Herpes simplex virus spread on Venus?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Matt Damon be afraid of parachuting?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes The Doctor keep his ship in his childhood home?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs coal needed to practice parachuting?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould all of the people who pass through 30th Street Station every day fit in Dorton Arena?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the most expensive color in the world Blue?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs immersion in virtual reality testable on cnidarians before humans?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Little Women have been a book read by veterans of the civil war?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a fungal life-form be threatened by a pigment from copper?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the land in close proximity to beaver dams suffer?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the Illuminati card game still popular?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill Chick-fil-A hypothetically refuse to sponsor a Pride parade?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Larry King sign the Magna Carta?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas ethanol beneficial to Jack Kerouac's health?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nShould wool be hand washed only?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the history of Europe include the age of dinosaurs?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a firewall be destroyed by a hammer?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIf Martin Luther did one theses a day would he run out in half a year?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a recruit for the United States Marine Corps be turned away for self harm?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Hades have a loose grip on the Underworld?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre any of J.K. Rowling's books in the genre of And Then There Were None?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo people watching Coen brothers films in Guinea Bissau need subtitles?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Jeremy Irons master sweep picking as a child?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre the Vietnamese people a great untapped resource for NBA players?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Dr. Seuss make himself famous?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo calico cat patterns cover every drain fly color variety?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould you spend less on your food at Aldi than at Whole Foods?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo bald eagles nest on Mount Sharp?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes penicillin cure a learning disability?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a Goblin shark hypothetically ride a bike if it had limbs?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan I ski in Steamboat Springs, Colorado in August?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre months based on the solar cycle?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre pancakes typically prepared in a pot?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs watermelon safe for people with a tricarboxylic acid allergy?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Johann Sebastian Bach influence heavy metal?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a cheetah generate enough force to topple Big Show?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Lil Wayne legally operate a vehicle on his own at the beginning of his career?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Lord Voldemort taught by Professor Dumbledore?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the Watergate scandal help the Republican party?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the original lead guitarist of Metallica fail after parting from the band?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Iggy Pop named after his father?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the name C-SPAN refer to a form of telecommunications that utilizes outer space?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould the Powepuff Girls make the background to the Azerbaijani flag?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs sunscreen unhelpful for the condition that killed Bob Marley?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould an art dealer prize a print of a Van Goh?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you buy chlorine at a dollar store?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs hanging a viable execution method on a ship at sea?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs it safe to eat hair?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs a person with St. Vitus's Dance likely to win a ballet competition?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould morphine cure HIV?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Mario use mushrooms to run faster?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the QWERTY keyboard layout meant to be slow?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Nancy Pelosi have hypothetically been on same side as Gerald Ford?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a hedgehog avoid animals without a spinal cord?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the confederate states speak Old English before the Civil War?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Fiat Chrysler gaining a new overall corporate identity?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the United States of America touch the Indian Ocean?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Sophist's have hypothetically made good lawyers?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo solo pianists require a conductor?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan binary numbers and standard alphabet satisfy criteria for a strong password?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Andy Warhol influence Art Deco style?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs it dangerous to consume chlorine when mixed with sodium?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Super Mario require electricity to play?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan Chinese mountain cat survive in the orbit?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWere some people afraid of New Years Day coming in 1999?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre there Pink music videos that are triggering for eating disorder patients?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan someone from New England profit by growing coffee?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs a krabby patty similar to a cheeseburger?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a crocodile survive longer in Great Salt Lake than alligator?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a Diwali celebration feature a crustacean?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid goddess Friday is named after despise felines?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes a person suffering from Thalassophobia enjoy oceanography?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Evander Holyfield compete in an Olympics hosted in the western hemisphere?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre more watermelons grown in Brazil than Antarctica?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs euphoria associated with drug addiction?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Anthony Quinn more prolific at making children than J.D. Salinger?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas proofreading Edgar Allan Poe works lucrative?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould Eric Clapton's children play a regulation game of basketball among themselves?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a Porsche 992 Turbo S defeat Usain Bolt in a 100 meter sprint?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre any mollusks on Chinese New Year calendar?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan the theory of cultural hegemony explain global warming?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Christmas always celebrated on a Sunday?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan the Powerpuff Girls form a complete tag team wrestling match?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the Beatles write any music in the Disco genre?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas the original Metroid groundbreaking for its polygons?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nTata Hexa can accomodate every Spice Girl?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid University of Pittsburgh founder have great deal in common with Judith Sheindlin?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Canada have a relationship with a monarch?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a Pict be confused by Old English?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Charlemagne have a bar mitzvah?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo restaurants associate meatballs with the wrong country of origin?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan Centurylink max internet plan upload 1000GB in a fortnight?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the color green help Theodor Geisel become famous?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Central Park Zoo located on an island?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan Jabberwocky be considered a sonnet?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs a beard is moss that grows on a human?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a lemon aggravate dyspepsia?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould someone in Mumbai refer to Solanum melongena as an eggplant?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Krishna skilled at using the bow?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs surfing popular in Des Moines, Iowa?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Sugar Ray Robinson win a fight against Canelo Alvarez?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre red legs a sign of failing health in those with Anorexia Nervosa?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan Aerosmith fit in a 2020 Mitsubishi Outlander?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a Sphynx cat be used for wool?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre most mall Santa Claus actors white?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a person who knows only English read Kanji?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould four shoes be insufficient for a set of octuplets?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a software engineer work during a power outage?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a human following a hyena diet be unwelcome at a vegan festival?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Julia Roberts practice blast beats as a child?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAfter viewing the Mona Lisa, could you get lunch nearby on foot?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWere the Spice Girls inspired by Little Mix?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan you find Bob Marley's face in most smoke shops?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a blind person tell time by Big Ben?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Barack Obama participate in the Reformation?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs the Mona Lisa based on a real person?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Library of Alexandria need less shelf space than Library of Congress?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Hundred Years' War a misnomer?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Jean Valjean imprisoned due to hunger?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Holy Land belong to Adamu's tribe?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Mike Tyson do something very different than McGruff's slogan to Evander Holyfield in 1997?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs it normal for people to sing when the YMCA is mentioned?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Home Depot a one stop shop for crucifixion supplies?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan French Defence initial move defend against four move checkmate?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a vegetarian be able to eat something at Chick-fil-A?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre Scottish people Albidosi?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Osama bin Laden likely abstain from alcohol?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo urban legends always have to occur in cities?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Gandalf hypothetically a formidable foe for Charmed's Barbas?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a Bulgarian priest eat a four-course meal on Christmas Eve?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould the chef at Carmine's restaurant panic if there was no basil?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs MIX a word and a roman numeral?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Jean Harris's victim have avoided lentils?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the iPhone usher in the scientific revolution?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Van Gogh suffer from a mental disorder?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Great Pyramid of Giza the last wonder of its kind?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Alexander the Great baptized?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould someone on Venus be unlikely to experience hypothermia?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Benito Mussolini hypothetically play well in the NBA?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWere any of despised Pope Alexander VI's descendants canonized?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould you be likely to see storks at a baby shower?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo hyenas appear in a Broadway musical?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Christopher Columbus break the fifth commandment in Christianity?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs week old chlorine water safe to drink?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan 1980 United States presidential election result be considered a photo finish?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs a fever cured by listening to a cowbell?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Harry Houdini's wife make psychics look foolish?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Joan Crawford guest star on  JAG (TV series)?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Batman (1989 film) likely to be shown on flight from NY to Kansas City?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nHas Don King killed more people than Charles Manson did with his own hands in 1971?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould amoebas have played a part in the Black Death?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Ludacris have Greek heritage?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould the Pope be on an episode of Pimp My Ride?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Hamlet's author use email?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill a Holstein cow and the Liberty Bell balance out a giant scale?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan COVID-19 spread to maritime pilots?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre all twins the same gender?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Jack Black unlikely to compete with Bear McCreary for an award?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Southwest Airlines use bulk carriers?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs Steve Martin someone who would refuse a dish of shrimp pasta?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre blue lips normal?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan second row of QWERTY keyboard spell Abdastartus's kingdom?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan furniture be made of hair?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAs of 2020 have more women succeeded John Key than preceded him?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a wheelbarrow full of starch kill hyperglycemics?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the Pearl Harbor attack occur during autumn?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid Christina Aguilera turn her chair around for Kelly Clarkson on The Voice?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs World of Warcraft heavier than a loaf of bread?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nAre right wing Amreicans opposed to marxism?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Sam Harris worship Shiva?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nIs RoboCop director from same country as Gaite Jansen?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid eggs need to be kept cold in the middle ages?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Temujin hypothetically be jealous of Charlemagne's conquests?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Antarctica have a lot of problems relating to homelessness?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Roman Gallic Wars army struggle to build the pyramids faster?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo workers at Nissan's headquarters eat with chopsticks?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Rime of the Ancient Mariner make a good sonnet?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Long John Silver's serve sea otter?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan a prime number be represented by the number of days in a week?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas the Donatello crucifix identified in 2020 life size?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould a model be appropriate to star in a LA Femme Nikita remake?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan olive oil kill rabies?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould the first European visitor to Guam been friends with Queen Victoria?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould many meals heavy in brussels sprouts benefit someone on Coumadin?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the Prime Minister of the United Kingdom have poor job security?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan professional boxers expect to have low dental bills?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nHas type of political association Pompey had with Caesar influenced reality TV?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid the 23rd amendment give Puerto Ricans the right to vote for president?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDid original Nintendo have games in same format as Playstation 3?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould someone in a coma experience fear?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Andrew Johnson's presidential number exceed Elagabalus's Emperor number?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill silicon wedding rings outsell bromine wedding rings?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCould a two-year old win a Scrabble tournament?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Iris (mythology) and Hermes hypothetically struggle at a UPS job?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWas Dorothea Wendling from same place Porsche originated?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWould Tom Cruise ever insult L. Ron Hubbard?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDo any video games about the end of civilization have slot machines?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Alec Baldwin have more children than Clint Eastwood?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Hades appear in a Disney Channel musical movie?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nHave any members of the 2020 British royal family allegedly committed a felony?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nShould children be kept from \"special brownies\"?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill Futurama surpass the number of episodes of The Simpsons by the end of 2020?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nCan the US branch of government that has power over the military also have the power to veto?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWere the Great Pyramids built by a theocratic government?\nA:",
+    "output": "Yes"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nWill Oasis cruise boat traverse the Lincoln Tunnel?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes Snoop Dogg advocate a straight edge lifestyle?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nShould you ask a neighbor for candy on New Year's Eve?\nA:",
+    "output": "No"
+  },
+  {
+    "input": "Infer True(yes) or False(no) for the question.\n\nDoes the Boy Who Cried Wolf hypothetically have reason to pray to Pan?\nA:",
+    "output": "Yes"
+  }
+]

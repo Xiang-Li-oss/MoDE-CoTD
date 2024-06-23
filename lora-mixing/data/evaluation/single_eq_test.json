@@ -1,0 +1,610 @@
+[
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan found 70 seashells on the beach. she gave Sam some of her seashells. She has 27 seashell left. How many seashells did she give to Sam ?\nA:",
+    "output": "43.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Benny bought 4 new baseball trading cards to add to his collection. The next day his dog ate half of his collection. There are now only 34 cards left. How many cards did Benny start with ?\nA:",
+    "output": "64.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 2 pencils in the drawer. Tim placed 3 more pencils in the drawer. How many pencils are now there in total ?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sandy grew 6 carrots. Sam grew 3 carrots. How many carrots did they grow in total ?\nA:",
+    "output": "9.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tim's cat had kittens. He gave 3 to Jessica and 6 to Sara. He now has 9 kittens left. How many kittens did he have to start with ?\nA:",
+    "output": "18.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A restaurant served 5 cakes during lunch and 6 during dinner today. The restaurant served 3 cakes yesterday. How many cakes were served in total ?\nA:",
+    "output": "14.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Melanie picked 4 plums, Dan picked 9 plums, and Sally picked 3 plums from the plum tree. How many plums were picked in total ?\nA:",
+    "output": "16.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara picked 45 pears and Sally picked 11 pears from the pear tree. How many pears were picked in total ?\nA:",
+    "output": "56.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jason had 49 quarters in his bank. His dad gave him 25 more quarters. How many quarters does he have now ?\nA:",
+    "output": "74.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 33 walnut trees currently in the park. Park workers will plant  44 more walnut trees today. How many walnut trees will the park have when the workers are finished ?\nA:",
+    "output": "77.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 41 pencils in the drawer. Mike placed 30 more  pencils in the drawer. How many pencils are now there in total ?\nA:",
+    "output": "71.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan has 10 books. Tom has 38 books.  How many books do they have together ?\nA:",
+    "output": "48.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan has 40 blue balloons Melanie has 41 blue balloons. How many blue balloons do they have in total ?\nA:",
+    "output": "81.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 39 dogwood trees currently in the park. Park workers will plant  41 more dogwood trees today and 20 more dogwood trees tomorrow. How many dogwood trees will the park have when the workers are finished ?\nA:",
+    "output": "100.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sandy has 10 books, Benny has 24 books, and Tim has  33 books. How many books do they have together ?\nA:",
+    "output": "67.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Keith grew 29 cantelopes, Fred grew 16 cantelopes, and Jason grew  20 cantelopes. How many cantelopes did they grow in total ?\nA:",
+    "output": "65.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sally had 27 cards. Dan gave her 41 new cards. Sally bought 20 cards. How many cards does Sally have now ?\nA:",
+    "output": "88.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sandy is baking a cake. The recipe wants 7 cups of flour. She already put in 4 cups. How many more cups does she need to add ?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 53 maple trees currently in the park. Park workers will plant more maple trees today. When the workers are finished there will be 64 maple trees in the park. How many maple trees did the workers plant today ?\nA:",
+    "output": "11.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were 3 roses in the vase. Alyssa cut some more roses from her flower garden. There are now 14 roses in the vase. How many roses did she cut ?\nA:",
+    "output": "11.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tom found 7 seashells but 4 were broken.  How many unbroken seashells did Tom find ?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sally picked 7 lemons and Mary picked 9 lemons from the lemon tree. How many lemons were picked in total ?\nA:",
+    "output": "16.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan has 8 orange balloons  but lost 2 of them. How many orange balloons does Joan have now ?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tim has 44 books. Sam has 52 books.  How many books do they have together ?\nA:",
+    "output": "96.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 25 popular trees currently in the park. Park workers will plant  73 more popular trees today. How many popular trees will the park have when the workers are finished ?\nA:",
+    "output": "98.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree. How many pears were picked in all ?\nA:",
+    "output": "59.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam had 98 pennies in his bank. He spent 93 of his pennies. How many pennies does he have now ?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan found 79 seashells on the beach, she gave Mike 63 of the seashells. How many seashells does she now have ?\nA:",
+    "output": "16.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary picked 122 oranges and Jason picked 105 oranges from the orange tree. How many oranges were picked in total ?\nA:",
+    "output": "227.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Melanie grew 139 turnips. Benny grew 113 turnips. How many turnips did they grow in all ?\nA:",
+    "output": "252.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jason has 676 Pokemon cards. Alyssa bought 224 of Jason's  Pokemon cards. How many Pokemon cards does Jason have now ?\nA:",
+    "output": "452.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 115 pencils in the drawer. Sara placed 100 more  pencils in the drawer. How many pencils are now there in all ?\nA:",
+    "output": "215.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mike has 45 dollars in 5 dollar bills.  How many five dollars bills does  he have ?\nA:",
+    "output": "9.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Fred has 110 blue marbles. Fred has 22 times more blue marbles than Tim. How many blue marbles does Tim have?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sally earns $25.00 for each house she cleans. If she cleans 96 houses, how many dozens of dollars will she make?\nA:",
+    "output": "200.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara saw 96 birds in a tree. How many dozen birds did Sara see?\nA:",
+    "output": "8.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara has 192 golf balls. How many dozen golf balls does she have?\nA:",
+    "output": "16.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mike has 48 books. Alyssa has 8 times more books than  Mike. How many dozen books does Alyssa have?\nA:",
+    "output": "32.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara, Keith, Benny, and Alyssa each have 96 baseball cards.  How many dozen baseball cards do they have in all?\nA:",
+    "output": "32.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 2 rose bushes currently in the park. Park workers will plant 4 more rose bushes today. How many rose bushes will the park have when the workers are finished ?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara picked 6 pears and Tim picked 5 pears from the pear tree. How many pears were picked in total ?\nA:",
+    "output": "11.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 3 calories in a candy bar. How many calories are there in 5 candy bars ?\nA:",
+    "output": "15.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan has 5 blue marbles. Mary has 2 times more blue marbles than Dan. How many blue marbles does Mary have ?\nA:",
+    "output": "10.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were a total of 12 basketball games in the season. The season is played for 2 months. How many basketball games were played each month, if each month has the same number of games?\nA:",
+    "output": "6.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 1110 students at a school. If each classroom holds 30 students, how many classrooms are needed at the school?\nA:",
+    "output": "37.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sally grew 6 carrots. Fred grew 4 carrots. How many carrots did they grow in all ?\nA:",
+    "output": "10.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tom found 5 seashells on the beach. he gave Jessica 2 of the seashells. How many seashells does he now have ?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sam, Dan, Tom, and Keith each have 14 Pokemon cards.  How many Pokemon cards do they have in all ?\nA:",
+    "output": "56.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tim has 13 dozen golf balls. How many golf balls does he have ?\nA:",
+    "output": "156.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 31 calories in a candy bar. How many calories are there in 11 candy bars ?\nA:",
+    "output": "341.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Nancy has saved 1 dozen quarters from washing cars.  How much money does Nancy have ?\nA:",
+    "output": "3.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 4 dozen calories in a candy bar. How many calories are there in 42 candy bars ?\nA:",
+    "output": "2016.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Melanie, Benny, Sandy, and Jessica each have 9 dozen Pokemon cards.  How many Pokemon cards do they have in all ?\nA:",
+    "output": "432.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sally saw 1 dozen birds in a tree. How many birds did Sally see ?\nA:",
+    "output": "12.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara goes fishing with Melanie. Sara catches 5 trout. Melanie catches 2 times as many trout as Sara. How many trout did Melanie catch ?\nA:",
+    "output": "10.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sally has 6 blue balloons. Fred has 3 times more  blue balloons than Sally. How many blue balloons does Fred have now ?\nA:",
+    "output": "18.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There were a total of 7 baseball games a month.  The season is played for 2 months. How many baseball games are in a season ?\nA:",
+    "output": "14.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mary had 8 potatoes in the garden. The rabbits ate 3 of the potatoes. How many potatoes does Mary now have ?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 7 crayons in the drawer. Mary took 3 crayons out of the drawer. How many crayons are there now ?\nA:",
+    "output": "4.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dan picked 9 limes and gave Sara 4 of the limes.  How many limes does Dan have now ?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan has 9 blue balloons  but lost 2 of them. How many blue balloons does Joan have now ?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Alyssa's high school played 31 hockey games this year. She attended  13 games. How many hockey games did Alyssa miss ?\nA:",
+    "output": "18.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sara grew 43 pumpkins, but the rabbits ate 23 pumpkins. How many pumpkins does Sara have left ?\nA:",
+    "output": "20.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Joan decided to sell all of her old books. She gathered up 33 books to sell. She sold 26 books in a yard sale. How many books does Joan now have ?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 46 rulers in the drawer. Tim took 25  rulers from the drawer. How many rulers are now in the drawer ?\nA:",
+    "output": "21.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: When Joan was visited by the toothfairy, she received 14 each of quarters, half-dollars, and dimes. How much money did the toothfairy leave Joan?\nA:",
+    "output": "11.9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: On Wednesday, Joan spent 4 half-dollars playing pinball. The next day, she spent 14 half-dollars on pinball. What was the total amount Joan spent playing pinball?\nA:",
+    "output": "9.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While digging through her clothes for ice cream money, Joan found 15 dimes in her jacket, and 4 dimes in her shorts. How much money did Joan find?\nA:",
+    "output": "1.9"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Sandy went to the mall to buy clothes. She spent $13.99 on shorts, $12.14 on a shirt, and $7.43 on a jacket. How much money did Sandy spend on clothes?\nA:",
+    "output": "33.56"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mike bought some toys. He bought marbles for $9.05, a football for $4.95, and spent $6.52 on a baseball. In total, how much did Mike spend on toys?\nA:",
+    "output": "20.52"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Christina just transferred $69 out of her bank account. As a result, the account now has $26,935 left in it. How much money was in the account before the transfer?\nA:",
+    "output": "27004.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Last year at Newberg's airport, 14,507 passengers landed on time. Unfortunately, 213 passengers landed late. In all, how many passengers landed in Newberg last year?\nA:",
+    "output": "14720.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A dust storm sweeps across the prairie. It covers 64,535 acres of the prairie in dust, but leaves 522 acres untouched. How many acres does the prairie cover?\nA:",
+    "output": "65057.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A bathing suit manufacturer has a supply of 14,797 bathing suits for men. In addition, it has 4,969 bathing suits for women. How many bathing suits are available overall?\nA:",
+    "output": "19766.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jonathan wants to buy a dictionary that costs $11, a dinosaur book that costs $19, and a children's cookbook that costs $7. He has saved $8 from his allowance. How much more money does Jonathan need to buy all three books?\nA:",
+    "output": "29.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Dana earns $13 per hour. She worked 9 hours on Friday, 10 hours on Saturday, and 3 hours on Sunday. How much money did Dana earn in all?\nA:",
+    "output": "286.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kylie was collecting coins. She got 15 coins from her piggy bank and 13 coins from her brother. Her father gave Kylie 8 coins. Kylie gave 21 of the coins to her friend Laura. How many coins did Kylie have left?\nA:",
+    "output": "15.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Elise had $8. Then she saved $13 from her allowance and spent $2 on a comic book and $18 on a puzzle. How much money does Elise have left?\nA:",
+    "output": "1.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Luke had 20 stickers. He bought 12 stickers from a store in the mall and got 20 stickers for his birthday. Then Luke gave 5 of the stickers to his sister and used 8 to decorate a greeting card. How many stickers does Luke have left?\nA:",
+    "output": "39.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Johnny saved $30 in September. He saved $49 in October and $46 in November. Then Johnny spent $58 on a video game. How much money does Johnny have left?\nA:",
+    "output": "67.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Vincent bought 10 books about animals, 1 book about outer space, and 3 books about trains. Each book cost $16. How much did Vincent spend on the books?\nA:",
+    "output": "224.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 24 bicycles and 14 tricycles in the storage area at Danny's apartment building. Each bicycle has 2 wheels and each tricycle has 3 wheels. How many wheels are there in all?\nA:",
+    "output": "90.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Adam bought 9 packages of cat food and 7 packages of dog food. Each package of cat food contained 10 cans, and each package of dog food contained 5 cans. How many more cans of cat food than dog food did Adam buy?\nA:",
+    "output": "55.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Randy needs 53 cupcakes for a birthday party. He already has 7 chocolate cupcakes and 19 vanilla cupcakes. How many more cupcakes should Randy buy?\nA:",
+    "output": "32.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ellen went to a garage sale to buy chairs. Each chair is 15 dollars. How much did Ellen spend for the 12 chairs she bought?\nA:",
+    "output": "180.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kendall is learning to drive, so this weekend she practiced driving 0.16666666666666666 of a mile with her mother and another 0.5 of a mile with her father. How far did Kendall drive in all?\nA:",
+    "output": "0.6666666666666666"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A tailor cut 0.75 of an inch off a skirt and 0.5 of an inch off a pair of pants. How much more did the tailor cut off the skirt than the pants?\nA:",
+    "output": "0.25"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At Lindsey's Vacation Wear, 0.375 of the garments are bikinis and 0.25 are trunks. What fraction of the garments are either bikinis or trunks?\nA:",
+    "output": "0.625"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Darnel sprinted 0.875 of a lap and then took a break by jogging 0.75 of a lap. How much farther did Darnel sprint than jog?\nA:",
+    "output": "0.125"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Each day, the polar bear at Richmond's zoo eats 0.2 of a bucket of trout and 0.4 of a bucket of salmon. How many buckets of fish does the polar bear eat daily?\nA:",
+    "output": "0.6"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jenny ran 0.6 of a mile and walked 0.4 of a mile. How much farther did Jenny run than walk?\nA:",
+    "output": "0.2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Michelle began her pizza delivery route with 0.5 of a tank of gas in her car. When she made it back to the pizzeria, 0.16666666666666666 of a tank of gas was left. How much gas did Michelle use?\nA:",
+    "output": "0.3333333333333333"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jonah added 0.3 of a cup of yellow raisins and 0.4 of a cup of black raisins to a batch of trail mix. How many cups of raisins did Jonah add in all?\nA:",
+    "output": "0.7"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In Yardley it snowed 0.125 of an inch in the morning and 0.5 of an inch in the afternoon. What was the total amount of snowfall?\nA:",
+    "output": "0.625"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: While making pastries, a bakery used 0.2 of a bag of wheat flour and 0.1 of a bag of white flour. How many bags of flour did the bakery use in all?\nA:",
+    "output": "0.3"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: During a canned food drive, items were sorted into bins. The drive resulted in 0.125 of a bin of soup, 0.125 of a bin of vegetables, and 0.5 of a bin of pasta. Altogether, how many bins would the canned food take up?\nA:",
+    "output": "0.75"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paco's Countertop Company purchased pieces of marble from a quarry. The weights of the pieces they purchased were 0.3333333333333333 of a ton, 0.3333333333333333 of a ton, and 0.08333333333333333 of a ton. How many tons of marble did Paco's Countertop Company purchase in all?\nA:",
+    "output": "0.75"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Nina did a running drill to get in shape for soccer season. First, Nina ran 0.08333333333333333 of a mile. Then she ran 0.08333333333333333 of a mile and 0.6666666666666666 of a mile more. How many miles did Nina run in total?\nA:",
+    "output": "0.8333333333333334"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Last Saturday, Spencer walked all over town running errands. First, he walked 0.3 of a mile from his house to the library and 0.1 of a mile from the library to the post office. Then he walked 0.4 of a mile from the post office back home. How many miles did Spencer walk in all?\nA:",
+    "output": "0.8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A construction company ordered 0.16666666666666666 of a ton of concrete, 0.16666666666666666 of a ton of bricks, and 0.5 of a ton of stone. How many tons of material did the company order in all?\nA:",
+    "output": "0.8333333333333334"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Logan recorded the snowfall every day during a snowstorm. He recorded 0.3333333333333333 of a centimeter on Wednesday, 0.3333333333333333 of a centimeter on Thursday, and 0.2222222222222222 of a centimeter on Friday. How many total centimeters of snow did Logan record?\nA:",
+    "output": "0.8888888888888888"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: This afternoon Craig left school, rode the bus 3.8333333333333335 miles, and then walked 0.16666666666666666 of a mile to get home. How much farther did Craig ride than walk?\nA:",
+    "output": "3.6666666666666665"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Professor Ellison weighed two pieces of metal for an experiment. The piece of iron weighed 11.166666666666666 pounds and the piece of aluminum weighed 0.8333333333333334 of a pound. How much more did the piece of iron weigh than the piece of aluminum?\nA:",
+    "output": "10.333333333333334"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Hoping to be named Salesperson of the Month, Rosa called the names from 10.2 pages of the phone book last week. This week, she called the people listed on another 8.6 pages of the same phone book. How many pages worth of people did Rosa call in all?\nA:",
+    "output": "18.8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: At the beach, Janet and her sister both built sandcastles and then measured their heights. Janet's sandcastle was 3.6666666666666665 feet tall and her sister's was 2.3333333333333335 feet tall. How much taller was Janet's sandcastle than her sister's?\nA:",
+    "output": "1.3333333333333333"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Terrell hiked 8.2 miles on Saturday. Then, on Sunday, he hiked another 1.6 miles. How far did Terrell hike all together?\nA:",
+    "output": "9.8"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A carpenter bought a piece of wood that was 0.41 meters long. Then she sawed 0.33 meters off the end. How long is the piece of wood now?\nA:",
+    "output": "0.08"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. How many pounds of snacks did she buy in all?\nA:",
+    "output": "0.5"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Ron weighed two colored metal balls during a science class. The blue ball weighed 6 pounds and the brown ball weighed 3.12 pounds. If Ron places both balls on the scale at the same time, what will the scale read?\nA:",
+    "output": "9.12"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: It snowed 0.32 inches on Monday and 0.21 inches on Tuesday. How much did it snow on Monday and Tuesday combined?\nA:",
+    "output": "0.53"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A chef bought 0.14 kilograms of almonds and 0.38 kilograms of pecans. How many kilograms of nuts did the chef buy in all?\nA:",
+    "output": "0.52"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A truck carrying 4.1 pounds of sand travels to a construction yard and loses 2.4 pounds of sand along the way. How much sand does the truck have when it arrives at the yard?\nA:",
+    "output": "1.7"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The Ferris wheel in Paradise Park has 14 seats. Each seat can hold 6 people. How many people can ride the Ferris wheel at the same time?\nA:",
+    "output": "84.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: There are 261 fishbowls. Each fishbowl has 23 fish. How many fish are there?\nA:",
+    "output": "6003.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The farmers reported that they harvest 45 sacks of apples from each of the 8 sections of the orchard daily. How many sacks are harvested every day?\nA:",
+    "output": "360.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lewis then went to see the oranges being harvested. Lewis found out that they harvest 83 sacks per day. How many sacks of oranges will they have after 6 days of harvest?\nA:",
+    "output": "498.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lewis saved checking on the grapevines for his last stop. He was told by one of the pickers that they fill 324 drums of grapes per day. How many drums of grapes would be filled in 9 days?\nA:",
+    "output": "2916.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The next act involved several jugglers. If each juggler is juggling 6 balls at a time, how many balls are needed if there are 378 jugglers putting a show at the same time?\nA:",
+    "output": "2268.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For the final act, the circus brought out dancing animals wearing crowns. If each crown is made with 7 different colored feathers, how many feathers are needed for 934 crowns?\nA:",
+    "output": "6538.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The library is divided into different sections for different type of books. The science fiction section has 8 books. If each book has 478 pages, how many pages do all the books have in total?\nA:",
+    "output": "3824.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In Haley\u2019s class, 5 are boys who love to play marbles. If Haley has 35 marbles, how many will each of the boys receive?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: A large bag of balls was kept under Haley\u2019s bed. Her mom placed the balls in bags for children in foster homes. If every bag can contain 4 balls and Haley has 36 balls, how many bags will be used?\nA:",
+    "output": "9.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Haley has 63 magazines in her cabinet. She plans to send it to the recycling office in their area. If she places it in boxes which can contain 9 magazines, how many boxes will Hayley use?\nA:",
+    "output": "7.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Betty also bought 140 shiny blue round stones. If 14 pieces of this stone is in each bracelet, how many bracelets of blue shiny round stones will there be?\nA:",
+    "output": "10.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Jane helped her mom prepare fresh lemonade. If each glass needs 2 lemons, how many glasses of fresh lemonade can she make if they have 18 lemons?\nA:",
+    "output": "9.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: For dessert, Jane\u2019s mom prepared 12 pieces of bite-size cinnamon swirls. If the 3 of them ate an equal number of pieces of cinnamon swirls, how many pieces did Jane eat?\nA:",
+    "output": "4.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lizette has 813 stamps. Lizette has 125 more stamps than Minerva. How many stamps does Minerva have?\nA:",
+    "output": "688.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Uncle Dave bought 143 ice cream sandwiches. If he wants to give them to his 11 hungry nieces, how many can each niece get?\nA:",
+    "output": "13.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Paco had 93 cookies. Paco ate 15 of them. How many cookies did Paco have left?\nA:",
+    "output": "78.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Kelly has 121 Nintendo games. How many does Kelly need to give away so that Kelly will have 22 games left?\nA:",
+    "output": "99.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Connie has 2315 red markers and 1028 blue markers. How many markers does Connie have altogether?\nA:",
+    "output": "3343.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: James has 1222 balloons. Amy has 513 balloons. How many more balloons does James have than Amy?\nA:",
+    "output": "208.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Connie has 323 marbles. Juan has 175 more marbles than Connie. How many marbles does Juan have?\nA:",
+    "output": "498.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: If each ball costs $1.54, how much must Kyoko pay for 3 balls?\nA:",
+    "output": "4.62"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The Sumata family took a 5 day vacation by car. Each day they drove 250 miles. How many total miles did they drive?\nA:",
+    "output": "1250.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The town of Milburg has 5256 grown-ups and 2987 children. How many people live in Milburg?\nA:",
+    "output": "8243.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lisa rented 4 DVDs for $4.80. How much did each DVD cost to rent?\nA:",
+    "output": "1.2"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Students went to a concert in 8 buses. Each bus took 45 students. How many students went to the concert?\nA:",
+    "output": "360.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Marcia spent 300 minutes working on her science project. How many hours did Marcia spend on her science project?\nA:",
+    "output": "5.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: In one week, an airplane pilot flew 1134 miles on Tuesday and 1475 miles on Thursday. If the pilot flies the same number of miles 3 weeks in a row, how many miles does the pilot fly in all?\nA:",
+    "output": "7827.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 6 students were sitting at each table in the lunchroom. There are 34 tables. How many students were sitting in the lunchroom?\nA:",
+    "output": "204.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Tyler had 15 dogs. Each dog had 5 puppies. How many puppies does Tyler now have?\nA:",
+    "output": "75.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: The farmer had 127 apples. The farmer gave 88 apples to his neighbor. How many apples does the farmer have now?\nA:",
+    "output": "39.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mrs. Hilt uses 2 ounces of detergent to wash a pound of clothes. How many ounces of soap will Mrs. Hilt use to wash 9 pounds of clothes?\nA:",
+    "output": "18.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mrs. Hilt saw a rollercoaster. 7 students rode the rollercoaster every 5 minutes. How many students rode the rollercoaster in 15 minutes?\nA:",
+    "output": "21.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Mrs. Hilt measured the distance from her desk to the water fountain. It was 30 feet. How many feet will Mrs. Hilt walk on her trips to the fountain if she goes to the water fountain 4 times today?\nA:",
+    "output": "120.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Lucy has 212 fish. How many more fish does Lucy need to buy to have 280 fish?\nA:",
+    "output": "68.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Chris has been saving his allowance to buy a new pair of soccer cleats and a ball. His grandmother gave Chris $25 for his birthday. His aunt and uncle gave Chris $20 and his parents gave him $75. Now Chris had $279. How much money did Chris have before his birthday?\nA:",
+    "output": "159.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Harry Hound had a terrible earache yesterday. When I peered into his ears yesterday, I found 36 frisky fleas having a party in his right ear and 85 baby fleas sleeping peacefully in his left ear. I cleaned out Harry Hound's ears. How many fleas perished?\nA:",
+    "output": "121.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: David has 7 boxes of stuffed toy dogs. Each box has 4 dogs in it. How many dogs are there in all?\nA:",
+    "output": "28.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: 532 people are watching a movie in a theater. The theater has 750 seats. How many seats are empty in the theater?\nA:",
+    "output": "218.0"
+  },
+  {
+    "input": "Infer the correct answer for the question.\n\nQ: Manuel opened a savings account with an initial deposit of 177 dollars. If he wants to save 500 dollars during the next 19 weeks , how much must he save each week , in dollars?\nA:",
+    "output": "17.0"
+  }
+]
